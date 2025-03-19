@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "General Knowledge Test 1",
+        "total_questions": 10,
+        "score": 0,
+        "category": "Upcoming",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+    },
+    {
+        "id": 2,
+        "title": "Science Test 1",
+        "total_questions": 15,
+        "score": 0,
+        "category": "Upcoming",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+    }
+]
