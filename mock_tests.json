@@ -38,5 +38,29 @@
         "score": 10,
         "category": "Full Mock Test",
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Biology.json"
+    },
+    {
+        "id": 6,
+        "title": "test for upcoming",
+        "total_questions": 20,
+        "score": 0,
+        "category": "Upcoming Test",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Child%20Psychology.json"
+    },
+    {
+        "id": 7,
+        "title": "test for previous",
+        "total_questions": 10,
+        "score": 5,
+        "category": "Previous Test",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Chemistry.json"
+    },
+    {
+        "id": 8,
+        "title": "Test for full mock",
+        "total_questions": 25,
+        "score": 10,
+        "category": "Full Mock Test",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Biology.json"
     }
 ]
