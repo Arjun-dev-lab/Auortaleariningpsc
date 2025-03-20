@@ -1,0 +1,602 @@
+[
+      {
+        "id": 1,
+        "question": "The Author of `Prithvi Raj Raso' was:",
+        "options": ["Chandra Bardai", "Gopal Nayak", "Gorak Nath", "Amir Khusrau"],
+        "answer": "Chandra Bardai"
+      },
+      {
+        "id": 2,
+        "question": "The first Carnatic war came to an end with the:",
+        "options": ["Treaty of Pondicherry", "Treaty of Paris", "Treaty of Aix-la-Chappelle", "Treaty of Srirangapatanam"],
+        "answer": "Treaty of Aix-la-Chappelle"
+      },
+      {
+        "id": 3,
+        "question": "Permanent land Revenue settlement was introduced in Bengal by:",
+        "options": ["Robert Clive", "Warren Hastings", "Lord Wellesley", "Lord Cornwallis"],
+        "answer": "Lord Cornwallis"
+      },
+      {
+        "id": 4,
+        "question": "'Doctrine of Lapse' was applied by:",
+        "options": ["Lord Wellesley", "Lord Canning", "Lord Dalhousie", "Lord William Bentinck"],
+        "answer": "Lord Dalhousie"
+      },
+      {
+        "id": 5,
+        "question": "Principles of Panchesheel were framed in:",
+        "options": ["Colombo", "Hong Kong", "Bandung", "Moscow"],
+        "answer": "Bandung"
+      },
+      {
+        "id": 6,
+        "question": "The author of 'India Today':",
+        "options": ["M.N. Roy", "R.P. Dutt", "Deenabandhu Mitra", "Dadabhai Naoroji"],
+        "answer": "R.P. Dutt"
+      },
+      {
+        "id": 7,
+        "question": "Local Self Govt. in India, for the first time was introduced by:",
+        "options": ["Lord Curzon", "Lord Lytton", "Lord Rippon", "Lord Minto"],
+        "answer": "Lord Rippon"
+      },
+      {
+        "id": 8,
+        "question": "The President of Pakistan who signed the Tashkent Agreement after the Indo-Pak War of 1965 was:",
+        "options": ["Yahya Khan", "Ayub Khan", "Zulfiker Ali Bhutto", "Mujibur Rahman"],
+        "answer": "Ayub Khan"
+      },
+      {
+        "id": 9,
+        "question": "The war between India and China took place in:",
+        "options": ["1960", "1961", "1962", "1967"],
+        "answer": "1962"
+      },
+      {
+        "id": 10,
+        "question": "Tashkent Pact was signed between:",
+        "options": ["Indira Gandhi and Mr. Bhutto", "Nehru and Firoz Khan", "Gulsarilal Nanda and Iskand Misra", "Lal Bahadur Shastri and Ayub Khan"],
+        "answer": "Lal Bahadur Shastri and Ayub Khan"
+      },
+      {
+        "id": 11,
+        "question": "Mamamkam, the great ancient regional festival was held at:",
+        "options": ["Parappanadu", "Thirunavai", "Vettathunadu", "Nedungadu"],
+        "answer": "Thirunavai"
+      },
+      {
+        "id": 12,
+        "question": "Kollam Era began:",
+        "options": ["A.D. 78", "A.D. 825", "A.D. 53", "A.D. 622"],
+        "answer": "A.D. 825"
+      },
+      {
+        "id": 13,
+        "question": "The longest river in Kerala:",
+        "options": ["Bharathapuzha", "Periyar", "Chandragiripuzha", "Pampa"],
+        "answer": "Periyar"
+      },
+      {
+        "id": 14,
+        "question": "Mixed colony system was introduced by:",
+        "options": ["Almeda", "Albuquerque", "Robert Clive", "Cabral"],
+        "answer": "Albuquerque"
+      },
+      {
+        "id": 15,
+        "question": "Sathujana Paripalana Yogam was started by:",
+        "options": ["C. Kesavan", "K. Kelappan", "Ayyankali", "Sree Narayana Guru"],
+        "answer": "Ayyankali"
+      },
+      {
+        "id": 16,
+        "question": "The first Chief Minister of Travancore popular ministry:",
+        "options": ["Pattam Thanupillai", "T.M. Varghese", "C. Kesavan", "T.K. Narayanapillai"],
+        "answer": "Pattam Thanupillai"
+      },
+      {
+        "id": 17,
+        "question": "The temple entry proclamation was issued by:",
+        "options": ["Swathi Thirunal", "Sreemulam Thirunal", "Chithira Thirunal Balarama Varma", "Ayilyam Thirunal"],
+        "answer": "Chithira Thirunal Balarama Varma"
+      },
+      {
+        "id": 18,
+        "question": "Malayalee Sabha was organized by:",
+        "options": ["Barrister G.P. Pillai", "Paramupillai", "C. Krishna Pillai", "Mannath Padmanabhan"],
+        "answer": "Barrister G.P. Pillai"
+      },
+      {
+        "id": 19,
+        "question": "Cochin State Prajamandal was formed in:",
+        "options": ["6th Jan. 1935", "16th Jan. 1941", "12th Aug. 1945", "7th July 1946"],
+        "answer": "16th Jan. 1941"
+      },
+      {
+        "id": 20,
+        "question": "Electricity Agitation of Cochin was against the decision of the Diwan:",
+        "options": ["Nanjappayan", "Sankara Warrier", "Venkata Subbayya", "Sri R.K. Shanmukhan Chetti"],
+        "answer": "Sri R.K. Shanmukhan Chetti"
+      },
+      {
+        "id": 21,
+        "question": "A Thermos flask is polished well:",
+        "options": ["to make it more attractive", "for shining", "to absorb all radiation from outside", "to reflect all radiation from outside"],
+        "answer": "to reflect all radiation from outside"
+      },
+      {
+        "id": 22,
+        "question": "Co-efficient of thermal conductivity depends on:",
+        "options": ["heat produced", "atmospheric pressure", "difference in temperature", "difference in temperature"],
+        "answer": "difference in temperature"
+      },
+      {
+        "id": 23,
+        "question": "A device used to detect heat radiation is known as:",
+        "options": ["Barometer", "Thermo couple", "Thermopile", "Thermo electric generator"],
+        "answer": "Thermopile"
+      },
+      {
+        "id": 24,
+        "question": "Which of the following is a compound?",
+        "options": ["milk", "22 carat gold", "steam", "diamond"],
+        "answer": "steam"
+      },
+      {
+        "id": 25,
+        "question": "Hardest naturally occurring substance:",
+        "options": ["Gold", "Tungsten", "Black diamond", "Magnesium"],
+        "answer": "Black diamond"
+      },
+      {
+        "id": 26,
+        "question": "A form of carbon used in Gas masks:",
+        "options": ["Activated charcoal", "Wood charcoal", "Sugar charcoal", "Lamp black"],
+        "answer": "Activated charcoal"
+      },
+      {
+        "id": 27,
+        "question": "The gas used in the Refrigerator is:",
+        "options": ["Freon", "Krypton", "Argon", "Neon"],
+        "answer": "Freon"
+      },
+      {
+        "id": 28,
+        "question": "Estimation of halogens in organic compound is done by:",
+        "options": ["Duma's method", "Messenger's method", "Carrius method", "Kjeldahl's method"],
+        "answer": "Carrius method"
+      },
+      {
+        "id": 29,
+        "question": "The metal which does not react with dilute sulphuric acid:",
+        "options": ["Iron", "Tin", "Magnesium", "Lead"],
+        "answer": "Lead"
+      },
+      {
+        "id": 30,
+        "question": "In free state, hydrogen is present in:",
+        "options": ["Natural gas", "Sun", "Petroleum", "Mineral salts"],
+        "answer": "Sun"
+      },
+      {
+        "id": 31,
+        "question": "The disease caused by the deficiency of vitamin A:",
+        "options": ["Xerophthalmia", "Scurvy", "Rickets", "Beri beri"],
+        "answer": "Xerophthalmia"
+      },
+      {
+        "id": 32,
+        "question": "The insect which lays eggs in water is:",
+        "options": ["Butterfly", "Housefly", "Sandfly", "Dragonfly"],
+        "answer": "Dragonfly"
+      },
+      {
+        "id": 33,
+        "question": "The mosquito that spreads malaria in man is named:",
+        "options": ["Male anopheles", "Female anopheles", "Stagomia", "Culex"],
+        "answer": "Female anopheles"
+      },
+      {
+        "id": 34,
+        "question": "Which is the function of the white blood corpuscles?",
+        "options": ["to produce anti-toxin", "to carry excretory material", "to carry oxygen", "to carry microbes that cause disease"],
+        "answer": "to produce anti-toxin"
+      },
+      {
+        "id": 35,
+        "question": "Which of the process liberates energy?",
+        "options": ["Digestion", "Respiration", "Photosynthesis", "Osmosis"],
+        "answer": "Respiration"
+      },
+      {
+        "id": 36,
+        "question": "During the solar eclipse, which of the following represents the relative position of the sun, moon and earth correctly?",
+        "options": ["the sun in between the earth and the moon", "the moon in between the sun and the earth", "the sun, moon and earth are not in a single line", "the earth between the sun and the moon"],
+        "answer": "the moon in between the sun and the earth"
+      },
+      {
+        "id": 37,
+        "question": "A degree of Longitude has about the same length as a degree of Latitude at:",
+        "options": ["North pole", "Antarctic circle", "Equator", "Tropical"],
+        "answer": "Equator"
+      },
+      {
+        "id": 38,
+        "question": "The supersonic aircraft find it most convenient to fly in the:",
+        "options": ["ionosphere", "mesosphere", "troposphere", "stratosphere"],
+        "answer": "stratosphere"
+      },
+      {
+        "id": 39,
+        "question": "Seismograph is used to measure:",
+        "options": ["Atmospheric pressure", "Earthquake", "Rain", "Storm"],
+        "answer": "Earthquake"
+      },
+      {
+        "id": 40,
+        "question": "Which one among the following is known as 'Pittsburg of India'?",
+        "options": ["Jamshedpur", "Rourkela", "Baroda", "Durgapur"],
+        "answer": "Jamshedpur"
+      },
+      {
+        "id": 41,
+        "question": "The first political leader who got Nobel prize for literature:",
+        "options": ["Gorbachev", "Mahatma Gandhi", "Winston Churchill", "George Bush"],
+        "answer": "Winston Churchill"
+      },
+      {
+        "id": 42,
+        "question": "The winner of Women's Wimbledon Championship of 2007:",
+        "options": ["Maria Sharapova", "Justine Henin", "Bartholi Yelina Yancowich", "Venus Williams"],
+        "answer": "Venus Williams"
+      },
+      {
+        "id": 43,
+        "question": "Present secretary general of United Nations:",
+        "options": ["Kofi Annan", "Ban Ki-Moon", "Kurt Waldheim", "Boutros Boutros-Ghali"],
+        "answer": "Ban Ki-Moon"
+      },
+      {
+        "id": 44,
+        "question": "Jim Corbett National Park is in:",
+        "options": ["Punjab", "Orissa", "West Bengal", "Uttarakhand"],
+        "answer": "Uttarakhand"
+      },
+      {
+        "id": 45,
+        "question": "The country used paper currency first in the world:",
+        "options": ["India", "America", "Russia", "China"],
+        "answer": "China"
+      },
+      {
+        "id": 46,
+        "question": "Father of cell phone:",
+        "options": ["Samuel F.", "Morse B Martin Cooper", "Alexander Graham Bell", "J.P. Reis"],
+        "answer": "Martin Cooper"
+      },
+      {
+        "id": 47,
+        "question": "The modern quantity theory of money was developed by:",
+        "options": ["Milton Friedman", "Walker", "Schumpeter", "Karl Marx"],
+        "answer": "Milton Friedman"
+      },
+      {
+        "id": 48,
+        "question": "Consumer Protection Act was enacted in the year:",
+        "options": ["1996", "1986", "1976", "1956"],
+        "answer": "1986"
+      },
+      {
+        "id": 49,
+        "question": "National Flag of India was designed by:",
+        "options": ["B.R. Ambedkar", "Jawaharlal Nehru", "Mahatma Gandhi", "Pingali Venkayya"],
+        "answer": "Pingali Venkayya"
+      },
+      {
+        "id": 50,
+        "question": "Human Rights day is observed all over the world every year on:",
+        "options": ["10th December", "25th December", "7th November", "24th October"],
+        "answer": "10th December"
+      },
+      {
+        "id": 51,
+        "question": "Gautama Buddha was born at:",
+        "options": ["Saranath", "Rajagrih", "Kusinagar", "Lumbini"],
+        "answer": "Lumbini"
+      },
+      {
+        "id": 52,
+        "question": "The Chera king known as 'Red Chera':",
+        "options": ["Senkuttuvan", "Arikala", "Nedunjeraldan", "Elara"],
+        "answer": "Senkuttuvan"
+      },
+      {
+        "id": 53,
+        "question": "Alexander the great defeated:",
+        "options": ["Darius III", "Selucus", "Ambhi", "Porus"],
+        "answer": "Darius III"
+      },
+      {
+        "id": 54,
+        "question": "Indica was written by:",
+        "options": ["Asoka", "Megasthenes", "Chandragupta Maurya", "Kautilya"],
+        "answer": "Megasthenes"
+      },
+      {
+        "id": 55,
+        "question": "The second Buddhist council was held at:",
+        "options": ["Vallabhi", "Vaisali", "Pataliputra", "Rajagriha"],
+        "answer": "Vaisali"
+      },
+      {
+        "id": 56,
+        "question": "Who is popularly known as Indian Napoleon:",
+        "options": ["Ashoka", "Samudragupta", "Sree Gupta", "Chandragupta 1"],
+        "answer": "Samudragupta"
+      },
+      {
+        "id": 57,
+        "question": "Last king of the Kakatiya dynasty:",
+        "options": ["Prataparudra II", "Rudramadevi", "Mahadeva", "Ganapatideva"],
+        "answer": "Prataparudra II"
+      },
+      {
+        "id": 58,
+        "question": "In the second battle of Tarrain in 1192, Mohammed Gori defeated:",
+        "options": ["Harsha", "Pulakesin II", "Prithviraj Chauhan", "Mohammed Gazni"],
+        "answer": "Prithviraj Chauhan"
+      },
+      {
+        "id": 59,
+        "question": "The king on the throne of Vijayanagar at the time of the battle of Talikota:",
+        "options": ["Krishnadevaraya", "Sadasivaraya", "Achutadevaraya", "Ramaraya"],
+        "answer": "Sadasivaraya"
+      },
+      {
+        "id": 60,
+        "question": "Qutb-ud-din Aibak built the Quwaat-ul-Islam mosque to commemorate his capture:",
+        "options": ["Kanauj", "Delhi", "Ajmer", "Aligarh"],
+        "answer": "Ajmer"
+      },
+      {
+        "id": 61,
+        "question": "The wisest fool of medieval India is:",
+        "options": ["Giassudin Balben", "Alauddin Khilji", "Firoz Shah Tughlaq", "Mohammed-bin-Tughlaq"],
+        "answer": "Mohammed-bin-Tughlaq"
+      },
+      {
+        "id": 62,
+        "question": "'Tarikh-i-Firoz Shahi' was written by:",
+        "options": ["Al-Biruni", "Ziauddin Barani", "Firoz Shah Tughlaq", "Abul Fazal"],
+        "answer": "Ziauddin Barani"
+      },
+      {
+        "id": 63,
+        "question": "Ibn Batuta, the famous Arab Scholar visited India during the reign of:",
+        "options": ["Akbar", "Alauddin Khilji", "Qutub-ud-din Aibek", "Muhammad-bin-Tughlaq"],
+        "answer": "Muhammad-bin-Tughlaq"
+      },
+      {
+        "id": 64,
+        "question": "`Purana Quila' in Delhi was built by:",
+        "options": ["Humayun", "Qutub-ud-din Aibek", "Shah Jahan", "Shersha"],
+        "answer": "Shersha"
+      },
+      {
+        "id": 65,
+        "question": "'AshtraPratan' was the council of Ministers of:",
+        "options": ["Delhi Sultans", "Mughals", "Marathas", "Vijayanagar rulers"],
+        "answer": "Marathas"
+      },
+      {
+        "id": 66,
+        "question": "`Zapti' is the land revenue system introduced by:",
+        "options": ["Shersha", "Akbar", "Jahangir", "Aurangazeb"],
+        "answer": "Akbar"
+      },
+      {
+        "id": 67,
+        "question": "Jahangir the Mughal ruler murdered the Sikh Guru:",
+        "options": ["Guru Tegh Bahadur", "Guru Arjan Singh", "Guru Hare Rai", "Guru Hare Govind"],
+        "answer": "Guru Arjan Singh"
+      },
+      {
+        "id": 68,
+        "question": "The Mughal Gardens-Shalimar and Nishad in Srinagar were built by:",
+        "options": ["Shah Jahan", "Aurangazeb", "Jahangir", "Akbar"],
+        "answer": "Jahangir"
+      },
+      {
+        "id": 69,
+        "question": "'Ustad Isa' was the Architect of:",
+        "options": ["Red fort", "Juma Masjid", "Pearl Mosque", "Taj Mahal"],
+        "answer": "Taj Mahal"
+      },
+      {
+        "id": 70,
+        "question": "Harihara and Bukka laid the foundation of:",
+        "options": ["Hoysala empire", "Kakatiya empire", "Vijayanagar empire", "Yadava kingdom"],
+        "answer": "Vijayanagar empire"
+      },
+      {
+        "id": 71,
+        "question": "If the driver ........... the brake, the car would have hit the old man:",
+        "options": ["did not apply", "has not applied", "had applied", "had not applied"],
+        "answer": "had not applied"
+      },
+      {
+        "id": 72,
+        "question": "There weren't any hotels nearby, .............. ?",
+        "options": ["were they", "was there", "were there", "wasn't it"],
+        "answer": "was there"
+      },
+      {
+        "id": 73,
+        "question": "It was with great difficulty he gained entry to the auditorium, but he made a sudden ...........:",
+        "options": ["exit", "departure", "arrival", "passage"],
+        "answer": "exit"
+      },
+      {
+        "id": 74,
+        "question": "The thieves not only robbed the travellers ............. , beat them up:",
+        "options": ["but", "and", "also", "but also"],
+        "answer": "but also"
+      },
+      {
+        "id": 75,
+        "question": "I .......... him the truth, if I were you:",
+        "options": ["will tell", "would tell", "told", "shall tell"],
+        "answer": "would tell"
+      },
+      {
+        "id": 76,
+        "question": "Would you mind .......... the door?",
+        "options": ["to shut", "to have shut", "shut", "shutting"],
+        "answer": "shutting"
+      },
+      {
+        "id": 77,
+        "question": "I wish he .......... settle the issue soon:",
+        "options": ["will", "would", "shall", "may"],
+        "answer": "would"
+      },
+      {
+        "id": 78,
+        "question": "The appropriate meaning of 'run-of-the-mill':",
+        "options": ["running a mill", "exciting", "very important", "ordinary"],
+        "answer": "ordinary"
+      },
+      {
+        "id": 79,
+        "question": "Midhun said 'Do you enjoy cricket'? (Change into indirect speech):",
+        "options": ["Midhun asked me if I enjoyed cricket", "Midhun asked me if I enjoy cricket", "Midhun asked me if I did not enjoy cricket", "Midhun asked me if I had enjoyed cricket"],
+        "answer": "Midhun asked me if I enjoyed cricket"
+      },
+      {
+        "id": 80,
+        "question": "One must always be careful in ........... dealings with others:",
+        "options": ["his", "their", "one's", "our"],
+        "answer": "one's"
+      },
+      {
+        "id": 81,
+        "question": "Rahul is very rich. He can buy a car (Combine using 'enough'):",
+        "options": ["Rahul is rich enough to buy a car", "Rahul is enough rich to buy a car", "Rahul is enough rich and he can buy a car", "Rahul is very rich enough to buy a car"],
+        "answer": "Rahul is rich enough to buy a car"
+      },
+      {
+        "id": 82,
+        "question": "Meaning of the Phrase 'Ad hoc':",
+        "options": ["Permanent", "initial", "formed for some special purpose", "substitute"],
+        "answer": "formed for some special purpose"
+      },
+      {
+        "id": 83,
+        "question": "Everyone looked up to him (Change into passive voice):",
+        "options": ["He was looked up to by everyone", "He is looked up to by everyone", "He is being looked up to by everyone", "He was being looked up to by everyone"],
+        "answer": "He was looked up to by everyone"
+      },
+      {
+        "id": 84,
+        "question": "This juice is made ........... fresh oranges:",
+        "options": ["of", "by", "with", "from"],
+        "answer": "from"
+      },
+      {
+        "id": 85,
+        "question": "Our Chief Minister is a person of long experience in politics (Use one word for the words underlined):",
+        "options": ["master", "veteran", "leader", "expert"],
+        "answer": "veteran"
+      },
+      {
+        "id": 86,
+        "question": "The mis spelt word among the following words: Synonym, Synagogue, Symposiam, Symptom:",
+        "options": ["Symptom", "Symposiam", "Synagogue", "Synonym"],
+        "answer": "Symposiam"
+      },
+      {
+        "id": 87,
+        "question": "When the police interrogated the thief, he made a clean breast of everything (Meaning of the idiom underlined):",
+        "options": ["pleaded innocent", "denied", "confessed", "contradicted"],
+        "answer": "confessed"
+      },
+      {
+        "id": 88,
+        "question": "It is five years .......... I retired:",
+        "options": ["after", "when", "from", "since"],
+        "answer": "since"
+      },
+      {
+        "id": 89,
+        "question": "The bundle is so heavy that I cannot lift it (Use 'too' instead of `so that'):",
+        "options": ["The bundle is too heavy for me to lift", "The bundle is too heavy that I cannot lift it", "The bundle is too heavy not to lift it", "The bundle is too heavy than I can lift it"],
+        "answer": "The bundle is too heavy for me to lift"
+      },
+      {
+        "id": 90,
+        "question": "The word which is nearest in meaning to the word 'profound':",
+        "options": ["deep", "profitable", "Mysterious", "complex"],
+        "answer": "deep"
+      },
+      {
+        "id": 91,
+        "question": "Which Article of the Constitution provides protection to civil servants:",
+        "options": ["Article 288", "Article 311", "Article 178", "Article 183"],
+        "answer": "Article 311"
+      },
+      {
+        "id": 92,
+        "question": "The Election Commissioner can be removed by:",
+        "options": ["The president", "The Home Minister", "The Prime Minister", "The Parliament"],
+        "answer": "The Parliament"
+      },
+      {
+        "id": 93,
+        "question": "By which Amendment of Indian Constitution Goa, Daman and Diu were added to Indian Union:",
+        "options": ["11th Amendment", "12th Amendment", "13th Amendment", "15th Amendment"],
+        "answer": "12th Amendment"
+      },
+      {
+        "id": 94,
+        "question": "Which part is described as Magna Carta of Indian Constitution:",
+        "options": ["Part III", "Part II", "Part IV A", "Part V"],
+        "answer": "Part III"
+      },
+      {
+        "id": 95,
+        "question": "Article 371 (i) as special provision is given to the state of:",
+        "options": ["Andhra Pradesh", "Manipur", "Goa", "Nagaland"],
+        "answer": "Nagaland"
+      },
+      {
+        "id": 96,
+        "question": "Who is the highest law officer of India:",
+        "options": ["Attorney General", "Advocate General", "President of India", "Chief Justice"],
+        "answer": "Attorney General"
+      },
+      {
+        "id": 97,
+        "question": "Which of the following is the largest Lok Sabha Constituency:",
+        "options": ["Kangra", "Ladakh", "Kutch", "Bhilwara"],
+        "answer": "Ladakh"
+      },
+      {
+        "id": 98,
+        "question": "Scheduled Castes and Tribes (Prevention of Atrocities) Act was passed in:",
+        "options": ["1989", "1987", "1988", "1986"],
+        "answer": "1989"
+      },
+      {
+        "id": 99,
+        "question": "`Swaraj is my birthright and I shall have it`:",
+        "options": ["Mahatma Gandhi", "Bala Gangadar Tilak", "Nehru", "Bhagat Singh"],
+        "answer": "Bala Gangadar Tilak"
+      },
+      {
+        "id": 100,
+        "question": "The newspaper `Al Hilal` was started in:",
+        "options": ["1910", "1912", "1920", "1940"],
+        "answer": "1912"
+      }
+    ]
