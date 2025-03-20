@@ -4,13 +4,13 @@
         "title": "Full Mock Test 1",
         "total_questions": 50,
         "score": 40,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
     },
     {
         "id": 2,
         "title": "Full Mock Test 2",
         "total_questions": 60,
         "score": 50,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/full_mock_test_2.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/physics.json"
     }
 ]

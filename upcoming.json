@@ -5,7 +5,7 @@
         "total_questions": 10,
         "score": 0,
         "category": "Upcoming",
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
     },
     {
         "id": 2,
@@ -13,6 +13,6 @@
         "total_questions": 15,
         "score": 0,
         "category": "Upcoming",
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
     }
 ]

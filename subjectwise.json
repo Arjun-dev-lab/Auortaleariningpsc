@@ -4,13 +4,13 @@
         "title": "Physics Test 1",
         "total_questions": 20,
         "score": 15,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
     },
     {
         "id": 4,
         "title": "History Test 1",
         "total_questions": 25,
         "score": 18,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/refs/heads/main/Physics.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
     }
 ]
