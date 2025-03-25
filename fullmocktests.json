@@ -7,9 +7,8 @@
     },
     {
         "id": 2,
-        "title": "Full Mock Test 2",
-        "total_questions": 60,
-        "score": 50,
+        "title": "10th prelims 2021",
+        "total_questions": 100,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/physics.json"
     }
 ]
