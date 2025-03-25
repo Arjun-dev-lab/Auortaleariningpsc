@@ -3,12 +3,12 @@
         "id": 1,
         "title": "Secratariat Assistant 2018",
         "total_questions": 100,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/secratriateassistant1.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/fullTest/secratriateassistant1.json"
     },
     {
         "id": 2,
         "title": "10th prelims 2021",
         "total_questions": 100,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/physics.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/fullTest/10th-prelims-1.json"
     }
 ]
