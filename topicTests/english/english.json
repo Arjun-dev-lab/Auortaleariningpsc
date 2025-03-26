@@ -9,6 +9,7 @@
     {
         "id": 2,
         "title": "Gerund",
+        "total_questions": 30,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Gerund.json"
     }
 ]
