@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "category": "Science",
+        "title": "Science",
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/english/english.json"
     },
     {
         "id": 2,
-        "category": "English",
+        "title": "English",
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/science/science.json"
     }
 ]
