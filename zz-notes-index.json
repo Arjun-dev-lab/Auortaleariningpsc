@@ -1,0 +1,15 @@
+[
+    {
+      "id": "1",
+      "heading": "History",
+      "Chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/History.json"
+    },
+    {
+      "id": "2",
+      "heading": "Geography",
+      "Chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/geography.json"
+    }
+  ]
+  
