@@ -1,16 +1,12 @@
 [
     {
-        "id": 3,
-        "title": "Physics Test 1",
-        "total_questions": 20,
-        "score": 15,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
+        "id": 1,
+        "category": "Science",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/english/english.json"
     },
     {
-        "id": 4,
-        "title": "History Test 1",
-        "total_questions": 25,
-        "score": 18,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Physics.json"
+        "id": 2,
+        "category": "English",
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/science/science.json"
     }
 ]

@@ -1,0 +1,442 @@
+[
+    {
+      "id": 1,
+      "question": "'Please come in' is a/an sentence. (LDC KOZHIKODE 2003)",
+      "options": [
+        "Imperative",
+        "Assertive",
+        "Interrogative",
+        "Exclamatory"
+      ],
+      "answer": "Imperative"
+    },
+    {
+      "id": 2,
+      "question": "The polite form is. (Sub inspector trainee - 2005)",
+      "options": [
+        "May you come to my house",
+        "Will you come to my house",
+        "Would you come to my house",
+        "Can you come to my house"
+      ],
+      "answer": "Can you come to my house"
+    },
+    {
+      "id": 3,
+      "question": "Which one of these is a correct sentence. (Tribal Extension Officer-2005)",
+      "options": [
+        "Why you is silent?",
+        "Where do you hails from?",
+        "When will the trains arrive?",
+        "How has you entered?"
+      ],
+      "answer": "When will the trains arrive?"
+    },
+    {
+      "id": 4,
+      "question": "_____ is paper made of? (LDC Ernakulam 2005)",
+      "options": [
+        "Which",
+        "Who",
+        "How",
+        "What"
+      ],
+      "answer": "What"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an imperative sentence? (LDC Ernakulam 2005)",
+      "options": [
+        "He has opened the door",
+        "Have you opened the door",
+        "Open the door",
+        "How nicely he opens the door"
+      ],
+      "answer": "Open the door"
+    },
+    {
+      "id": 6,
+      "question": "______ funny you are! (LDC Pathanamthitta & Kasaragod 2007)",
+      "options": [
+        "How",
+        "What's",
+        "Who",
+        "Which"
+      ],
+      "answer": "How"
+    },
+    {
+      "id": 7,
+      "question": "______ are you waiting for? (LDC Kozhikode 2007)",
+      "options": [
+        "Why",
+        "When",
+        "What",
+        "How"
+      ],
+      "answer": "What"
+    },
+    {
+      "id": 8,
+      "question": "______ enough food for all? (Female Warden - 2008)",
+      "options": [
+        "Are there",
+        "Is there",
+        "Where there",
+        "Were there"
+      ],
+      "answer": "Is there"
+    },
+    {
+      "id": 9,
+      "question": "Jayan said something (Choose the question): (Panchayat Secretary - 2008)",
+      "options": [
+        "What did Jayan say?",
+        "What does Jayan say?",
+        "What Jayan say?",
+        "What has Jayan said?"
+      ],
+      "answer": "What did Jayan say?"
+    },
+    {
+      "id": 10,
+      "question": "______ is he up to? (Excise Preventive Officer 2008)",
+      "options": [
+        "Who",
+        "How",
+        "Which",
+        "What"
+      ],
+      "answer": "What"
+    },
+    {
+        "id": 11,
+        "question": "______ exciting the journey was! (Excise Preventive Officer 2008)",
+        "options": [
+        "Which",
+        "How",
+        "What",
+        "Where"
+        ],
+        "answer": "How"
+    },
+    {
+        "id": 12,
+        "question": "______ exciting the journey was? (Forest guard - 2009)",
+        "options": [
+        "What",
+        "Who",
+        "When",
+        "How"
+        ],
+        "answer": "How"
+    },
+    {
+        "id": 13,
+        "question": "______ is he up to? (Forest guard - 2009)",
+        "options": [
+        "Who",
+        "What",
+        "How",
+        "When"
+        ],
+        "answer": "What"
+    },
+    {
+        "id": 14,
+        "question": "May God help you. This is an _____ sentence: (Fireman Trainee (SC/ST)- 2009)",
+        "options": [
+        "Assertive",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+        ],
+        "answer": "Imperative"
+    },
+    {
+        "id": 15,
+        "question": "Where ______? (I.H.R.D. Office Assistant - 2010)",
+        "options": [
+        "Did you cut your hair",
+        "Have you cut your hair",
+        "Did you have cut your hair",
+        "Did you have your hair cut"
+        ],
+        "answer": "Did you have your hair cut"
+    },
+    {
+        "id": 16,
+        "question": "_______ will captain the college team? (Fireman Trainee - 2010)",
+        "options": [
+        "Who",
+        "Which",
+        "When",
+        "What"
+        ],
+        "answer": "Who"
+    },
+    {
+        "id": 17,
+        "question": "_____ your breakfast already? (Fireman Trainee - 2010)",
+        "options": [
+        "Have you had",
+        "Had you",
+        "Do you have",
+        "Has had"
+        ],
+        "answer": "Have you had"
+    },
+    {
+        "id": 18,
+        "question": "______ a lovely place? (Female Warden - 2010)",
+        "options": [
+        "What",
+        "How",
+        "When",
+        "Who"
+        ],
+        "answer": "What"
+    },
+    {
+        "id": 19,
+        "question": "______ does he manage to live? (Female Warden - 2010)",
+        "options": [
+        "Who",
+        "How",
+        "What",
+        "Which"
+        ],
+        "answer": "How"
+    },
+    {
+        "id": 20,
+        "question": "Identify the complex sentence: (Asst. Gr. II/Clerk/Jr. Asst. 2011)",
+        "options": [
+        "Oven's piano plays well",
+        "Oven has a piano and it plays well",
+        "Oven has a piano which plays well",
+        "Oven has a piano but it doesn't play well"
+        ],
+        "answer": "Oven has a piano which plays well"
+    },
+    {
+        "id": 21,
+        "question": "\"Help me to do this work\" is an example of: (LDC IDK-2013)",
+        "options": [
+          "Declarative sentence",
+          "Interrogative sentence",
+          "Imperative sentence",
+          "Exclamatory sentence"
+        ],
+        "answer": "Imperative sentence"
+      },
+      {
+        "id": 22,
+        "question": "'The moon shines at night'. Is an example of: (LDC KLM 2013)",
+        "options": [
+          "Imperative sentence",
+          "Interrogative sentence",
+          "Declarative sentence",
+          "Exclamatory sentence"
+        ],
+        "answer": "Declarative sentence"
+      },
+      {
+        "id": 23,
+        "question": "\"It is a very wonderful opportunity\". The sentence is _______. (LDC ALPA 2013)",
+        "options": [
+          "Imperative",
+          "Exclamatory",
+          "Assertive",
+          "Interrogative"
+        ],
+        "answer": "Assertive"
+      },
+      {
+        "id": 24,
+        "question": "\"Don't play at night\". Is a/an _______ sentence. (LDC TVM-2013)",
+        "options": [
+          "Affirmative",
+          "Negative",
+          "Imperative",
+          "Interrogative"
+        ],
+        "answer": "Imperative"
+      },
+      {
+        "id": 25,
+        "question": "She stood on tip-toe: She plucked the flowers. The simple sentence of these sentences is: (VEO (KLM) 2014)",
+        "options": [
+          "She stood on tip-toe and plucked flowers",
+          "Standing on tip-toe, she plucked the flowers",
+          "As soon as she stood on tip-toe she plucked flowers",
+          "While she stood on tip-toe, she plucked the flowers"
+        ],
+        "answer": "Standing on tip-toe, she plucked the flowers"
+      },
+      {
+        "id": 26,
+        "question": "'What a beautiful scene!' Is a/an _______ sentence. (WPC (TSR, KNR) 2014)",
+        "options": [
+          "Positive",
+          "Declarative",
+          "Exclamatory",
+          "Imperative"
+        ],
+        "answer": "Exclamatory"
+      },
+      {
+        "id": 27,
+        "question": "A ______ is made up of two or more main clauses. (High School Assi. English 2015)",
+        "options": [
+          "Simple sentence",
+          "Complex sentence",
+          "Kernel sentence",
+          "Compound sentence"
+        ],
+        "answer": "Compound sentence"
+      },
+      {
+        "id": 28,
+        "question": "'Please come in' is______sentence. (Lab. Asst. KHSE 2016)",
+        "options": [
+          "Assertive",
+          "Interrogative",
+          "Imperative",
+          "Exclamatory"
+        ],
+        "answer": "Imperative"
+      },
+      {
+        "id": 29,
+        "question": "\"It is a lovely scene\" is an example for: (LD Clerk 2016)",
+        "options": [
+          "Exclamatory sentence",
+          "Assertive sentence",
+          "Imperative sentence",
+          "Interrogative sentence"
+        ],
+        "answer": "Assertive sentence"
+      },
+      {
+        "id": 30,
+        "question": "How cute the baby looks! (Computer Assi. Gr. II 2016)",
+        "options": [
+          "Interrogative sentence",
+          "Exclamatory sentence",
+          "Declarative sentence",
+          "Imperative sentence"
+        ],
+        "answer": "Exclamatory sentence"
+      },
+      {
+        "id": 31,
+        "question": "Identify the sentence \"Look before you leap\". (Civil excise Officer-2017)",
+        "options": [
+          "Interrogative",
+          "Imperative",
+          "Declarative",
+          "Exclamatory"
+        ],
+        "answer": "Imperative"
+      },
+      {
+        "id": 32,
+        "question": "He practices cricket and football regularly is a:",
+        "options": [
+          "Simple sentence",
+          "Complex sentence",
+          "Compound sentence",
+          "Compound complex"
+        ],
+        "answer": "Compound sentence"
+      },
+      {
+        "id": 33,
+        "question": "Which of the following sentences is an example of a complex sentence? (KAS Officer in Kerala Administrative Service (Supplementary exam for Gazetted teaching staff in Education Department) - PAPER II 29/12/2020)",
+        "options": [
+          "He is very rich, still he is not happy",
+          "The hunter killed the lion with just one shot",
+          "He took his walking-stick, locked the door and went out",
+          "The candidate who topped the list in the I.A.S. examination this year is from Nagpur"
+        ],
+        "answer": "The candidate who topped the list in the I.A.S. examination this year is from Nagpur"
+      },
+      {
+        "id": 34,
+        "question": "\"What is your occupation?\" The sentence is (Stenographer - KSIDC Ltd - 08/10/2020)",
+        "options": [
+          "Exclamatory sentence",
+          "Interrogative sentence",
+          "Imperative sentence",
+          "Declarative sentence"
+        ],
+        "answer": "Interrogative sentence"
+      },
+      {
+        "id": 35,
+        "question": "Which is an imperative sentence? (UP School Teacher (Malayalam Medium) - Education Department 07.11.2020)",
+        "options": [
+          "He is so cute!",
+          "The plant is green",
+          "Where is my rabbit?",
+          "Read this book now."
+        ],
+        "answer": "Read this book now."
+      },
+      {
+        "id": 36,
+        "question": "Direction: Identify the following sentence pattern and mark your answer in the response sheet: When everything fails, God helps you. (Kas Officer (Junior Time Scale) Trainee - Kerala Administrative Service 22/02/2020)",
+        "options": [
+          "Simple sentence",
+          "Compound sentence",
+          "Complex sentence",
+          "Compound-complex sentence"
+        ],
+        "answer": "Complex sentence"
+      },
+      {
+        "id": 37,
+        "question": "'Rice is the staple food of Kerala.' Is an _________. (LD Clerk SR for ST only in Various -2020)",
+        "options": [
+          "Exclamatory sentence",
+          "Assertive sentence",
+          "Imperative sentence",
+          "Interrogative sentence"
+        ],
+        "answer": "Assertive sentence"
+      },
+      {
+        "id": 38,
+        "question": "Change the following assertive sentence into an interrogative sentence. That pie can feed eight people. (Ldc Kannada Knowing - 02/11/2021)",
+        "options": [
+          "Can pie feed that eight people?",
+          "Can feed eight people that pie?",
+          "Can that pie feed eight people?",
+          "Can eight people feed that pie?"
+        ],
+        "answer": "Can that pie feed eight people?"
+      },
+      {
+        "id": 39,
+        "question": "Select the most appropriate response to the head of the office who asks an employee who has come in late, 'Do you know what time it is?' (High Court Assistant 27/02/2022)",
+        "options": [
+          "Ten o'clock",
+          "Ten o'clock, madam",
+          "I'm sorry I'm late, madam",
+          "Yes, ma'am"
+        ],
+        "answer": "I'm sorry I'm late, madam"
+      },
+      {
+        "id": 40,
+        "question": "How old are you? This sentence is ______. (Inspecting Assistant - 28/02/2022)",
+        "options": [
+          "Imperative",
+          "Declarative",
+          "Interrogative",
+          "Exclamatory"
+        ],
+        "answer": "Interrogative"
+      }
+]
