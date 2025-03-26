@@ -2,13 +2,13 @@
     {
       "id": "1",
       "heading": "History",
-      "Chapters": "10",
+      "chapters": "10",
       "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/history.json"
     },
     {
       "id": "2",
       "heading": "Geography",
-      "Chapters": "10",
+      "chapters": "10",
       "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/geography.json"
     }
   ]
