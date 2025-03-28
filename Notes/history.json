@@ -1,15 +1,14 @@
 [
-    {
-      "id": "1",
-      "title": "Indian Freedom Struggle",
-      "pdfUrl": "https://drive.google.com/file/d/1x899fIa_MczhZ6gC0tJHuJbX1KL0J_Cv/view?usp=drive_link",
-   
-    },
-    {
-      "id": "2",
-      "title": "World War Events",
-      "pdfUrl": "https://drive.google.com/file/d/1x899fIa_MczhZ6gC0tJHuJbX1KL0J_Cv/view?usp=drive_link",
-
-    }
-  ]
-  
+  {
+    "id": "1",
+    "title": "Indian Freedom Struggle",
+    "topics": "First War of Independence, Indian National Congress, Non-Cooperation Movement, Civil Disobedience Movement, Quit India Movement, Salt March, Subhas Chandra Bose, Mahatma Gandhi, Jawaharlal Nehru, Sardar Patel",
+    "pdfUrl": "https://drive.google.com/file/d/1x899fIa_MczhZ6gC0tJHuJbX1KL0J_Cv/view?usp=drive_link"
+  },
+  {
+    "id": "2",
+    "title": "World War Events",
+    "topics": "First World War, Second World War",
+    "pdfUrl": "https://drive.google.com/file/d/1x899fIa_MczhZ6gC0tJHuJbX1KL0J_Cv/view?usp=drive_link",
+  }
+]
