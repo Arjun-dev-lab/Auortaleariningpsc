@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "question": "They haven’t spent the night ‘there’. (Decide which part of speech is underlined)",
+      "options": ["Adjective", "Adverb", "Verb", "Preposition"],
+      "answer": "Adverb"
+    },
+    {
+      "id": 2,
+      "question": "Monkeys are _____ learners than elephants.",
+      "options": ["faster", "very fast", "more faster", "more fast"],
+      "answer": "faster"
+    },
+    {
+      "id": 3,
+      "question": "The train runs at a speed of 65 kms ______ hour.",
+      "options": ["a", "an", "the", "none of the above"],
+      "answer": "an"
+    },
+    {
+      "id": 4,
+      "question": "You should decide which one of the three choices. A, B or C best ______ the question.",
+      "options": ["answer", "answered", "answers", "none of the above"],
+      "answer": "answers"
+    },
+    {
+      "id": 5,
+      "question": "Everybody has attended the conference, _______?",
+      "options": ["didn't they", "have they", "hasn't they", "haven't they"],
+      "answer": "haven't they"
+    },
+    {
+      "id": 6,
+      "question": "Joy Thomas ______ the marathon for the first time in 2009.",
+      "options": ["is running", "ran", "runs", "has run"],
+      "answer": "ran"
+    },
+    {
+      "id": 7,
+      "question": "She wouldn't have yawned the whole day if she _____ late last night.",
+      "options": ["doesn't stay up", "didn't stay up", "hadn't stayed up", "don't stay up"],
+      "answer": "hadn't stayed up"
+    },
+    {
+      "id": 8,
+      "question": "We often go fishing _______ the river bank.",
+      "options": ["along", "inside", "towards", "around"],
+      "answer": "along"
+    },
+    {
+      "id": 9,
+      "question": "She has three children ______ her first husband.",
+      "options": ["of", "in", "by", "from"],
+      "answer": "by"
+    },
+    {
+      "id": 10,
+      "question": "Priya said to him, \"Why are you working so hard\"? (Choose the correct reported speech of the Direct Speech given above)",
+      "options": [
+        "Priya asked him why he was working so hard",
+        "Priya asked him why was he working so hard",
+        "Priya asked him why he has been working so hard",
+        "Priya asked him why he had been working so hard"
+      ],
+      "answer": "Priya asked him why he was working so hard"
+    },
+    {
+      "id": 11,
+      "question": "A _______ of geese was heard a mile away.",
+      "options": ["litter", "herd", "goggle", "none of the above"],
+      "answer": "none of the above"
+    },
+    {
+      "id": 12,
+      "question": "_____ money is invested by experienced investors who know about what they are doing.",
+      "options": ["Clever", "Genial", "Intelligent", "Smart"],
+      "answer": "Smart"
+    },
+    {
+      "id": 13,
+      "question": "Choose the synonym of \"Embezzle\".",
+      "options": ["Misappropriate", "Balance", "Remunerate", "Clear"],
+      "answer": "Misappropriate"
+    },
+    {
+      "id": 14,
+      "question": "Find the antonym of \"Quiescent\" from the following",
+      "options": ["Dormant", "Active", "Weak", "Unconcerned"],
+      "answer": "Active"
+    },
+    {
+      "id": 15,
+      "question": "My parents told me that I would have to ______ them when they become old. (Use appropriate phrasal verb from the following)",
+      "options": ["look for", "look at", "look after", "look into"],
+      "answer": "look after"
+    },
+    {
+      "id": 16,
+      "question": "Find a word suitable for the expression \"The style in which the writer makes a display of his knowledge\".",
+      "options": ["Verbose", "Pedantic", "Pompous", "Ornate"],
+      "answer": "Pedantic"
+    },
+    {
+      "id": 17,
+      "question": "Choose the correctly spelt word from among the following.",
+      "options": ["Ignouminious", "Ignomenious", "Ignominious", "Ignomineous"],
+      "answer": "Ignominious"
+    },
+    {
+      "id": 18,
+      "question": "Choose the meaning of the given idiom. \"To pick holes\"",
+      "options": [
+        "To find some reason to quarrel",
+        "To destroy something",
+        "To eat some part of an item",
+        "To criticize someone"
+      ],
+      "answer": "To criticize someone"
+    },
+    {
+      "id": 19,
+      "question": "Many medications have other _______ besides the intended one.",
+      "options": ["Affects", "Effects", "Taste", "None of the above"],
+      "answer": "Effects"
+    },
+    {
+      "id": 20,
+      "question": "Thousands of people have taken part in a ______ democracy demonstration. (Choose the correct prefix from the following)",
+      "options": ["for", "by", "of", "pro"],
+      "answer": "pro"
+    }
+    ]
