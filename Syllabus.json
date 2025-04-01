@@ -1,0 +1,13 @@
+[
+    {
+      "id": "1",
+      "heading": "Degree prelims",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/degree-prilims.json"
+    },
+    {
+      "id": "2",
+      "heading": "10th prelims",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/10-th-prilims.json"
+    }
+  ]
+  
