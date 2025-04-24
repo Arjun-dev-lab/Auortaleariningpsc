@@ -3,19 +3,19 @@
         "id": 1,
         "title": "Indian History Gandhi (English)",
         "total_questions": 20,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/social/IndianHistory.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/History/IndianHistory.json"
     
     },
     {
         "id": 2,
         "title": "Indian History Gandhi - 2 (English)",
         "total_questions": 26,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/social/IndianHistory_2.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/History/IndianHistory_2.json"
     },
     {
         "id": 3,
         "title": "Indian History - 3 Gandhi (Malayalam)",
         "total_questions": 20,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/social/IndianHistory_3.json"
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/History/IndianHistory_3.json"
     }
 ]
