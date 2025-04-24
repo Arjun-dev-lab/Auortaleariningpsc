@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Who wrote \"The Untold Story of Kasturba: Wife of Mahatma Gandhi\"?",
+    "options": ["Arun and Sunanda Gandhi", "Prabhudas Gandhi", "Gopal and Rajmohan Gandhi", "Kanu Gandhi"],
+    "answer": "Arun and Sunanda Gandhi"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote \"Power of Peace\"?",
+    "options": ["Thouro", "Ruskin", "Leo Tolstoy", "Topras Pen"],
+    "answer": "Ruskin"
+  },
+  {
+    "id": 3,
+    "question": "Phoenix Farm was established",
+    "options": ["To fight with British", "To gather Indian", "To talk with current Government", "For the printing of Indian opinion"],
+    "answer": "For the printing of Indian opinion"
+  },
+  {
+    "id": 4,
+    "question": "Gandhi was called \"Bhangi Shiromani\" first time in",
+    "options": ["South Africa", "Champaran", "Britain", "Kheda movement"],
+    "answer": "South Africa"
+  },
+  {
+    "id": 5,
+    "question": "Who told Gandhi about the apartheid and discrimination in Transwal?",
+    "options": ["Abdul Gani Seth", "Ali Brothers", "Abdulla Brothers", "Shaikh Mehtab Ali"],
+    "answer": "Abdul Gani Seth"
+  },
+  {
+    "id": 6,
+    "question": "How long did Gandhi travel in Dandi yatra?",
+    "options": ["385 km", "375 km", "365 km", "395 km"],
+    "answer": "385 km"
+  },
+  {
+    "id": 7,
+    "question": "Who was against \"Non-Co-operation Movement\" and left Congress Party?",
+    "options": ["Chotu Ram", "Bal Gangadhar Tilak", "Lala Lajpat Rai", "Annie Besant"],
+    "answer": "Chotu Ram"
+  },
+  {
+    "id": 8,
+    "question": "Who said \"The light has gone out of our lives\" when Gandhi died?",
+    "options": ["Jawaharlal Nehru", "Rajendra Prasad", "Sardar Vallabhbhai Patel", "C. Gopalachari"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 9,
+    "question": "Gandhi had declared hartal against Rowlatt Act from 30th March 1919 but it was postponed and date shifted to",
+    "options": ["7th April 1919", "6th April 1919", "5th April 1919", "4th April 1919"],
+    "answer": "6th April 1919"
+  },
+  {
+    "id": 10,
+    "question": "Gandhi had started \"Tour to India\" from",
+    "options": ["Ahmedabad", "Pune", "Surat", "Bombay"],
+    "answer": "Bombay"
+  },
+  {
+    "id": 11,
+    "question": "Who had told Gandhi \"Half-naked Fakir\"?",
+    "options": ["Mountbatten", "Churchill", "Truman", "Rippan"],
+    "answer": "Churchill"
+  },
+  {
+    "id": 12,
+    "question": "The Wardha Scheme of Education is popularly known as",
+    "options": ["Basic Education", "New Education", "Bright Education", "None"],
+    "answer": "Basic Education"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following statement is not correct about 'Gandhi Peace Prize'?",
+    "options": [
+      "Gandhi Peace Prize is instituted by Government of India since 1995, the 125th Birth Anniversary commemoration year of Mahatma Gandhi",
+      "The jury for peace prize is chaired by Prime Minister.",
+      "It can be given to Indian citizens only.",
+      "It can be given to individuals, associations, institutions or organizations."
+    ],
+    "answer": "It can be given to Indian citizens only"
+  },
+  {
+    "id": 14,
+    "question": "Consider the following statements on Hind Swaraj: i. It was written in 1908 during Gandhi's return voyage from London to South-Africa in answer to the Indian school of violence and its prototype in South-Africa. ii. It was first published in the columns of the Indian Opinion of South-Africa. iii. The Bombay Government prohibited its circulation. iv. It was originally written in Hindi.",
+    "options": [
+      "Only iii",
+      "Only i, ii and iii",
+      "Only ii and iii",
+      "All of the above"
+    ],
+    "answer": "Only i, ii and iii"
+  },
+  {
+    "id": 15,
+    "question": "Which of the following issues are discussed in Hind Swaraj by Gandhi? i. Modern civilization ii. Partition of Bengal iii. Railways iv. Education v. Machinery",
+    "options": [
+      "Only i, iii, iv",
+      "Only i, iii and iv",
+      "Only i and iii",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following statement explain Gandhi's idea of Swaraj?",
+    "options": [
+      "It is the transfer of power from Britain to India without changing its fundamental nature.",
+      "It is Swaraj when we learn to rule ourselves.",
+      "Even if the English become Indianized Indians cannot accommodate them.",
+      "India should emulate British Parliament after attaining Swaraj."
+    ],
+    "answer": "It is Swaraj when we learn to rule ourselves."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following environmental movement(s) resorted to Gandhian methods?",
+    "options": [
+      "Chipko movement",
+      "Silent Valley movement",
+      "Plachimada Agitation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 18,
+    "question": "Montagu-Chelmsford Scheme was announced in the year",
+    "options": ["1915", "1916", "1917", "1918"],
+    "answer": "1918"
+  },
+  {
+    "id": 19,
+    "question": "Who sought Gandhiji's intervention in Champaran Satyagraha?",
+    "options": ["Rajkumar Shukla", "Saraladevi Chudhurani", "Mahadev Desai", "Madan Mohan Malaviya"],
+    "answer": "Rajkumar Shukla"
+  },
+  {
+    "id": 20,
+    "question": "Indian Independence Act, 1947 granted what sort of status to India?",
+    "options": ["Republic", "Swaraj", "Dominion", "Poorna Swaraj"],
+    "answer": "Dominion"
+  },
+  {
+    "id": 21,
+    "question": "The principle of communal representation in India was first introduced in which Act?",
+    "options": [
+      "The Indian Council Act, 1909",
+      "The Indian Council Act, 1861",
+      "Government of India Act, 1935",
+      "Indian Council Act, 1892"
+    ],
+    "answer": "The Indian Council Act, 1909"
+  },
+  {
+    "id": 22,
+    "question": "Who said these words about Cripps Proposals: \"Post-dated cheque on a failing Bank\"?",
+    "options": ["Mahatma Gandhi", "Sardar Patel", "M.N. Roy", "G. Ayyangar"],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 23,
+    "question": "Under which Act, Union Public Service Commission was formed?",
+    "options": ["1919 Act", "1909 Act", "1858 Act", "1935 Act"],
+    "answer": "1935 Act"
+  },
+  {
+    "id": 24,
+    "question": "Which commission is known as White Man Commission?",
+    "options": ["Simon Commission", "Whitley Commission", "Butler Commission", "Fraser Commission"],
+    "answer": "Simon Commission"
+  },
+  {
+    "id": 25,
+    "question": "Mahatma Gandhi's remark \"A post dated cheque on a Crumbling bank\" pertains to which proposal:",
+    "options": ["Cabinet Mission", "Wavell Mission", "Cripps Mission", "Mount Batten Plan"],
+    "answer": "Cripps Mission"
+  }
+]

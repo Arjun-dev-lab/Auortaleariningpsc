@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "question": "When was Satyagraha Ashram at Sabarmati founded by Mahatma Gandhi?",
+      "options": ["1914", "1915", "1916", "1917"],
+      "answer": "1915"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is not included in the ashram vows of Gandhiji?",
+      "options": ["Satya", "Brahmacharya", "Aparigraha", "Achanchala"],
+      "answer": "Achanchala"
+    },
+    {
+      "id": 3,
+      "question": "In the beginning Mahatma Gandhi used the word instead of Satyagraha",
+      "options": ["Active Resistance", "Passive Resistance", "Continues Resistance", "Confident Resistance"],
+      "answer": "Passive Resistance"
+    },
+    {
+      "id": 4,
+      "question": "Which are not the different forms of Satyagraha?",
+      "options": ["Non-co-operation", "Civil disobedience", "Fasting", "Self-denial"],
+      "answer": "Self-denial"
+    },
+    {
+      "id": 5,
+      "question": "Which Ashram was not founded by Mahatma Gandhi?",
+      "options": ["Phoenix Settlement", "Tolstoy Farm", "Sabarmati Ashram", "Gokhale Hut"],
+      "answer": "Gokhale Hut"
+    },
+    {
+      "id": 6,
+      "question": "The book \"Unto This Last\" is written by",
+      "options": ["H.D. Thoreau", "Tolstoy", "John Ruskin", "Charles Napier"],
+      "answer": "John Ruskin"
+    },
+    {
+      "id": 7,
+      "question": "Who wrote the book \"Gandhi: The Years That Changed the World\"?",
+      "options": ["V.S. Naipal", "D.G. Tendulkar", "Ramachandra Guha", "Subrata Mukherjee"],
+      "answer": "Ramachandra Guha"
+    },
+    {
+      "id": 8,
+      "question": "Who was first called Gandhi a Mahatma?",
+      "options": ["Pranjivan Mehta", "Rabindra Nath Tagore", "Mahadev Desai", "Raihana Tyabji"],
+      "answer": "Pranjivan Mehta"
+    },
+    {
+      "id": 9,
+      "question": "Who was the author of the book \"Gandhi: The Traditional Roots of Charisma\"?",
+      "options": ["J.C. Trada", "Pyarelal", "Rudolph", "Napier"],
+      "answer": "J.C. Trada"
+    },
+    {
+      "id": 10,
+      "question": "Who was the first person to meet Gandhi in London while he went there for study?",
+      "options": ["Majumdar", "Mavaji Dave", "Swami Thracher", "Dr. Pran Jivan Mehta"],
+      "answer": "Dr. Pran Jivan Mehta"
+    },
+    {
+      "id": 11,
+      "question": "When was Phoenix farm established?",
+      "options": ["1902", "1903", "1904", "1905"],
+      "answer": "1904"
+    },
+    {
+      "id": 12,
+      "question": "From where Phoenix settlement was started by Gandhi?",
+      "options": ["Transwal", "Johannesburg", "Durban", "Pretoria"],
+      "answer": "Durban"
+    },
+    {
+      "id": 13,
+      "question": "Gandhi had written first letter from England to whom?",
+      "options": ["Mother", "Mavaji Dave", "Father", "Elder Brother"],
+      "answer": "Elder Brother"
+    },
+    {
+      "id": 14,
+      "question": "Gandhi came to India from South Africa for the first time by 'Pongola Steamer' in the year",
+      "options": ["1895", "1894", "1896", "1897"],
+      "answer": "1896"
+    },
+    {
+      "id": 15,
+      "question": "How many chapters are under Gandhi \"Constructive Programme\"?",
+      "options": ["17", "18", "19", "20"],
+      "answer": "18"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is not part of Gandhi \"Constructive Programme\"?",
+      "options": ["Khadi", "Women", "Machine", "Cleanliness of villages"],
+      "answer": "Machine"
+    },
+    {
+      "id": 17,
+      "question": "In which book Gandhi was much more concerned about tribal figure prominently?",
+      "options": ["Rachnatmak Karyakaram", "Mangal Prabhat", "Hind Swaraj", "None of these"],
+      "answer": "Rachnatmak Karyakaram"
+    },
+    {
+      "id": 18,
+      "question": "Gandhi had translated his book \"Hind Swaraj\" in English from",
+      "options": ["Lord Lothian", "Churchill", "For English Edition", "Kallenbach"],
+      "answer": "Kallenbach"
+    },
+    {
+      "id": 19,
+      "question": "Who is considered fifth son of Gandhi?",
+      "options": ["Rajendra Prasad", "J.L. Nehru", "K. Kamraj", "Sardar Patel"],
+      "answer": "K. Kamraj"
+    },
+    {
+      "id": 20,
+      "question": "Who was the writer of \"My Childhood with Gandhiji\"?",
+      "options": ["Manu Gandhi", "Rajmohan Gandhi", "Gopal Gandhi", "Prabhudas Gandhi"],
+      "answer": "Prabhudas Gandhi"
+    },
+    {
+      "id": 21,
+      "question": "Who was the Honorary Secretary of Natal Indian Congress formed in 1894?",
+      "options": ["M. K. Gandhi", "Mohammed Casam Jeeva", "Abdulla Haji Adam", "Parsi Rustomji"],
+      "answer": "M. K. Gandhi"
+    },
+    {
+      "id": 22,
+      "question": "Who translated Gandhiji's autobiography \"The Story of my Experiments with Truth\" originally written in Gujarati into English?",
+      "options": ["Mahadev desai", "Pandit Nehru", "Magan lal Gandhi", "Acharya Vinoba Bhave"],
+      "answer": "Mahadev desai"
+    },
+    {
+      "id": 23,
+      "question": "In which year mahatma Gandhi was not nominated for Nobel Prize for peace?",
+      "options": ["1937", "1938", "1939", "1940"],
+      "answer": "1940"
+    },
+    {
+      "id": 24,
+      "question": "Who stated that \"By education, I mean an overall all-round drawing out of the best in child and man, in body, mind and spirit\"?",
+      "options": ["Swami Vivekananda", "Mahatma Gandhi", "John Dewey", "Socrates"],
+      "answer": "Mahatma Gandhi"
+    }
+  ]
