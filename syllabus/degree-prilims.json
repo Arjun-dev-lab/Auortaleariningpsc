@@ -1,0 +1,113 @@
+{
+    "exam_name": "DEGREE LEVEL COMMON PRELIMINARY EXAMINATION",
+    "paper": "",
+    "total_marks": 0,
+    "subjects": [
+      {
+        "name": "History",
+        "marks": 0,
+        "topics": [
+          "KERALA - Arrival of Europeans, Contributions of Europeans, History of Travancore from Marthanda Varma to Sree Chithirathirumal, Social and Religious Reform movement, National movement in Kerala, Literary Sources of Kerala History, United Kerala Movement, Political and Social History of Kerala after 1956",
+          "INDIA - Medieval India, Political History, Administrative reforms, Contributions, Establishment of the British, First War of Independence, Formation of INC, Swadeshi Movement, Social Reform movement, Newspapers, Literature and Art during the freedom struggle, Independent Movement & Mahatma Gandhi, Extremist Movement in India, India's independence, Post independent period, State reorganization, Development in Science, Education, and Technology, Foreign policy, Political History after 1951",
+          "WORLD - Great revolution in England, American War of Independence, French revolution, Russian Revolution, Chinese revolution, Political History after second World war, UNO and other International Organization",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Geography",
+        "marks": 0,
+        "topics": [
+          "Basics of Geography - Earth Structure, Atmosphere, Rocks, Landforms, Pressure Belt and Winds, Temperature and Seasons, Global Issues, Global warming, various forms of Pollutions, Maps, Topographic Maps and Signs, Remote Sensing, Geographic Information System, Oceans and its various movements, Continents, World Nations and its specific features",
+          "INDIA - Physiography, States and Its features, Northern Mountain Region, Rivers, Northern Great Plain, Peninsular Plateau, Coastal Plain, Climate, Natural Vegetation, Agriculture, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railway, Air",
+          "Kerala - Physiography, Districts and Its features, Rivers, Climate, Natural Vegetation, Wild life, Agriculture and research centers, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railway, Air",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Economics",
+        "marks": 0,
+        "topics": [
+          "National Income, Per Capita Income, Factors of Production, Economic Sectors of Production, Indian Economic Planning, Five Year Plans, NITI Aayog, Types and Functions of Economic Institutions, Reserve Bank & Functions, Public revenue - Tax and Non Tax revenue, Public Expenditure, Budget, Fiscal Policy, Consumer Protection & Rights",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Civics",
+        "marks": 0,
+        "topics": [
+          "Public Administration - Bureaucracy - Features and Function, Indian Civil Service, State Civil Service, E-Governance, Information Commission and Right to information Act, Lokpal & Lokayuktha, Government - Executive, Judiciary, Legislature, Election - Political Parties",
+          "Human Rights - Human Rights Organizations",
+          "Act and Rules regarding Consumer Protection, Watershed Management, Labour and Employment, National Rural Employment Policies, Land Reforms, Protection of women, Children, and Old age People, Social Welfare, Social Security",
+          "Socio-Economic Statistical Data",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Indian Constitution",
+        "marks": 0,
+        "topics": [
+          "Constituent Assembly, Preamble, Fundamental Rights, Directive principles, Fundamental Duties, Citizenship, Constitutional Amendments, Panchayath Raj, Constitutional Institutions and their Functions, Emergency, Union List, State List, Concurrent List",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Arts, Sports & Literature",
+        "marks": 0,
+        "topics": [
+          "Arts: Important Audio Visual Art Forms of Kerala, Famous Places, Institutions, Personalities, Artists and Writers related to origin, development, extension, and practice of these Art Forms",
+          "Sports: Famous Sports personalities of Kerala, India and World, their Sports Events, achievements and awards, Important Awards - Corresponding Fields, Winners, Famous Trophies - Related Events and Sports Items, Number of Players in Important Sports Items, Important Terms associated with various Sports and Games, Olympics - Basic Facts, Venues / Countries, Famous Performances and Personalities, India in Olympics, Winter Olympics & Para Olympics, Asian Games, Afro-Asian Games, CommonWealth Games, SAF Games - Venues, Countries, Performance of India, other facts, National Games, Games - Events, Players, Achievements, National Sports / Games, Events of various Countries",
+          "Literature: Malayalam - Important Literary Movements, Icons and their first works, Main works of Literature related to each movement and their authors, Writers - Pen name and Nick name, Famous Works and Characters, Famous Quotes - Books and Authors, Beginning of Journalism in Kerala - Pioneers, Journals and Publications, Famous Awards/Honours - Writers and their works, Malayalam Writers who won the Juanpith Award and related facts, Malayalam Cinema - Origin, Development, Milestones, Pioneers, National Awards",
+          "Culture: Kerala - Important Celebrations, Places associated with such Celebrations, Important Festivals, Kerala - Cultural Centres, Worship Places, Cultural Leaders and their Contributions",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Computer Science",
+        "marks": 0,
+        "topics": [
+          "Hardware: Input Devices (Names and uses), Output Devices (Names and uses/features), Memory devices - Primary and Secondary (Examples, Features)",
+          "Software: Classification - System software and Application software, Operating System - Functions and examples, Popular Application software packages - Word processors, Spreadsheets, Database packages, Presentation, Image editors (Uses, features and fundamental concepts of each), Basics of programming - Types of instructions (Input, Output, Store, Control transfer)",
+          "Computer Networks: Types of networks - LAN, WAN, MAN (Features and application area), Network Devices - Media, Switch, Hub, Router, Bridge, Gateway (Uses of each)",
+          "Internet: Services - WWW, E-mail, Search engines (Examples and purposes), Social Media (Examples and features), Web Designing - Browser, HTML (Basics only)",
+          "Cyber Crimes and Cyber Laws: Types of crimes (Awareness level), IT Act and Other laws (Awareness level)",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Science and Technology",
+        "marks": 0,
+        "topics": [
+          "Science and Technology: Nature and scope of Science and Technology, Relevance of S&T, National policy on S&T and innovations, Basics of everyday science, Human body, Public Health and Community Medicine, Food and Nutrition, Health Care, Institutes and Organization in India promoting integration of S&T and Innovation, their activities and contributions, Contribution of Prominent Indian Scientists",
+          "Technology in Space and Defence: Evolution of Indian Space Programme, ISRO - it's activities and achievements, various Satellite Programmes, DRDO-vision, mission and activities",
+          "Energy requirement and efficiency: India's existing energy needs and deficit, India's energy resources and dependence, Renewable and Non-renewable energy resources, Energy Policy of India - Govt. Policies and Programmes, Energy Security and Nuclear Policy of India",
+          "Environmental Science: Issues and concerns related to environment, its legal aspects, policies and treaties for the protection of environment at the National and the International level, Environment protection for sustainable development, Biodiversity - its importance and concerns, Climate change, International initiatives (Policies, Protocols) and India's commitment, Western Ghats, Features, Characteristics and issues, Forest and wildlife - Legal framework for Forest and Wildlife Conservation in India, Environmental Hazards, Pollution, Carbon Emission, Global Warming, Developments in Biotechnology, Green Technology and Nanotechnology",
+          "CURRENT AFFAIRS"
+        ]
+      },
+      {
+        "name": "Simple Arithmetic & Mental Ability",
+        "marks": 0,
+        "topics": [
+          "Simple Arithmetic: Numbers and Basic Operations, Fraction and Decimal Numbers, Percentage, Profit and Loss, Simple and Compound Interest, Ratio and Proportion, Time and Distance, Time and Work, Average, Laws of Exponents, Mensuration, Progressions",
+          "Mental Ability: Series, Problems on Mathematical signs, Verifying Positions, Analogy - Word Analogy, Alphabet Analogy, Number Analogy, Odd man out, Numerical Ability, Coding and Decoding, Family Relations, Sense of Direction, Time and Angles, Time in a clock and its reflection, Date and Calendar, Clerical Ability"
+        ]
+      },
+      {
+        "name": "General English",
+        "marks": 0,
+        "topics": [
+          "English Grammar: Types of Sentences and Interchange of Sentences, Different Parts of Speech, Agreement of Verb and Subject, Confusion of Adjectives and Adverbs, Comparison of Adjectives, Adverbs and Position of adverbs, Articles - The Definite and the Indefinite Articles, Uses of Primary and Model Auxiliary Verbs, Tag Questions, Infinitive and Gerunds, Tenses, Tenses in Conditional Sentences, Prepositions, The Use of Correlatives, Direct and Indirect Speech, Active and Passive voice, Correction of Sentences",
+          "Vocabulary: Singular & Plural, Change of Gender, Collective Nouns, Word formation from other words and use of prefix or suffix, Compound words, Synonyms, Antonyms, Phrasal Verbs, Foreign Words and Phrases, One Word Substitutes, Words often confused, Spelling Test, Idioms and their Meanings, Translation of a sentence/proverb in to Malayalam"
+        ]
+      },
+      {
+        "name": "Regional Language",
+        "marks": 0,
+        "topics": [
+          "Malayalam: Various language components as listed in the syllabus",
+          "Kannada: Word Purity / Correct Word, Correct Sentence, Translation, One Word / Single Word / One Word Substitution, Synonyms, Antonyms, Idioms and Proverbs, Equivalent Word, Join the Word, Feminine Gender, Masculine Gender, Number, Sort and Write",
+          "Tamil: Correct Word, Correct Structure of Sentence, Translation, Single Word, Synonyms, Antonyms / Opposite, Phrases and Proverbs, Equal Word, Join the Word, Gender Classification - Feminine, Masculine, Singular, Plural, Separate, Adding Phrases"
+        ]
+      }
+    ]
+  }

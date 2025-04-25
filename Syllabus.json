@@ -13,6 +13,15 @@
         "id": "3",
         "heading": "Secretariat assistant",
         "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SECRETARIAT-ASSISTANT.JSON"
-    }
-  ]
-  
+    },
+    {
+      "id": "3",
+      "heading": "Secretariat assistant",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/EXCISE_INSPECTOR.json"
+    },
+    {
+      "id": "3",
+      "heading": "SUB INSPECTOR OF POLICE",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SI_mains.json"
+  }
+]
