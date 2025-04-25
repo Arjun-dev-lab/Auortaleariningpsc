@@ -1,336 +1,306 @@
 {
-    "exam_name": "MAIN EXAMINATION - SUB INSPECTOR OF POLICE (TRAINEE) AND ARMED POLICE SUB INSPECTOR (TRAINEE)",
-    "paper": "",
-    "total_marks": 100,
-    "subjects": [
-      {
-        "name": "General Knowledge",
-        "marks": 23,
-        "subtopics": [
-          {
-            "name": "History",
-            "marks": 3,
-            "topics": [
-              "KERALA - Arrival of Europeans, Contributions of Europeans, History of Travancore from Marthanda Varma to Sree Chithirathirunnal, Social and Religious Reform movement, National movement in Kerala, Literary Sources of Kerala History, United Kerala Movement, Political and Social History of Kerala after 1956",
-              "INDIA - Political History, Establishment of the British, First War of Independence, Formation of INC, Swadeshi Movement, Social Reform movement, Newspapers, Literature and Arts during the freedom struggle, Independence Movement & Mahatma Gandhi, India's independent, Post independent period, State reorganization, Development in Science, Education, and Technology, Foreign policy",
-              "WORLD - Great Revolution in England, American War of Independence, French Revolution, Russian Revolution, Chinese Revolution, Political History after Second World War, UNO and other International Organizations"
-            ]
-          },
-          {
-            "name": "Geography",
-            "marks": 3,
-            "topics": [
-              "Basics of Geography - Earth Structure, Atmosphere, Rocks, Landforms, Pressure Belt and Winds, Temperature and Seasons, Global Issues, Global Warming, Various forms of Pollution, Maps, Topographic Maps and Signs, Remote Sensing, Geographic Information System, Oceans and its various movements, Continents, Nations and their specific features",
-              "INDIA - Physiography, States and its features, Northern Mountain Region, Rivers, Northern Great Plain, Peninsular Plateau, Coastal Plain, Climate, Natural Vegetation, Agriculture, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railways, Air",
-              "Kerala - Physiography, Districts and its features, Rivers, Climate, Natural Vegetation, Wild life, Agriculture and research centers, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railway, Air"
-            ]
-          },
-          {
-            "name": "Economics",
-            "marks": 3,
-            "topics": [
-              "India: Economy, Five Year Plans, New Economic Reforms, Planning Commission and Niti Aayog, Financial Institutions, Agriculture - Major Crops, Green Revolution, Minerals",
-              "Direct and indirect taxes in India, GST in India-rationale and structure of GST, benefits of GST"
-            ]
-          },
-          {
-            "name": "Kerala Governance and System of Administration",
-            "marks": 5,
-            "topics": [
-              "Kerala State Civil Service, Quasi-judicial bodies, various Commissions",
-              "Basic facts of socio-economic development, Planning Board, Commercial Planning and Policies",
-              "Disaster Management, Watershed Management, Employment and Labour, National Rural Employment Programmes, Land Reforms",
-              "Social Welfare and Security, Protection of Women, Children and Senior Citizens",
-              "Population, Literacy, E-governance, Delegated Legislation and its controls",
-              "Legislative and Judicial controls, Constitutional law remedies against Administrative Arbitrariness",
-              "Administrative Discretion and its Controls, Administrative Adjudication, Principles of Natural Justice"
-            ]
-          },
-          {
-            "name": "Life Science and Public Health",
-            "marks": 6,
-            "topics": [
-              "Basic facts of Human Body",
-              "Vitamins and Minerals and their Deficiency Diseases",
-              "Communicable Diseases and Causative Organisms, Preventive and Remedial Measures",
-              "Kerala - Welfare activities in Health Sector",
-              "Lifestyle Diseases",
-              "Basic Health Facts",
-              "Environment and Environmental Hazards"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Current Affairs",
-        "marks": 5,
-        "topics": []
-      },
-      {
-        "name": "Simple Arithmetic, Mental Ability and Reasoning",
-        "marks": 10,
-        "subtopics": [
-          {
-            "name": "Simple Arithmetic",
-            "marks": 5,
-            "topics": [
-              "Numbers and Basic Operations",
-              "Fraction and Decimal Numbers",
-              "Percentage",
-              "Profit and Loss",
-              "Simple and Compound Interest",
-              "Ratio and Proportion",
-              "Time and Distance",
-              "Time and Work",
-              "Average",
-              "Laws of Exponents",
-              "Mensuration",
-              "Progressions"
-            ]
-          },
-          {
-            "name": "Mental Ability & Reasoning",
-            "marks": 5,
-            "topics": [
-              "Series",
-              "Problems on Mathematical Signs",
-              "Verifying Positions",
-              "Analogy - Word Analogy, Alphabet Analogy, Number Analogy",
-              "Odd man out",
-              "Numerical Ability",
-              "Coding and Decoding",
-              "Family Relations",
-              "Sense of Direction",
-              "Time and Angles",
-              "Time in a clock and its reflection",
-              "Date and Calendar",
-              "Clerical Ability"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "General English",
-        "marks": 10,
-        "subtopics": [
-          {
-            "name": "English Grammar",
-            "marks": 5,
-            "topics": [
-              "Types of Sentences and Interchange of Sentences",
-              "Different Parts of Speech",
-              "Agreement of Subject and Verb",
-              "Articles - Definite and Indefinite Articles",
-              "Uses of Primary and Modal Auxiliary Verbs",
-              "Question Tags",
-              "Infinitive and Gerunds",
-              "Tenses",
-              "Tenses in Conditional Sentences",
-              "Prepositions",
-              "The Use of Correlatives",
-              "Direct and Indirect Speech",
-              "Active and Passive voice",
-              "Correction of Sentences",
-              "Degrees of Comparison"
-            ]
-          },
-          {
-            "name": "Vocabulary",
-            "marks": 5,
-            "topics": [
-              "Singular & Plural, Change of Gender, Collective Nouns",
-              "Word formation from other words and use of prefix or suffix",
-              "Compound words",
-              "Synonyms",
-              "Antonyms",
-              "Phrasal Verbs",
-              "Foreign Words and Phrases",
-              "One Word Substitutes",
-              "Words often confused",
-              "Spelling Test",
-              "Idioms and their Meanings",
-              "Expansion and meaning of Common Abbreviations"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Regional Language",
-        "marks": 10,
-        "subtopics": [
-          {
-            "name": "Malayalam",
-            "marks": 0,
-            "topics": [
-              "Word Purity",
-              "Correct Sentence",
-              "Translation",
-              "Single Word",
-              "Synonyms",
-              "Opposite Words",
-              "Idioms and Proverbs",
-              "Equivalent Word",
-              "Join the Word",
-              "Feminine Gender, Masculine Gender",
-              "Number",
-              "Separate and Write",
-              "Component Words"
-            ]
-          },
-          {
-            "name": "Kannada",
-            "marks": 0,
-            "topics": [
-              "Word Purity / Correct Word",
-              "Correct Sentence",
-              "Translation",
-              "One Word / Single Word / One Word Substitution",
-              "Synonyms",
-              "Antonyms",
-              "Idioms and Proverbs",
-              "Equivalent Word",
-              "Join the Word",
-              "Feminine Gender, Masculine Gender",
-              "Number",
-              "Sort and Write"
-            ]
-          },
-          {
-            "name": "Tamil",
-            "marks": 0,
-            "topics": [
-              "Correct Word",
-              "Correct Structure of Sentence",
-              "Translation",
-              "Single Word",
-              "Synonyms",
-              "Antonyms / Opposite",
-              "Phrases and Proverbs",
-              "Equal Word",
-              "Join the Word",
-              "Gender Classification - Feminine, Masculine",
-              "Singular, Plural",
-              "Separate",
-              "Adding Phrases"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Special Topics",
-        "marks": 45,
-        "subtopics": [
-          {
-            "name": "THE BHARATIYA NYAYA SANHITA, 2023",
-            "marks": 5,
-            "topics": [
-              "Definitions & General Explanations: Child, Counterfeit, Document, Harbour, Injury, Public servant, Acts done by several persons in furtherance of common intention",
-              "Punishments: Sections 4 & 11",
-              "General Exceptions: Mistake of fact, Judicial acts, Accident, Necessity, Infancy, Insanity, Intoxication, Consent, Communication made in good faith, Compulsion, Trifles (slight harm), Private defence",
-              "Offences Against Woman and Child: Rape, Sexual intercourse by husband upon his wife during separation, Sexual intercourse by a person in authority, Sexual intercourse by deceitful means, Gang rape, Repeat offences, Disclosure of identity of victims, Outraging modesty of woman, Sexual harassment, Disrobing, Voyeurism, Stalking, Insult to modesty of woman, Dowry death, Mock marriage, Bigamy, Fraudulent marriage ceremony without lawful marriage, Enticing or taking away or detaining with criminal intent a married woman, Cruelty by husband or relatives, Kidnapping to compel marriage, Causing miscarriage, Exposure or abandonment of child, Secret disposal of child's dead body, Hiring of child to commit offence, Procuration of child, Kidnapping or abducting child, Selling/buying child for prostitution",
-              "Offences Affecting the Human Body: Culpable homicide, Murder, Causing death of person other than whose death was intended, Mob lynching, Murder by life convict, Causing death by negligence, Abetment of suicide, Attempt to murder, Attempt to commit culpable homicide, Organized crime, Petty organized crime, Terrorist acts, Hurt, Grievous hurt, Causing hurt by dangerous weapons/means, Causing hurt to extort property, Causing hurt to extort confession, Causing hurt to deter public servant from his duty, Causing grievous hurt by use of acid, Acts endangering life or safety of others, Wrongful restraint, Wrongful confinement, Criminal force, Assault, Kidnapping, Abduction, Trafficking of persons, Habitual dealing in slaves, Unlawful compulsory labour",
-              "Offences Against the Public Tranquillity: Unlawful assembly, Rioting, Affray, Assaulting/obstructing public servant when suppressing riot, Promoting enmity between different groups, Imputations prejudicial to national integration",
-              "Offences By or Relating to Public Servants: Disobeying law with intent to cause injury, Disobeying direction under law, Non-treatment of victim, Framing an incorrect document with intent to cause injury, Unlawfully engaging in trade, Unlawfully buying or bidding for property, Personating a public servant, Wearing garb or carrying token used by public servant fraudulently",
-              "Offences Against Property: Theft, Snatching, Extortion, Robbery, Dacotty, Dishonest misappropriation of property, Criminal breach of trust, Stolen property, Cheating, Cheating by personation, Mischief, Criminal trespass and house trespass, House trespass and house breaking"
-            ]
-          },
-          {
-            "name": "THE BHARATIYA NAGARIK SURAKSHA SANHITA, 2023",
-            "marks": 5,
-            "topics": [
-              "Definitions: Audio-video electronic means, Bailable & non-bailable offences, Cognizable offence, Complaint, Inquiry, Investigation, Non-cognizable offence, Summons case, Victim, Warrant case",
-              "Powers of Superior Officers of Police and Aid to the Magistrates and the Police: Powers of superior officers of police, Public when to assist Magistrates and police, Aid to person executing warrant, Public to give information of certain offences, Duty of officers employed in connection with the affairs of village",
-              "Arrest of Persons: When police may arrest without warrant, Procedure of arrest and duties of officer making arrest, Designated police officer, Right of arrested person to meet an advocate during interrogation, Arrest on refusal to give name and residence, Arrest by private person and procedure on such arrest, Arrest by Magistrate, Protection of members of the Armed Forces from arrest, Arrest how made, Search of place entered by person sought to be arrested, Pursuit of offenders into other jurisdictions, No unnecessary restraint, Person arrested to be informed of grounds of arrest and of right to bail, Obligation to inform about the arrest to relative or friend, Search of arrested person, Power to seize offensive weapons, Examination of accused by medical practitioner, Examination of person accused of rape by medical practitioner, Examination of arrested person by medical practitioner, Identification of person arrested, Procedure when police officer deputes subordinate to arrest without warrant, Health and safety of arrested person, Person arrested to be taken before Magistrate or officer in charge of police station, Person arrested not to be detained more than twenty-four hours, Police to report apprehensions, Discharge of person apprehended, Power to pursue and retake escaped persons",
-              "Summons and Warrant: Form of summons, Summons how served, Service of summons on corporate bodies, Service when persons summoned cannot be found, Procedure when service cannot be effected, Service on Government servant, Service of summons outside local limits, Proof of service, Form of warrant of arrest and duration, Power to direct security to be taken, Warrants to whom directed, Warrant may be directed to any person, Warrant directed to police officer, Notification of substance of warrant, Person arrested to be brought before Court, Where warrant may be executed, Warrant forwarded for execution outside jurisdiction, Warrant directed to police officer for execution outside jurisdiction, Procedure on arrest of person against whom warrant issued",
-              "Search and Seizure: When search-warrant may be issued, Search of place suspected to contain stolen property, forged documents, etc., Power to declare certain publications forfeited and to issue search-warrants, Search for persons wrongfully confined, General provisions relating to searches, Recording of search and seizure through audio-video electronic means, Power of police officer to seize certain property, Attachment, forfeiture or restoration, Magistrate may direct search in his presence, Power to impound document, etc., produced, Reciprocal arrangements regarding processes",
-              "Maintenance of Public Order and Tranquillity: Dispersal of assembly by use of civil force, Use of armed forces to disperse assembly, Power of certain armed force officers, Protection against prosecution for acts done",
-              "Preventive Action of the Police: Police to prevent cognizable offences, Information of design to commit cognizable offences, Arrest to prevent the commission of cognizable offences, Prevention of injury to public property, Persons bound to conform to lawful directions of police",
-              "Information to the Police and Their Powers to Investigate: Information in cognizable cases, Information as to non-cognizable cases and investigation of such cases, Police officer's power to investigate cognizable case, Procedure for investigation, Report how submitted, Power to hold investigation or preliminary inquiry, Police officer's power to require attendance of witnesses, Examination of witnesses by police, Statements to police and use thereof, No inducement to be offered, Recording of confessions and statements, Medical examination of the victim of rape, Search by police officer, When officer in charge of police station may require another to issue search-warrant, Procedure when investigation cannot be completed in twenty-four hours, Report of investigation by subordinate police officer, Release of accused when evidence deficient, Cases to be sent to Magistrate when evidence is sufficient, Complainant and witnesses not to be required to accompany police officer, Diary of proceedings in investigation, Report of police officer on completion of investigation, Police to enquire and report on suicide, etc., Power to summon persons, Inquiry by Magistrate into cause of death"
-            ]
-          },
-          {
-            "name": "THE BHARATIYA SAKSHYA ADHINIYAM, 2023",
-            "marks": 5,
-            "topics": [
-              "Definitions: Document, Evidence, Fact, Facts in issue, Relevant",
-              "Confession: Confession by inducement, threat or promise, Confession to police officer, Confession of the co-accused",
-              "Statements by Persons Who Cannot Be Called As Witnesses: Statement of relevant fact by person who is dead or cannot be found, Relevancy of certain evidence for proving truth of facts in subsequent proceeding, Entries in books of account, Relevancy of entry in public record or electronic record, Relevancy of statements in maps, charts and plans, Relevancy of statement as to fact of public nature, Relevancy of statements as to any law",
-              "Opinions of Third Persons When Relevant: Opinions of experts, Facts bearing upon opinions of experts, Opinion as to handwriting and signature, Opinion as to existence of custom or right, Opinion as to usages, tenets, etc., Opinion on relationship, Grounds of opinion"
-            ]
-          },
-          {
-            "name": "THE RIGHT TO INFORMATION ACT, 2005",
-            "marks": 3,
-            "topics": [
-              "Section 2(f): Information",
-              "Section 8: Exemption from disclosure of information",
-              "Section 9: Grounds for rejection to access in certain cases",
-              "Section 11: Third party information"
-            ]
-          },
-          {
-            "name": "INDIAN CONSTITUTION",
-            "marks": 7,
-            "topics": [
-              "Constituent Assembly, Preamble, Citizenship",
-              "Fundamental Rights, Writs - Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto",
-              "Directive Principles of State Policy, Fundamental Duties",
-              "Structure of Governments - Union Executive, Parliament and Judiciary, State Executive, Legislature and Judiciary",
-              "Local Self Government Institutions (LSGIs)",
-              "Important Constitutional Amendments (42, 44, 52, 73, 74, 86, 91, 97, 101, 102, 103, 104, 105 & 106)",
-              "Constitutional Authorities and their functions - Comptroller and Auditor General, Attorney General, Advocate General, Election Commission of India, State Election Commission, Union Public Service Commission, State Public Service Commission",
-              "Finance Commission, State Finance Commission, GST Council",
-              "Distribution of legislative powers - Union List, State List, Concurrent List",
-              "Services under the Union and the States, Tribunals",
-              "National Commission for Scheduled Castes, National Commission for Scheduled Tribes, National Commission for Backward Classes",
-              "Official Language, Regional Languages, Language of the Supreme Court, High Courts, etc, Special directives relating to languages"
-            ]
-          },
-          {
-            "name": "THE INFORMATION TECHNOLOGY ACT",
-            "marks": 3,
-            "topics": [
-              "Section 43: Penalty and Compensation for damage to computer, computer system, etc.",
-              "Section 43A: Compensation for failure to protect data.",
-              "Section 65: Tampering with computer source documents.",
-              "Section 66: Computer related offences",
-              "Section 66B: Punishment for dishonestly receiving stolen computer resource or communication device.",
-              "Section 66C: Punishment for identity theft.",
-              "Section 66D: Punishment for cheating by personation by using computer resources.",
-              "Section 66E: Punishment for violation of privacy.",
-              "Section 66F: Punishment for cyber terrorism.",
-              "Section 67: Punishment for publishing or transmitting obscene material in electronic form.",
-              "Section 67A: Punishment for publishing or transmitting material containing sexually explicit act, etc in electronic form",
-              "Section 67B: Punishment for publishing or transmitting material depicting children in sexually explicit act, etc in electronic form",
-              "Section 72: Penalty for breach of confidentiality and privacy.",
-              "Section 77B: Offences with 3 years imprisonment to be bailable.",
-              "Section 78: Power to investigate offences."
-            ]
-          },
-          {
-            "name": "Basics of IT and Cyber Crimes",
-            "marks": 7,
-            "topics": [
-              "Email, Social media, Online portals, Blogs, Vlogs, Crypto currency, Block chain, Digital/Electronic signature",
-              "Cyber forensics, Computer forensics, Network forensics, Mobile forensics, Live forensics",
-              "CDR Analysis, IPDR Analysis, IMEI Number, IMSI Number",
-              "Digital Evidence, Potential digital devices: Computer, Mobile phone, Laptops, Digital Watch, Internet of things, Pendrives, CD, DVD Harddisks, Cloud Storage, CCTV, Cameras, ATM machine, Server logs",
-              "IP Address: Private IP, Public IP, Static IP, Dynamic IP, GPS, Biometrics etc",
-              "Cyber crimes: Hacking, Cyber bullying, Cyber stalking, Denial of service attacks, Web defacement, Spoofing, Morphing, Phishing, Ransomware attacks, Cyber terrorism, Source code tampering, Online frauds, Data theft, Identity theft, Online cheating, Pornography, Child pornography etc"
-            ]
-          },
-          {
-            "name": "Basics of human psychology",
-            "marks": 10,
-            "topics": [
-              "Approaches of human behaviour: Psychoanalytic, Behaviouristic, Humanistic, Gestalt",
-              "Cognitive Process: Attention, Thinking, Memory",
-              "Individual Differences: Intelligence, Emotions, Aggression and Frustration, Stress and anxiety",
-              "Social Dimensions on Behaviour: Phobia, Imitation and Modelling, Social Deviance, Cultural Deprivation, Prejudice and Discrimination, Inter group Conflict",
-              "Developmental aspects of Behaviour: Later Childhood, Adolescence, Psycho social Development, contributions of Erik Erickson, Moral Development, contributions of Kohlberg"
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "exam_name": "MAIN EXAMINATION - SUB INSPECTOR OF POLICE (TRAINEE) AND ARMED POLICE SUB INSPECTOR (TRAINEE)",
+  "paper": "",
+  "total_marks": 100,
+  "subjects": [
+    {
+      "name": "History",
+      "marks": 3,
+      "topics": [
+        "KERALA - Arrival of Europeans, Contributions of Europeans, History of Travancore from Marthanda Varma to Sree Chithirathirunnal, Social and Religious Reform movement, National movement in Kerala, Literary Sources of Kerala History, United Kerala Movement, Political and Social History of Kerala after 1956",
+        "INDIA - Political History, Establishment of the British, First War of Independence, Formation of INC, Swadeshi Movement, Social Reform movement, Newspapers, Literature and Arts during the freedom struggle, Independence Movement & Mahatma Gandhi, India's independent, Post independent period, State reorganization, Development in Science, Education, and Technology, Foreign policy",
+        "WORLD - Great Revolution in England, American War of Independence, French Revolution, Russian Revolution, Chinese Revolution, Political History after Second World War, UNO and other International Organizations"
+      ]
+    },
+    {
+      "name": "Geography",
+      "marks": 3,
+      "topics": [
+        "Basics of Geography - Earth Structure, Atmosphere, Rocks, Landforms, Pressure Belt and Winds, Temperature and Seasons, Global Issues, Global Warming, Various forms of Pollution, Maps, Topographic Maps and Signs, Remote Sensing, Geographic Information System, Oceans and its various movements, Continents, Nations and their specific features",
+        "INDIA - Physiography, States and its features, Northern Mountain Region, Rivers, Northern Great Plain, Peninsular Plateau, Coastal Plain, Climate, Natural Vegetation, Agriculture, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railways, Air",
+        "Kerala - Physiography, Districts and its features, Rivers, Climate, Natural Vegetation, Wild life, Agriculture and research centers, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railway, Air"
+      ]
+    },
+    {
+      "name": "Economics",
+      "marks": 3,
+      "topics": [
+        "India: Economy, Five Year Plans, New Economic Reforms, Planning Commission and Niti Aayog, Financial Institutions, Agriculture - Major Crops, Green Revolution, Minerals",
+        "Direct and indirect taxes in India, GST in India-rationale and structure of GST, benefits of GST"
+      ]
+    },
+    {
+      "name": "Kerala Governance and System of Administration",
+      "marks": 5,
+      "topics": [
+        "Kerala State Civil Service, Quasi-judicial bodies, various Commissions",
+        "Basic facts of socio-economic development, Planning Board, Commercial Planning and Policies",
+        "Disaster Management, Watershed Management, Employment and Labour, National Rural Employment Programmes, Land Reforms",
+        "Social Welfare and Security, Protection of Women, Children and Senior Citizens",
+        "Population, Literacy, E-governance, Delegated Legislation and its controls",
+        "Legislative and Judicial controls, Constitutional law remedies against Administrative Arbitrariness",
+        "Administrative Discretion and its Controls, Administrative Adjudication, Principles of Natural Justice"
+      ]
+    },
+    {
+      "name": "Life Science and Public Health",
+      "marks": 6,
+      "topics": [
+        "Basic facts of Human Body",
+        "Vitamins and Minerals and their Deficiency Diseases",
+        "Communicable Diseases and Causative Organisms, Preventive and Remedial Measures",
+        "Kerala - Welfare activities in Health Sector",
+        "Lifestyle Diseases",
+        "Basic Health Facts",
+        "Environment and Environmental Hazards"
+      ]
+    },
+    {
+      "name": "Current Affairs",
+      "marks": 5,
+      "topics": []
+    },
+    {
+      "name": "Simple Arithmetic",
+      "marks": 5,
+      "topics": [
+        "Numbers and Basic Operations",
+        "Fraction and Decimal Numbers",
+        "Percentage",
+        "Profit and Loss",
+        "Simple and Compound Interest",
+        "Ratio and Proportion",
+        "Time and Distance",
+        "Time and Work",
+        "Average",
+        "Laws of Exponents",
+        "Mensuration",
+        "Progressions"
+      ]
+    },
+    {
+      "name": "Mental Ability & Reasoning",
+      "marks": 5,
+      "topics": [
+        "Series",
+        "Problems on Mathematical Signs",
+        "Verifying Positions",
+        "Analogy - Word Analogy, Alphabet Analogy, Number Analogy",
+        "Odd man out",
+        "Numerical Ability",
+        "Coding and Decoding",
+        "Family Relations",
+        "Sense of Direction",
+        "Time and Angles",
+        "Time in a clock and its reflection",
+        "Date and Calendar",
+        "Clerical Ability"
+      ]
+    },
+    {
+      "name": "English Grammar",
+      "marks": 5,
+      "topics": [
+        "Types of Sentences and Interchange of Sentences",
+        "Different Parts of Speech",
+        "Agreement of Subject and Verb",
+        "Articles - Definite and Indefinite Articles",
+        "Uses of Primary and Modal Auxiliary Verbs",
+        "Question Tags",
+        "Infinitive and Gerunds",
+        "Tenses",
+        "Tenses in Conditional Sentences",
+        "Prepositions",
+        "The Use of Correlatives",
+        "Direct and Indirect Speech",
+        "Active and Passive voice",
+        "Correction of Sentences",
+        "Degrees of Comparison"
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "marks": 5,
+      "topics": [
+        "Singular & Plural, Change of Gender, Collective Nouns",
+        "Word formation from other words and use of prefix or suffix",
+        "Compound words",
+        "Synonyms",
+        "Antonyms",
+        "Phrasal Verbs",
+        "Foreign Words and Phrases",
+        "One Word Substitutes",
+        "Words often confused",
+        "Spelling Test",
+        "Idioms and their Meanings",
+        "Expansion and meaning of Common Abbreviations"
+      ]
+    },
+    {
+      "name": "Malayalam",
+      "marks": 0,
+      "topics": [
+        "Word Purity",
+        "Correct Sentence",
+        "Translation",
+        "Single Word",
+        "Synonyms",
+        "Opposite Words",
+        "Idioms and Proverbs",
+        "Equivalent Word",
+        "Join the Word",
+        "Feminine Gender, Masculine Gender",
+        "Number",
+        "Separate and Write",
+        "Component Words"
+      ]
+    },
+    {
+      "name": "Kannada",
+      "marks": 0,
+      "topics": [
+        "Word Purity / Correct Word",
+        "Correct Sentence",
+        "Translation",
+        "One Word / Single Word / One Word Substitution",
+        "Synonyms",
+        "Antonyms",
+        "Idioms and Proverbs",
+        "Equivalent Word",
+        "Join the Word",
+        "Feminine Gender, Masculine Gender",
+        "Number",
+        "Sort and Write"
+      ]
+    },
+    {
+      "name": "Tamil",
+      "marks": 0,
+      "topics": [
+        "Correct Word",
+        "Correct Structure of Sentence",
+        "Translation",
+        "Single Word",
+        "Synonyms",
+        "Antonyms / Opposite",
+        "Phrases and Proverbs",
+        "Equal Word",
+        "Join the Word",
+        "Gender Classification - Feminine, Masculine",
+        "Singular, Plural",
+        "Separate",
+        "Adding Phrases"
+      ]
+    },
+    {
+      "name": "THE BHARATIYA NYAYA SANHITA, 2023",
+      "marks": 5,
+      "topics": [
+        "Definitions & General Explanations: Child, Counterfeit, Document, Harbour, Injury, Public servant, Acts done by several persons in furtherance of common intention",
+        "Punishments: Sections 4 & 11",
+        "General Exceptions: Mistake of fact, Judicial acts, Accident, Necessity, Infancy, Insanity, Intoxication, Consent, Communication made in good faith, Compulsion, Trifles (slight harm), Private defence",
+        "Offences Against Woman and Child: Rape, Sexual intercourse by husband upon his wife during separation, Sexual intercourse by a person in authority, Sexual intercourse by deceitful means, Gang rape, Repeat offences, Disclosure of identity of victims, Outraging modesty of woman, Sexual harassment, Disrobing, Voyeurism, Stalking, Insult to modesty of woman, Dowry death, Mock marriage, Bigamy, Fraudulent marriage ceremony without lawful marriage, Enticing or taking away or detaining with criminal intent a married woman, Cruelty by husband or relatives, Kidnapping to compel marriage, Causing miscarriage, Exposure or abandonment of child, Secret disposal of child's dead body, Hiring of child to commit offence, Procuration of child, Kidnapping or abducting child, Selling/buying child for prostitution",
+        "Offences Affecting the Human Body: Culpable homicide, Murder, Causing death of person other than whose death was intended, Mob lynching, Murder by life convict, Causing death by negligence, Abetment of suicide, Attempt to murder, Attempt to commit culpable homicide, Organized crime, Petty organized crime, Terrorist acts, Hurt, Grievous hurt, Causing hurt by dangerous weapons/means, Causing hurt to extort property, Causing hurt to extort confession, Causing hurt to deter public servant from his duty, Causing grievous hurt by use of acid, Acts endangering life or safety of others, Wrongful restraint, Wrongful confinement, Criminal force, Assault, Kidnapping, Abduction, Trafficking of persons, Habitual dealing in slaves, Unlawful compulsory labour",
+        "Offences Against the Public Tranquillity: Unlawful assembly, Rioting, Affray, Assaulting/obstructing public servant when suppressing riot, Promoting enmity between different groups, Imputations prejudicial to national integration",
+        "Offences By or Relating to Public Servants: Disobeying law with intent to cause injury, Disobeying direction under law, Non-treatment of victim, Framing an incorrect document with intent to cause injury, Unlawfully engaging in trade, Unlawfully buying or bidding for property, Personating a public servant, Wearing garb or carrying token used by public servant fraudulently",
+        "Offences Against Property: Theft, Snatching, Extortion, Robbery, Dacotty, Dishonest misappropriation of property, Criminal breach of trust, Stolen property, Cheating, Cheating by personation, Mischief, Criminal trespass and house trespass, House trespass and house breaking"
+      ]
+    },
+    {
+      "name": "THE BHARATIYA NAGARIK SURAKSHA SANHITA, 2023",
+      "marks": 5,
+      "topics": [
+        "Definitions: Audio-video electronic means, Bailable & non-bailable offences, Cognizable offence, Complaint, Inquiry, Investigation, Non-cognizable offence, Summons case, Victim, Warrant case",
+        "Powers of Superior Officers of Police and Aid to the Magistrates and the Police: Powers of superior officers of police, Public when to assist Magistrates and police, Aid to person executing warrant, Public to give information of certain offences, Duty of officers employed in connection with the affairs of village",
+        "Arrest of Persons: When police may arrest without warrant, Procedure of arrest and duties of officer making arrest, Designated police officer, Right of arrested person to meet an advocate during interrogation, Arrest on refusal to give name and residence, Arrest by private person and procedure on such arrest, Arrest by Magistrate, Protection of members of the Armed Forces from arrest, Arrest how made, Search of place entered by person sought to be arrested, Pursuit of offenders into other jurisdictions, No unnecessary restraint, Person arrested to be informed of grounds of arrest and of right to bail, Obligation to inform about the arrest to relative or friend, Search of arrested person, Power to seize offensive weapons, Examination of accused by medical practitioner, Examination of person accused of rape by medical practitioner, Examination of arrested person by medical practitioner, Identification of person arrested, Procedure when police officer deputes subordinate to arrest without warrant, Health and safety of arrested person, Person arrested to be taken before Magistrate or officer in charge of police station, Person arrested not to be detained more than twenty-four hours, Police to report apprehensions, Discharge of person apprehended, Power to pursue and retake escaped persons",
+        "Summons and Warrant: Form of summons, Summons how served, Service of summons on corporate bodies, Service when persons summoned cannot be found, Procedure when service cannot be effected, Service on Government servant, Service of summons outside local limits, Proof of service, Form of warrant of arrest and duration, Power to direct security to be taken, Warrants to whom directed, Warrant may be directed to any person, Warrant directed to police officer, Notification of substance of warrant, Person arrested to be brought before Court, Where warrant may be executed, Warrant forwarded for execution outside jurisdiction, Warrant directed to police officer for execution outside jurisdiction, Procedure on arrest of person against whom warrant issued",
+        "Search and Seizure: When search-warrant may be issued, Search of place suspected to contain stolen property, forged documents, etc., Power to declare certain publications forfeited and to issue search-warrants, Search for persons wrongfully confined, General provisions relating to searches, Recording of search and seizure through audio-video electronic means, Power of police officer to seize certain property, Attachment, forfeiture or restoration, Magistrate may direct search in his presence, Power to impound document, etc., produced, Reciprocal arrangements regarding processes",
+        "Maintenance of Public Order and Tranquillity: Dispersal of assembly by use of civil force, Use of armed forces to disperse assembly, Power of certain armed force officers, Protection against prosecution for acts done",
+        "Preventive Action of the Police: Police to prevent cognizable offences, Information of design to commit cognizable offences, Arrest to prevent the commission of cognizable offences, Prevention of injury to public property, Persons bound to conform to lawful directions of police",
+        "Information to the Police and Their Powers to Investigate: Information in cognizable cases, Information as to non-cognizable cases and investigation of such cases, Police officer's power to investigate cognizable case, Procedure for investigation, Report how submitted, Power to hold investigation or preliminary inquiry, Police officer's power to require attendance of witnesses, Examination of witnesses by police, Statements to police and use thereof, No inducement to be offered, Recording of confessions and statements, Medical examination of the victim of rape, Search by police officer, When officer in charge of police station may require another to issue search-warrant, Procedure when investigation cannot be completed in twenty-four hours, Report of investigation by subordinate police officer, Release of accused when evidence deficient, Cases to be sent to Magistrate when evidence is sufficient, Complainant and witnesses not to be required to accompany police officer, Diary of proceedings in investigation, Report of police officer on completion of investigation, Police to enquire and report on suicide, etc., Power to summon persons, Inquiry by Magistrate into cause of death"
+      ]
+    },
+    {
+      "name": "THE BHARATIYA SAKSHYA ADHINIYAM, 2023",
+      "marks": 5,
+      "topics": [
+        "Definitions: Document, Evidence, Fact, Facts in issue, Relevant",
+        "Confession: Confession by inducement, threat or promise, Confession to police officer, Confession of the co-accused",
+        "Statements by Persons Who Cannot Be Called As Witnesses: Statement of relevant fact by person who is dead or cannot be found, Relevancy of certain evidence for proving truth of facts in subsequent proceeding, Entries in books of account, Relevancy of entry in public record or electronic record, Relevancy of statements in maps, charts and plans, Relevancy of statement as to fact of public nature, Relevancy of statements as to any law",
+        "Opinions of Third Persons When Relevant: Opinions of experts, Facts bearing upon opinions of experts, Opinion as to handwriting and signature, Opinion as to existence of custom or right, Opinion as to usages, tenets, etc., Opinion on relationship, Grounds of opinion"
+      ]
+    },
+    {
+      "name": "THE RIGHT TO INFORMATION ACT, 2005",
+      "marks": 3,
+      "topics": [
+        "Section 2(f): Information",
+        "Section 8: Exemption from disclosure of information",
+        "Section 9: Grounds for rejection to access in certain cases",
+        "Section 11: Third party information"
+      ]
+    },
+    {
+      "name": "INDIAN CONSTITUTION",
+      "marks": 7,
+      "topics": [
+        "Constituent Assembly, Preamble, Citizenship",
+        "Fundamental Rights, Writs - Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto",
+        "Directive Principles of State Policy, Fundamental Duties",
+        "Structure of Governments - Union Executive, Parliament and Judiciary, State Executive, Legislature and Judiciary",
+        "Local Self Government Institutions (LSGIs)",
+        "Important Constitutional Amendments (42, 44, 52, 73, 74, 86, 91, 97, 101, 102, 103, 104, 105 & 106)",
+        "Constitutional Authorities and their functions - Comptroller and Auditor General, Attorney General, Advocate General, Election Commission of India, State Election Commission, Union Public Service Commission, State Public Service Commission",
+        "Finance Commission, State Finance Commission, GST Council",
+        "Distribution of legislative powers - Union List, State List, Concurrent List",
+        "Services under the Union and the States, Tribunals",
+        "National Commission for Scheduled Castes, National Commission for Scheduled Tribes, National Commission for Backward Classes",
+        "Official Language, Regional Languages, Language of the Supreme Court, High Courts, etc, Special directives relating to languages"
+      ]
+    },
+    {
+      "name": "THE INFORMATION TECHNOLOGY ACT",
+      "marks": 3,
+      "topics": [
+        "Section 43: Penalty and Compensation for damage to computer, computer system, etc.",
+        "Section 43A: Compensation for failure to protect data.",
+        "Section 65: Tampering with computer source documents.",
+        "Section 66: Computer related offences",
+        "Section 66B: Punishment for dishonestly receiving stolen computer resource or communication device.",
+        "Section 66C: Punishment for identity theft.",
+        "Section 66D: Punishment for cheating by personation by using computer resources.",
+        "Section 66E: Punishment for violation of privacy.",
+        "Section 66F: Punishment for cyber terrorism.",
+        "Section 67: Punishment for publishing or transmitting obscene material in electronic form.",
+        "Section 67A: Punishment for publishing or transmitting material containing sexually explicit act, etc in electronic form",
+        "Section 67B: Punishment for publishing or transmitting material depicting children in sexually explicit act, etc in electronic form",
+        "Section 72: Penalty for breach of confidentiality and privacy.",
+        "Section 77B: Offences with 3 years imprisonment to be bailable.",
+        "Section 78: Power to investigate offences."
+      ]
+    },
+    {
+      "name": "Basics of IT and Cyber Crimes",
+      "marks": 7,
+      "topics": [
+        "Email, Social media, Online portals, Blogs, Vlogs, Crypto currency, Block chain, Digital/Electronic signature",
+        "Cyber forensics, Computer forensics, Network forensics, Mobile forensics, Live forensics",
+        "CDR Analysis, IPDR Analysis, IMEI Number, IMSI Number",
+        "Digital Evidence, Potential digital devices: Computer, Mobile phone, Laptops, Digital Watch, Internet of things, Pendrives, CD, DVD Harddisks, Cloud Storage, CCTV, Cameras, ATM machine, Server logs",
+        "IP Address: Private IP, Public IP, Static IP, Dynamic IP, GPS, Biometrics etc",
+        "Cyber crimes: Hacking, Cyber bullying, Cyber stalking, Denial of service attacks, Web defacement, Spoofing, Morphing, Phishing, Ransomware attacks, Cyber terrorism, Source code tampering, Online frauds, Data theft, Identity theft, Online cheating, Pornography, Child pornography etc"
+      ]
+    },
+    {
+      "name": "Basics of human psychology",
+      "marks": 10,
+      "topics": [
+        "Approaches of human behaviour: Psychoanalytic, Behaviouristic, Humanistic, Gestalt",
+        "Cognitive Process: Attention, Thinking, Memory",
+        "Individual Differences: Intelligence, Emotions, Aggression and Frustration, Stress and anxiety",
+        "Social Dimensions on Behaviour: Phobia, Imitation and Modelling, Social Deviance, Cultural Deprivation, Prejudice and Discrimination, Inter group Conflict",
+        "Developmental aspects of Behaviour: Later Childhood, Adolescence, Psycho social Development, contributions of Erik Erickson, Moral Development, contributions of Kohlberg"
+      ]
+    }
+  ]
+}
