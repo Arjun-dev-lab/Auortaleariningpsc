@@ -1,27 +1,37 @@
 [
-    {
-      "id": "1",
-      "heading": "Degree prelims",
-      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/degree-prilims.json"
-    },
-    {
-      "id": "2",
-      "heading": "10th prelims",
-      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/10-th-prilims.json"
-    },
-    {
-        "id": "3",
-        "heading": "Secretariat assistant",
-        "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SECRETARIAT-ASSISTANT.JSON"
-    },
-    {
-      "id": "3",
-      "heading": "Excise Inspector",
-      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/EXCISE_INSPECTOR.json"
-    },
-    {
-      "id": "3",
-      "heading": "Sub Inspector of Police",
-      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SI_mains.json"
+  {
+    "id": "1",
+    "heading": "Degree prelims",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/degree-prilims.json"
+  },
+  {
+    "id": "2",
+    "heading": "10th prelims",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/10-th-prilims.json"
+  },
+  {
+    "id": "3",
+    "heading": "Secretariat assistant",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SECRETARIAT-ASSISTANT.JSON"
+  },
+  {
+    "id": "4",
+    "heading": "Excise Inspector",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/EXCISE_INSPECTOR.json"
+  },
+  { 
+    "id": "5",
+    "heading": "Sub Inspector of Police",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SI_mains.json"
+  },
+  {
+    "id": "6",
+    "heading": "LDC",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/LDC.json"
+  },
+  {
+    "id": "7",
+    "heading": "LP/UP School",
+    "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/LP-UP-School.json"
   }
 ]
