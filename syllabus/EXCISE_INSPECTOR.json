@@ -1,302 +1,272 @@
 {
-    "exam_name": "MAIN EXAMINATION - EXCISE INSPECTOR (TRAINEE)",
-    "paper": "",
-    "total_marks": 100,
-    "subjects": [
-      {
-        "name": "General Knowledge",
-        "marks": 42,
-        "subtopics": [
-          {
-            "name": "History",
-            "marks": 5,
-            "topics": [
-              "KERALA - Arrival of Europeans, Contributions of Europeans, History of Travancore from Marthanda Varma to Sree Chithirathirunnal, Social and Religious Reform movement, National movement in Kerala, Literary Sources of Kerala History, United Kerala Movement, Political and Social History of Kerala after 1956",
-              "INDIA - Political History, Establishment of the British, First War of Independence, Formation of INC, Swadeshi Movement, Social Reform movement, Newspapers, Literature and Arts during the freedom struggle, Independence Movement & Mahatma Gandhi, India's independent, Post independent period, State reorganization, Development in Science, Education, and Technology, Foreign policy",
-              "WORLD - Great Revolution in England, American War of Independence, French Revolution, Russian Revolution, Chinese Revolution, Political History after Second World War, UNO and other International Organizations"
-            ]
-          },
-          {
-            "name": "Geography",
-            "marks": 5,
-            "topics": [
-              "Basics of Geography - Earth Structure, Atmosphere, Rocks, Landforms, Pressure Belt and Winds, Temperature and Seasons, Global Issues, Global Warming, Various forms of Pollution, Maps, Topographic Maps and Signs, Remote Sensing, Geographic Information System, Oceans and its various movements, Continents, Nations and their specific features",
-              "INDIA - Physiography, States and its features, Northern Mountain Region, Rivers, Northern Great Plain, Peninsular Plateau, Coastal Plain, Climate, Natural Vegetation, Agriculture, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railways, Air",
-              "Kerala - Physiography, Districts and its features, Rivers, Climate, Natural Vegetation, Wild life, Agriculture and research centers, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railway, Air"
-            ]
-          },
-          {
-            "name": "Economics",
-            "marks": 5,
-            "topics": [
-              "India: Economy, Five Year Plans, New Economic Reforms, Planning Commission and Niti Aayog, Financial Institutions, Agriculture - Major Crops, Green Revolution, Minerals",
-              "Direct and indirect taxes in India, GST in India rationale and structure of GST, benefits of GST"
-            ]
-          },
-          {
-            "name": "Indian Constitution",
-            "marks": 8,
-            "topics": [
-              "Constituent Assembly, Preamble, Citizenship, Fundamental Rights, Writs - Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto",
-              "Directive Principles of State Policy, Fundamental Duties, Structure of Governments - Union Executive, Parliament and Judiciary, State Executive, Legislature and Judiciary",
-              "Local Self Government Institutions (LSGIs), Important Constitutional Amendments (42, 44, 52, 73, 74, 86, 91, 97, 101, 102, 103, 104)",
-              "Constitutional Authorities and their functions - Comptroller and Auditor General, Attorney General, Advocate General, Election Commission of India, State Election Commission, Union Public Service Commission, State Public Service Commission, Finance Commission, State Finance Commission, GST Council",
-              "Distribution of legislative powers - Union List, State List, Concurrent List",
-              "Services under the Union and the States, Tribunals, National Commission for Scheduled Castes, National Commission for Scheduled Tribes, National Commission for Backward Classes",
-              "Official Language, Regional Languages, Language of the Supreme Court, High Courts, etc, Special directives relating to languages"
-            ]
-          },
-          {
-            "name": "Kerala Governance and System of Administration",
-            "marks": 5,
-            "topics": [
-              "Kerala State Civil Service, Quasi-judicial bodies, various Commissions",
-              "Basic facts of socio-economic development, Planning Board, Commercial Planning and Policies",
-              "Disaster Management, Watershed Management, Employment and Labour, National Rural Employment Programmes, Land Reforms",
-              "Social Welfare and Security, Protection of Women, Children and Senior Citizens",
-              "Population, Literacy, E-governance, Delegated Legislation and its controls",
-              "Legislative and Judicial controls, Constitutional law remedies against Administrative Arbitrariness",
-              "Administrative Discretion and its Controls, Administrative Adjudication, Principles of Natural Justice"
-            ]
-          },
-          {
-            "name": "Life Science and Public Health",
-            "marks": 4,
-            "topics": [
-              "Basic facts of Human Body",
-              "Vitamins and Minerals and their Deficiency Diseases",
-              "Communicable Diseases and Causative Organisms, Preventive and Remedial Measures",
-              "Kerala - Welfare activities in Health Sector",
-              "Lifestyle Diseases",
-              "Basic Health Facts",
-              "Environment and Environmental Hazards"
-            ]
-          },
-          {
-            "name": "Physics",
-            "marks": 3,
-            "topics": [
-              "Branches of Physics, Matter, Units, Measurements, Physical Quantities",
-              "Motion, Newton's Laws of Motion, Third law, Momentum, Projectile Motion, Uses of Third Law, Achievements in space missions in India-ISRO",
-              "Light, Lens, Mirrors, Problems based on r = 2f, Different phenomena of Light, Rainbow, Colours of different materials, Electromagnetic Spectrum, IR rays, UV rays, X rays, Photoelectric Effect",
-              "Sound, Different types of Waves, Velocity of Sound in different media, Resonance, Reverberation",
-              "Force, Different types of Forces, Friction, Advantages and disadvantages of Friction, Liquid Pressure, Buoyant Force, Archimedes Principle, Pascal's law, Density, Relative density, Adhesive Cohesive forces, Capillarity, Viscous force, Surface tension",
-              "Gravitation, Centripetal Force, Centrifugal Force, Escape Velocity, Satellites, Escape Velocity, Weight Mass, value of 'g', 'g' in different places",
-              "Heat, Temperature, Different types of thermometers, Humidity, Relative Humidity",
-              "Work, Energy, Power, Simple problems relating to Work, Energy, Power, Levers, Different types of Levers"
-            ]
-          },
-          {
-            "name": "Chemistry",
-            "marks": 3,
-            "topics": [
-              "Atom, Molecule, States of Matter, Allotropy, Gas laws, Aqua regia",
-              "Elements, Periodic Table, Metals & Non metals, Chemical Physical changes, Chemical reactions, Solutions, Mixtures, Compounds",
-              "Metals, Non metals, Alloys, Acids, Bases, pH value, Alkaloids"
-            ]
-          },
-          {
-            "name": "Arts, Sports, Literature and Culture",
-            "marks": 4,
-            "topics": [
-              "Arts: Important Audio Visual Art Forms of Kerala, Famous Places, Institutions, Personalities, Artistes and Writers related to origin, development, extension, and practice of these Art Forms",
-              "Sports: Famous Sports personalities of Kerala, India and World, their Sports Events, achievements and awards, Important Awards - Corresponding Fields, Winners, Famous Trophies - Related Events and Sports Items, Number of Players in Important Sports Items, Important Terms associated with various Sports and Games, Olympics - Basic Facts, Venues / Countries, Famous Performances and Personalities, India in Olympics, Winter Olympics & Para Olympics, Asian Games, Afro-Asian Games, CommonWealth Games, SAF Games - Venues, Countries, Performance of India, other facts, National Games, Games - Events, Players, Achievements, National Sports / Games, Events of various Countries",
-              "Literature: Malayalam - Important Literary Movements, Icons and their first works, Main works of Literature related to each movement and their authors, Writers - Pen name and Nick name, Famous Works and Characters, Famous Quotes - Books and Authors, Beginning of Journalism in Kerala - Pioneers, Journals and Publications, Famous Awards/Honours - Writers and their works, Malayalam Writers who won the Juanpith Award and related facts, Malayalam Cinema - Origin, Development, Milestones, Pioneers, National Awards",
-              "Culture: Kerala - Important Celebrations, Places associated with such Celebrations, Important Festivals, Kerala - Cultural Centres, Worship Places, Cultural Leaders and their Contributions"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Current Affairs",
-        "marks": 8,
-        "topics": []
-      },
-      {
-        "name": "Simple Arithmetic, Mental Ability and Reasoning",
-        "marks": 10,
-        "subtopics": [
-          {
-            "name": "Simple Arithmetic",
-            "marks": 5,
-            "topics": [
-              "Numbers and Basic Operations",
-              "Fraction and Decimal Numbers",
-              "Percentage",
-              "Profit and Loss",
-              "Simple and Compound Interest",
-              "Ratio and Proportion",
-              "Time and Distance",
-              "Time and Work",
-              "Average",
-              "Laws of Exponents",
-              "Mensuration",
-              "Progressions"
-            ]
-          },
-          {
-            "name": "Mental Ability & Reasoning",
-            "marks": 5,
-            "topics": [
-              "Series",
-              "Problems on Mathematical Signs",
-              "Verifying Positions",
-              "Analogy- Word Analogy, Alphabet Analogy, Number Analogy",
-              "Odd man out",
-              "Numerical Ability",
-              "Coding and Decoding",
-              "Family Relations",
-              "Sense of Direction",
-              "Time and Angles",
-              "Time in a clock and its reflection",
-              "Date and Calendar",
-              "Clerical Ability"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "General English",
-        "marks": 10,
-        "subtopics": [
-          {
-            "name": "English Grammar",
-            "marks": 5,
-            "topics": [
-              "Types of Sentences and Interchange of Sentences",
-              "Different Parts of Speech",
-              "Agreement of Subject and Verb",
-              "Articles - The Definite and the Indefinite Articles",
-              "Uses of Primary and Modal Auxiliary Verbs",
-              "Tag Questions",
-              "Infinitives and Gerunds",
-              "Tenses",
-              "Tenses in Conditional Sentences",
-              "Prepositions",
-              "The Use of Correlatives",
-              "Direct and Indirect Speech",
-              "Active and Passive voice",
-              "Correction of Sentences"
-            ]
-          },
-          {
-            "name": "Vocabulary",
-            "marks": 5,
-            "topics": [
-              "Singular & Plural, Change of Gender, Collective Nouns",
-              "Word formation from other words and use of prefix or suffix",
-              "Compound words",
-              "Synonyms",
-              "Antonyms",
-              "Phrasal Verbs",
-              "Foreign Words and Phrases",
-              "One Word Substitutes",
-              "Words often confused",
-              "Spelling Test",
-              "Idioms and their Meanings"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Regional Language",
-        "marks": 10,
-        "subtopics": [
-          {
-            "name": "Malayalam",
-            "marks": 0,
-            "topics": [
-              "Word Purity",
-              "Correct Sentence",
-              "Translation",
-              "Single Word",
-              "Synonyms",
-              "Opposite Words",
-              "Idioms and Proverbs",
-              "Equivalent Word",
-              "Join the Word",
-              "Feminine Gender, Masculine Gender",
-              "Number",
-              "Separate and Write",
-              "Component Words (Write sentences by joining words)"
-            ]
-          },
-          {
-            "name": "Kannada",
-            "marks": 0,
-            "topics": [
-              "Word Purity / Correct Word",
-              "Correct Sentence",
-              "Translation",
-              "One Word / Single Word / One Word Substitution",
-              "Synonyms",
-              "Antonyms",
-              "Idioms and Proverbs",
-              "Equivalent Word",
-              "Join the Word",
-              "Feminine Gender, Masculine Gender",
-              "Number",
-              "Sort and Write"
-            ]
-          },
-          {
-            "name": "Tamil",
-            "marks": 0,
-            "topics": [
-              "Correct Word",
-              "Correct Structure of Sentence",
-              "Translation",
-              "Single Word",
-              "Synonyms",
-              "Antonyms / Opposite",
-              "Phrases and Proverbs",
-              "Equal Word",
-              "Join the Word",
-              "Gender Classification - Feminine, Masculine",
-              "Singular, Plural",
-              "Separate",
-              "Adding Phrases"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Special Topic",
-        "marks": 20,
-        "subtopics": [
-          {
-            "name": "Nature of duty of Excise Inspector",
-            "marks": 18,
-            "topics": [
-              "Module 1: Duties and powers of Excise Inspector - Jurisdiction, Duties and powers under sections 40 to 53 of the Abkari Act, Powers under NDPS Act and COTPA, Hierarchial structure of Excise Department",
-              "Module 2: Duty of Excise Inspector in charge of Range Offices - Jurisdiction, Powers regarding special permits under section 11 of the Abkari Act",
-              "Module 3: Duty of Excise Inspector in charge of Distilleries, warehouses and Breweries or Wineries - Jurisdiction, Powers regarding transport of liquors",
-              "Module 4: Duty of Excise Inspector in charge of Excise Enforcement and Anti Narcotic Special Squad and Excise Intelligence and Investigation Bureau - Jurisdiction, Powers under various sections of Abkari Act",
-              "Module 5: Miscellaneous - Awareness against alcoholism and drug abuse"
-            ]
-          },
-          {
-            "name": "THE INFORMATION TECHNOLOGY ACT",
-            "marks": 2,
-            "topics": [
-              "Section 43: Penalty and Compensation for damage to computer, computer system, etc.",
-              "Section 43A: Compensation for failure to protect data.",
-              "Section 65: Tampering with computer source documents.",
-              "Section 66: Computer related offences",
-              "Section 66B: Punishment for dishonestly receiving stolen computer resource or communication device.",
-              "Section 66C: Punishment for identity theft.",
-              "Section 66D: Punishment for cheating by personation by using computer resources.",
-              "Section 66E: Punishment for violation of privacy.",
-              "Section 66F: Punishment for cyber terrorism.",
-              "Section 67: Punishment for publishing or transmitting obscene material in electronic form.",
-              "Section 67A: Punishment for publishing or transmitting material containing sexually explicit act, etc in electronic form",
-              "Section 67B: Punishment for publishing or transmitting material depicting children in sexually explicit act, etc in electronic form",
-              "Section 72: Penalty for breach of confidentiality and privacy.",
-              "Section 77B: Offences with 3 years imprisonment to be bailable.",
-              "Section 78: Power to investigate offences."
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "exam_name": "MAIN EXAMINATION - EXCISE INSPECTOR (TRAINEE)",
+  "paper": "Main ",
+  "total_marks": 100,
+  "subjects": [
+    {
+      "name": "History",
+      "marks": 5,
+      "topics": [
+        "KERALA - Arrival of Europeans, Contributions of Europeans, History of Travancore from Marthanda Varma to Sree Chithirathirunnal, Social and Religious Reform movement, National movement in Kerala, Literary Sources of Kerala History, United Kerala Movement, Political and Social History of Kerala after 1956",
+        "INDIA - Political History, Establishment of the British, First War of Independence, Formation of INC, Swadeshi Movement, Social Reform movement, Newspapers, Literature and Arts during the freedom struggle, Independence Movement & Mahatma Gandhi, India's independent, Post independent period, State reorganization, Development in Science, Education, and Technology, Foreign policy",
+        "WORLD - Great Revolution in England, American War of Independence, French Revolution, Russian Revolution, Chinese Revolution, Political History after Second World War, UNO and other International Organizations"
+      ]
+    },
+    {
+      "name": "Geography",
+      "marks": 5,
+      "topics": [
+        "Basics of Geography - Earth Structure, Atmosphere, Rocks, Landforms, Pressure Belt and Winds, Temperature and Seasons, Global Issues, Global Warming, Various forms of Pollution, Maps, Topographic Maps and Signs, Remote Sensing, Geographic Information System, Oceans and its various movements, Continents, Nations and their specific features",
+        "INDIA - Physiography, States and its features, Northern Mountain Region, Rivers, Northern Great Plain, Peninsular Plateau, Coastal Plain, Climate, Natural Vegetation, Agriculture, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railways, Air",
+        "Kerala - Physiography, Districts and its features, Rivers, Climate, Natural Vegetation, Wild life, Agriculture and research centers, Minerals and Industries, Energy Sources, Transport system - Road, Water, Railway, Air"
+      ]
+    },
+    {
+      "name": "Economics",
+      "marks": 5,
+      "topics": [
+        "India: Economy, Five Year Plans, New Economic Reforms, Planning Commission and Niti Aayog, Financial Institutions, Agriculture - Major Crops, Green Revolution, Minerals",
+        "Direct and indirect taxes in India, GST in India rationale and structure of GST, benefits of GST"
+      ]
+    },
+    {
+      "name": "Indian Constitution",
+      "marks": 8,
+      "topics": [
+        "Constituent Assembly, Preamble, Citizenship, Fundamental Rights, Writs - Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto",
+        "Directive Principles of State Policy, Fundamental Duties, Structure of Governments - Union Executive, Parliament and Judiciary, State Executive, Legislature and Judiciary",
+        "Local Self Government Institutions (LSGIs), Important Constitutional Amendments (42, 44, 52, 73, 74, 86, 91, 97, 101, 102, 103, 104)",
+        "Constitutional Authorities and their functions - Comptroller and Auditor General, Attorney General, Advocate General, Election Commission of India, State Election Commission, Union Public Service Commission, State Public Service Commission, Finance Commission, State Finance Commission, GST Council",
+        "Distribution of legislative powers - Union List, State List, Concurrent List",
+        "Services under the Union and the States, Tribunals, National Commission for Scheduled Castes, National Commission for Scheduled Tribes, National Commission for Backward Classes",
+        "Official Language, Regional Languages, Language of the Supreme Court, High Courts, etc, Special directives relating to languages"
+      ]
+    },
+    {
+      "name": "Kerala Governance and System of Administration",
+      "marks": 5,
+      "topics": [
+        "Kerala State Civil Service, Quasi-judicial bodies, various Commissions",
+        "Basic facts of socio-economic development, Planning Board, Commercial Planning and Policies",
+        "Disaster Management, Watershed Management, Employment and Labour, National Rural Employment Programmes, Land Reforms",
+        "Social Welfare and Security, Protection of Women, Children and Senior Citizens",
+        "Population, Literacy, E-governance, Delegated Legislation and its controls",
+        "Legislative and Judicial controls, Constitutional law remedies against Administrative Arbitrariness",
+        "Administrative Discretion and its Controls, Administrative Adjudication, Principles of Natural Justice"
+      ]
+    },
+    {
+      "name": "Life Science and Public Health",
+      "marks": 4,
+      "topics": [
+        "Basic facts of Human Body",
+        "Vitamins and Minerals and their Deficiency Diseases",
+        "Communicable Diseases and Causative Organisms, Preventive and Remedial Measures",
+        "Kerala - Welfare activities in Health Sector",
+        "Lifestyle Diseases",
+        "Basic Health Facts",
+        "Environment and Environmental Hazards"
+      ]
+    },
+    {
+      "name": "Physics",
+      "marks": 3,
+      "topics": [
+        "Branches of Physics, Matter, Units, Measurements, Physical Quantities",
+        "Motion, Newton's Laws of Motion, Third law, Momentum, Projectile Motion, Uses of Third Law, Achievements in space missions in India-ISRO",
+        "Light, Lens, Mirrors, Problems based on r = 2f, Different phenomena of Light, Rainbow, Colours of different materials, Electromagnetic Spectrum, IR rays, UV rays, X rays, Photoelectric Effect",
+        "Sound, Different types of Waves, Velocity of Sound in different media, Resonance, Reverberation",
+        "Force, Different types of Forces, Friction, Advantages and disadvantages of Friction, Liquid Pressure, Buoyant Force, Archimedes Principle, Pascal's law, Density, Relative density, Adhesive Cohesive forces, Capillarity, Viscous force, Surface tension",
+        "Gravitation, Centripetal Force, Centrifugal Force, Escape Velocity, Satellites, Escape Velocity, Weight Mass, value of 'g', 'g' in different places",
+        "Heat, Temperature, Different types of thermometers, Humidity, Relative Humidity",
+        "Work, Energy, Power, Simple problems relating to Work, Energy, Power, Levers, Different types of Levers"
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "marks": 3,
+      "topics": [
+        "Atom, Molecule, States of Matter, Allotropy, Gas laws, Aqua regia",
+        "Elements, Periodic Table, Metals & Non metals, Chemical Physical changes, Chemical reactions, Solutions, Mixtures, Compounds",
+        "Metals, Non metals, Alloys, Acids, Bases, pH value, Alkaloids"
+      ]
+    },
+    {
+      "name": "Arts, Sports, Literature and Culture",
+      "marks": 4,
+      "topics": [
+        "Arts: Important Audio Visual Art Forms of Kerala, Famous Places, Institutions, Personalities, Artistes and Writers related to origin, development, extension, and practice of these Art Forms",
+        "Sports: Famous Sports personalities of Kerala, India and World, their Sports Events, achievements and awards, Important Awards - Corresponding Fields, Winners, Famous Trophies - Related Events and Sports Items, Number of Players in Important Sports Items, Important Terms associated with various Sports and Games, Olympics - Basic Facts, Venues / Countries, Famous Performances and Personalities, India in Olympics, Winter Olympics & Para Olympics, Asian Games, Afro-Asian Games, CommonWealth Games, SAF Games - Venues, Countries, Performance of India, other facts, National Games, Games - Events, Players, Achievements, National Sports / Games, Events of various Countries",
+        "Literature: Malayalam - Important Literary Movements, Icons and their first works, Main works of Literature related to each movement and their authors, Writers - Pen name and Nick name, Famous Works and Characters, Famous Quotes - Books and Authors, Beginning of Journalism in Kerala - Pioneers, Journals and Publications, Famous Awards/Honours - Writers and their works, Malayalam Writers who won the Juanpith Award and related facts, Malayalam Cinema - Origin, Development, Milestones, Pioneers, National Awards",
+        "Culture: Kerala - Important Celebrations, Places associated with such Celebrations, Important Festivals, Kerala - Cultural Centres, Worship Places, Cultural Leaders and their Contributions"
+      ]
+    },
+    {
+      "name": "Current Affairs",
+      "marks": 8,
+      "topics": []
+    },
+    {
+      "name": "Simple Arithmetic",
+      "marks": 5,
+      "topics": [
+        "Numbers and Basic Operations",
+        "Fraction and Decimal Numbers",
+        "Percentage",
+        "Profit and Loss",
+        "Simple and Compound Interest",
+        "Ratio and Proportion",
+        "Time and Distance",
+        "Time and Work",
+        "Average",
+        "Laws of Exponents",
+        "Mensuration",
+        "Progressions"
+      ]
+    },
+    {
+      "name": "Mental Ability & Reasoning",
+      "marks": 5,
+      "topics": [
+        "Series",
+        "Problems on Mathematical Signs",
+        "Verifying Positions",
+        "Analogy- Word Analogy, Alphabet Analogy, Number Analogy",
+        "Odd man out",
+        "Numerical Ability",
+        "Coding and Decoding",
+        "Family Relations",
+        "Sense of Direction",
+        "Time and Angles",
+        "Time in a clock and its reflection",
+        "Date and Calendar",
+        "Clerical Ability"
+      ]
+    },
+    {
+      "name": "English Grammar",
+      "marks": 5,
+      "topics": [
+        "Types of Sentences and Interchange of Sentences",
+        "Different Parts of Speech",
+        "Agreement of Subject and Verb",
+        "Articles - The Definite and the Indefinite Articles",
+        "Uses of Primary and Modal Auxiliary Verbs",
+        "Tag Questions",
+        "Infinitives and Gerunds",
+        "Tenses",
+        "Tenses in Conditional Sentences",
+        "Prepositions",
+        "The Use of Correlatives",
+        "Direct and Indirect Speech",
+        "Active and Passive voice",
+        "Correction of Sentences"
+      ]
+    },
+    {
+      "name": "Vocabulary",
+      "marks": 5,
+      "topics": [
+        "Singular & Plural, Change of Gender, Collective Nouns",
+        "Word formation from other words and use of prefix or suffix",
+        "Compound words",
+        "Synonyms",
+        "Antonyms",
+        "Phrasal Verbs",
+        "Foreign Words and Phrases",
+        "One Word Substitutes",
+        "Words often confused",
+        "Spelling Test",
+        "Idioms and their Meanings"
+      ]
+    },
+    {
+      "name": "Malayalam",
+      "marks": 0,
+      "topics": [
+        "Word Purity",
+        "Correct Sentence",
+        "Translation",
+        "Single Word",
+        "Synonyms",
+        "Opposite Words",
+        "Idioms and Proverbs",
+        "Equivalent Word",
+        "Join the Word",
+        "Feminine Gender, Masculine Gender",
+        "Number",
+        "Separate and Write",
+        "Component Words (Write sentences by joining words)"
+      ]
+    },
+    {
+      "name": "Kannada",
+      "marks": 0,
+      "topics": [
+        "Word Purity / Correct Word",
+        "Correct Sentence",
+        "Translation",
+        "One Word / Single Word / One Word Substitution",
+        "Synonyms",
+        "Antonyms",
+        "Idioms and Proverbs",
+        "Equivalent Word",
+        "Join the Word",
+        "Feminine Gender, Masculine Gender",
+        "Number",
+        "Sort and Write"
+      ]
+    },
+    {
+      "name": "Tamil",
+      "marks": 0,
+      "topics": [
+        "Correct Word",
+        "Correct Structure of Sentence",
+        "Translation",
+        "Single Word",
+        "Synonyms",
+        "Antonyms / Opposite",
+        "Phrases and Proverbs",
+        "Equal Word",
+        "Join the Word",
+        "Gender Classification - Feminine, Masculine",
+        "Singular, Plural",
+        "Separate",
+        "Adding Phrases"
+      ]
+    },
+    {
+      "name": "Nature of duty of Excise Inspector",
+      "marks": 18,
+      "topics": [
+        "Module 1: Duties and powers of Excise Inspector - Jurisdiction, Duties and powers under sections 40 to 53 of the Abkari Act, Powers under NDPS Act and COTPA, Hierarchial structure of Excise Department",
+        "Module 2: Duty of Excise Inspector in charge of Range Offices - Jurisdiction, Powers regarding special permits under section 11 of the Abkari Act",
+        "Module 3: Duty of Excise Inspector in charge of Distilleries, warehouses and Breweries or Wineries - Jurisdiction, Powers regarding transport of liquors",
+        "Module 4: Duty of Excise Inspector in charge of Excise Enforcement and Anti Narcotic Special Squad and Excise Intelligence and Investigation Bureau - Jurisdiction, Powers under various sections of Abkari Act",
+        "Module 5: Miscellaneous - Awareness against alcoholism and drug abuse"
+      ]
+    },
+    {
+      "name": "THE INFORMATION TECHNOLOGY ACT",
+      "marks": 2,
+      "topics": [
+        "Section 43: Penalty and Compensation for damage to computer, computer system, etc.",
+        "Section 43A: Compensation for failure to protect data.",
+        "Section 65: Tampering with computer source documents.",
+        "Section 66: Computer related offences",
+        "Section 66B: Punishment for dishonestly receiving stolen computer resource or communication device.",
+        "Section 66C: Punishment for identity theft.",
+        "Section 66D: Punishment for cheating by personation by using computer resources.",
+        "Section 66E: Punishment for violation of privacy.",
+        "Section 66F: Punishment for cyber terrorism.",
+        "Section 67: Punishment for publishing or transmitting obscene material in electronic form.",
+        "Section 67A: Punishment for publishing or transmitting material containing sexually explicit act, etc in electronic form",
+        "Section 67B: Punishment for publishing or transmitting material depicting children in sexually explicit act, etc in electronic form",
+        "Section 72: Penalty for breach of confidentiality and privacy.",
+        "Section 77B: Offences with 3 years imprisonment to be bailable.",
+        "Section 78: Power to investigate offences."
+      ]
+    }
+  ]
+}
