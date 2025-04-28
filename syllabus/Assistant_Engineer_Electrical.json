@@ -1,0 +1,157 @@
+{
+    "exam_name": "ASSISTANT ENGINEER (ELECTRICAL) (KSEB)",
+    "paper": "Technical Paper",
+    "total_marks": 100,
+    "subjects": [
+        {
+            "name": "1. Electric Circuits",
+            "marks": 10,
+            "topics": [
+                "Kirchoff's laws",
+                "Maximum power transfer theorem",
+                "Star/delta transformation",
+                "Energy stored in a capacitor and inductor",
+                "Analysis of coupled circuits - dot polarity convention",
+                "Sinusoidal steady state analysis of coupled circuits",
+                "Generation of alternating voltages and currents",
+                "RMS value, average value, peak factor, form factor",
+                "AC through series R, L, C circuit - series resonance - resonant power - bandwidth",
+                "Resonance in parallel circuits"
+            ]
+        },
+        {
+            "name": "2. Magnetic Circuits",
+            "marks": 10,
+            "topics": [
+                "Absolute and relative permeability of a medium",
+                "Magnetic field strength - magnetic potential",
+                "Relation between magnetism and electricity",
+                "Series and parallel magnetic circuits with composite materials",
+                "Faraday's laws of electromagnetic induction",
+                "Lenz's law",
+                "Statically and dynamically induced emf"
+            ]
+        },
+        {
+            "name": "3. Electrical Machines",
+            "marks": 10,
+            "topics": [
+                "DC Generators - Constructional details, working principle",
+                "Types of DC generators - EMF equation - power stages",
+                "Condition for maximum efficiency",
+                "DC motor - armature control and field control",
+                "Single phase transformer - working principle, equivalent circuit",
+                "Losses in a transformer - condition for maximum efficiency",
+                "Three phase transformer - construction",
+                "Difference between power transformer and distribution transformer",
+                "Alternators - constructional details",
+                "Synchronous motor - starting methods - synchronous condenser",
+                "Three phase induction motor - working principle, constructional details",
+                "Slip, torque and current equations - torque-speed curve",
+                "Special Electrical Machines: Types and applications"
+            ]
+        },
+        {
+            "name": "4. Digital Electronics",
+            "marks": 10,
+            "topics": [
+                "Number Systems and Codes: Binary, Octal and hexadecimal conversions",
+                "ASCII code, Excess-3 code, Gray code",
+                "Combinational circuits - Adders - Full adder and half adder",
+                "Multiplexers - Demultiplexers",
+                "Flipflops - registers - counters",
+                "Digital-to-Analogue and Analogue-to-Digital conversion",
+                "Microprocessors - Internal architecture of 8085 microprocessor",
+                "Functional block diagram Instruction set",
+                "Addressing modes - Classification of instructions - Status flags",
+                "Machine cycles and T states - Fetch and execute cycles - Timing diagram"
+            ]
+        },
+        {
+            "name": "5. Power Systems",
+            "marks": 10,
+            "topics": [
+                "Line parameters - resistance - inductance and capacitance",
+                "Insulators - string efficiency - corona",
+                "Circuit breakers: rating, types",
+                "CTs - PTs - Relays - types",
+                "Per unit quantities - symmetrical components",
+                "Symmetrical and unsymmetrical fault",
+                "Power system stability - steady state, dynamic and transient stability",
+                "Power angle curve",
+                "Load Flow analysis - Gauss Siedal, Newton Raphson, Fast decoupled load flow"
+            ]
+        },
+        {
+            "name": "6. Control Systems",
+            "marks": 10,
+            "topics": [
+                "Transfer function of LTI systems",
+                "Block diagram reduction",
+                "Signal flow graph - Mason's gain formula",
+                "Type and Order of the systems - Characteristic equation",
+                "Time domain specifications of transient and steady state responses",
+                "Impulse and Step responses of first order and second order systems",
+                "Static error coefficients of type 0,1,2 systems",
+                "Routh's stability criterion",
+                "Frequency domain specifications",
+                "Polar plot and Bode plot",
+                "Concepts of gain margin and phase margin - stability analysis"
+            ]
+        },
+        {
+            "name": "7. Power Electronics and Operational Amplifiers",
+            "marks": 10,
+            "topics": [
+                "SCR - Structure, Static characteristics",
+                "Fully controlled and half controlled bridge rectifier with R, RL and RLE loads",
+                "Voltage Source Inverters - 1-phase half-bridge & full bridge inverter with R and RL loads",
+                "Three phase inverter - Pulse width modulation",
+                "Single quadrant, Two quadrant and Four quadrant chopper",
+                "Operational Amplifiers - fundamental differential amplifier",
+                "Modes of operation",
+                "Properties of ideal and practical Op-amp - gain, CMRR and slew rate"
+            ]
+        },
+        {
+            "name": "8. Measurements and Instrumentation",
+            "marks": 10,
+            "topics": [
+                "Measurement standards - errors - Types of Errors",
+                "Classification of instruments, secondary instruments - indicating, integrating and recording",
+                "Ammeters and voltmeters - moving coil, moving iron",
+                "Measurement of power: Dynamometer type wattmeter - Construction and working",
+                "Three phase power measurement - single wattmeter and two wattmeter methods",
+                "Measurement of energy - Single phase energy meter - construction and working",
+                "Digital Energy meters - Time of Day(TOD) meters",
+                "Oscilloscopes - principle of operation of general purpose CRO",
+                "Basics of vertical and horizontal deflection system"
+            ]
+        },
+        {
+            "name": "9. Signals and Systems",
+            "marks": 10,
+            "topics": [
+                "Classification of signals - Elementary signals",
+                "Basic operations on continuous time and discrete time signals",
+                "Concept of systems - Classification of systems",
+                "Properties of systems - Time invariance - Linearity - Causality - Memory - Stability",
+                "Sampling process - Impulse train sampling",
+                "Sampling theorem - Aliasing effect",
+                "Zero order and First order hold circuits"
+            ]
+        },
+        {
+            "name": "10. Transducers, Batteries, Electrical wiring",
+            "marks": 10,
+            "topics": [
+                "General classification - LVDT - angular displacement transducers - hall effect transducers",
+                "Batteries - Primary cells - secondary cells - battery ratings - grouping of cells",
+                "Wiring - systems of wiring - rules for domestic wiring",
+                "Earthing - types of earthing - rules for earthing",
+                "Illumination - Laws of illumination",
+                "Electric lamps - different types"
+            ]
+        }
+    ]
+}

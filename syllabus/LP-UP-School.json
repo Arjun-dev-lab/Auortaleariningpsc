@@ -1,5 +1,5 @@
 {
-    "exam_name": "DETAILED SYLLABUS FOR THE POST OF UP SCHOOL TEACHER MALAYALAM MEDIUM (EDUCATION)",
+    "exam_name": "LP/UP SCHOOL TEACHER MALAYALAM MEDIUM (EDUCATION)",
     "paper": "Common Paper",
     "total_marks": 100,
     "subjects": [
@@ -157,7 +157,7 @@
           "പാരമ്പര്യവും പര്യാവരണവും (Heredtiy and environment)",
           "അഭിക്ഷമതാ പരീക്ഷകൾ (Aptitude tests)",
           "അഭിപ്രേരണ ( Motivation)",
-          "³³´µ (Adjustment mechanism)",
+          "സമായോജന തന്ത്രങ്ങൾ (Adjustment mechanism)",
           "മനശ്ശാസ്ത്രഗവേഷണ ഉപാധികളും രീതികളും",
           "കേരള പാഠ്യപദ്ധതി ചട്ടക്കൂട്",
           "ക്ലാസ്സ് മുറിയിലെ പഠനപ്രക്രിയ",
@@ -177,20 +177,18 @@
         "name": "PART V General English",
         "marks": 10,
         "topics": [
-          "A. Language Comprehension :- An unfamiliar passage is given to check factual, inferential, analytical and evaluative comprehension.",
-          "B. Grammar. 1. Article 2. Concord 3. Tense & Time 4. Prepositions 5. Phrasal verbs 6. Determiners 7. Gerunds 8. Linkers 9. Auxiliaries 10. Vocabulary",
-          "C. Pedagogy of English Langugage Teaching : 1. Language Acquisition & Learning 2. Language and Thought 3. Language skills 4. Objectives of language teaching in LP classes 5. Assessment & evaluation of language teaching.",
-          "Questions will be from the text book of standard 1 to 10 developed by SCERT Kerala."
-        ]
+            "A. Language Comprehension :- An unfamiliar passage is given to check factual, inferential, analytical, and evaluative comprehension.",
+            "B. Grammar. 1. Article, 2. Concord, 3. Tense & Time, 4. Prepositions, 5. Phrasal verbs, 6. Determiners, 7. Gerunds, 8. Linkers, 9. Auxiliaries, 10. Vocabulary",
+            "C. Pedagogy of English Language Teaching : 1. Language Acquisition & Learning, 2. Language and Thought, 3. Language skills, 4. Objectives of language teaching in LP classes, 5. Assessment & evaluation of language teaching."]
       },
       {
         "name": "PART VI മലയാളം",
         "marks": 10,
         "topics": [
           "I. സാഹിത്യപരം - കവിതാസാഹിത്യം, കഥാസാഹിത്യം, നോവൽ, ആത്മകഥ/ജീവചരിത്രം, വൈജ്ഞാനികസാഹിത്യം, ബാലസാഹിത്യം",
-          "II. ഭാഷാപരം - ഭാഷാചരിത്രം, ☐ പ്രായോഗിക വ്യാകരണം (പത്താംതരം നിലവാരം) -  പദശുദ്ധി (സന്ധികാര്യങ്ങൾ ഉൾപ്പെടെ),  പദങ്ങൾ സമാസിക്കലും വിഗ്രഹിക്കലും,   വാക്യരൂപങ്ങൾ (പ്രകാരം), ☑ അനുപ്രയോഗം,    വാക്യഘടനയും വാക്യശുദ്ധിയും, ലിംഗം, വചനം തുടങ്ങിയവ, കാലം, അർത്ഥബോധം (പദങ്ങൾ, ശൈലികൾ, പ്രയോഗങ്ങൾ, വാക്യസന്ദർഭങ്ങൾ കാവ്യസന്ദർഭങ്ങൾ), കാവ്യബോധം (കവിത, ഗദ്യം, പഴഞ്ചൊൽ തുടങ്ങിയവയിലെ അലങ്കാരം, ധ്വനി ഇവ കത്തെൽ), അവധാരണം - ഗദ്യം/ അവധാരണം പദ്യം",
+          "II. ഭാഷാപരം - ഭാഷാചരിത്രം,  പ്രായോഗിക വ്യാകരണം (പത്താംതരം നിലവാരം) -  പദശുദ്ധി (സന്ധികാര്യങ്ങൾ ഉൾപ്പെടെ),  പദങ്ങൾ സമാസിക്കലും വിഗ്രഹിക്കലും,   വാക്യരൂപങ്ങൾ (പ്രകാരം), ☑ അനുപ്രയോഗം,    വാക്യഘടനയും വാക്യശുദ്ധിയും, ലിംഗം, വചനം തുടങ്ങിയവ, കാലം, അർത്ഥബോധം (പദങ്ങൾ, ശൈലികൾ, പ്രയോഗങ്ങൾ, വാക്യസന്ദർഭങ്ങൾ കാവ്യസന്ദർഭങ്ങൾ), കാവ്യബോധം (കവിത, ഗദ്യം, പഴഞ്ചൊൽ തുടങ്ങിയവയിലെ അലങ്കാരം, ധ്വനി ഇവ കത്തെൽ), അവധാരണം - ഗദ്യം/ അവധാരണം പദ്യം",
           "III. ബോധനശാസ്ത്രപരം - ഉദ്ഗ്രഥിത സമീപനം, ഭാഷാപഠനസിദ്ധാന്തങ്ങൾ, ആസൂത്രണം",
-          "The following table:  \"X \",\"വാർഷികാസൂത്രണം \" \"X \",\"യൂണിറ്റാസൂത്രണം \" \"X \",\"ദൈനംദിനാസൂത്രണം \" \"X \",\"വിലയിരുത്തൽ \""
+          "IV. ആസൂത്രണം : വാർഷികാസൂത്രണം, യൂണിറ്റാസൂത്രണം, ദൈനംദിനാസൂത്രണം, വിലയിരുത്തൽ"
         ]
       }
     ]

@@ -1,0 +1,193 @@
+{
+    "exam_name": "ASSISTANT IN UNIVERSITIES IN KERALA",
+    "paper": "Common Paper",
+    "total_marks": 100,
+    "subjects": [
+        {
+            "name": "I. GENERAL KNOWLEDGE - HISTORY",
+            "marks": 5,
+            "topics": [
+                "KERALA - Arrival of Europeans, Contributions of Europeans, History of Travancore from Marthanda Varma to Sree Chithirathirunnal, Social and Religious Reform movement, National movement in Kerala, Literary Sources of Kerala History, United Kerala Movement, Political and Social History of Kerala after 1956.",
+                "INDIA – Political History, Establishment of the British, First War of Independence, Formation of INC, Swadeshi Movement, Social Reform movement, Newspapers, Literature and Arts during the freedom struggle, Independence Movement & Mahathma Gandhi, India’s independent, Post independent period, State reorganization, Development in Science, Education, and Technology, Foreign policy.",
+                "WORLD – Great Revolution in England, American War of Independence, French Revolution, Russian Revolution, Chinese Revolution, Political History after Second World War, UNO and other International Organizations."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - GEOGRAPHY",
+            "marks": 5,
+            "topics": [
+                "Basics of Geography – Earth Structure, Atmosphere, Rocks, Landforms, Pressure Belt and Winds, Temperature and Seasons, Global Issues, Global Warming, Various forms of Pollution, Maps, Topographic Maps and Signs, Remote Sensing, Geographic Information System, Oceans and its various movements, Continents, Nations and their specific features.",
+                "INDIA – Physiography, States and its features, Northern Mountain Region, Rivers, Northern Great Plain, Peninsular Plateau, Coastal Plain, Climate, Natural Vegetation, Agriculture, Minerals and Industries, Energy Sources, Transport system – Road, Water, Railways, Air.",
+                "Kerala – Physiography, Districts and its features, Rivers, Climate, Natural Vegetation, Wild life, Agriculture and research centers, Minerals and Industries, Energy Sources, Transport system – Road, Water, Railway, Air."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - ECONOMICS",
+            "marks": 5,
+            "topics": [
+                "India: Economy, Five Year Plans, New Economic Reforms, Planning Commission and Niti Aayog, Financial Institutions, Agriculture – Major Crops, Green Revolution, Minerals.",
+                "Direct and indirect taxes in India, GST in India rationale and structure of GST, benefits of GST."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - INDIAN CONSTITUTION",
+            "marks": 5,
+            "topics": [
+                "Constituent Assembly, Preamble, Citizenship, Fundamental Rights, Writs - Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto.",
+                "Directive Principles of State Policy, Fundamental Duties, Structure of Governments, Union Executive, Parliament and Judiciary, State Executive, Legislature and Judiciary, Local Self Government Institutions (LSGIs).",
+                "Important Constitutional Amendments (42, 44, 52, 73, 74, 86, 91, 97, 101, 102, 103, 104).",
+                "Constitutional Authorities and their functions - Comptroller and Auditor General, Attorney General, Advocate General, Election Commission of India, State Election Commission, Union Public Service Commission, State Public Service Commission, Finance Commission, State Finance Commission, GST Council.",
+                "Distribution of legislative powers- Union List, State List, Concurrent List, Services under the Union and the States, Tribunals, National Commission for Scheduled Castes, National Commission for Scheduled Tribes, National Commission for Backward Classes, Official Language, Regional Languages, Language of the Supreme Court, High Courts, etc, Special directives relating to languages."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - KERALA GOVERNANCE AND SYSTEM OF ADMINISTRATION",
+            "marks": 5,
+            "topics": [
+                "Kerala State Civil Service, Quasi-judicial bodies, various Commissions, Basic facts of socio-economic development, Planning Board, Commercial Planning and Policies, Disaster Management, Watershed Management, Employment and Labour, National Rural Employment Programmes, Land Reforms, Social Welfare and Security, Protection of Women, Children and Senior Citizens.",
+                "Population, Literacy, E-governance, Delegated Legislation and its controls, Legislative and Judicial controls, Constitutional law remedies against Administrative Arbitrariness, Administrative Discretion and its Controls, Administrative Adjudication, Principles of Natural Justice."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - LIFE SCIENCE",
+            "marks": 3,
+            "topics": [
+                "Basic facts of Human Body.",
+                "Vitamins and Minerals and their Deficiency Diseases.",
+                "Communicable Diseases and Causative Organisms, Preventive and Remedial Measures.",
+                "Lifestyle Diseases."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - PHYSICS",
+            "marks": 3,
+            "topics": [
+                "Branches of Physics, Matter, Units, Measurements, Physical Quantities.",
+                "Motion, Newton’s Laws of Motion, Third law, Momentum, Projectile Motion, Uses of Third Law, Achievements in space missions in India, ISRO.",
+                "Light, Lens, Mirrors, Problems based on r = 2f, Different phenomena of Light, Rainbow, Colours of different materials, Electromagnetic Spectrum, IR rays, UV rays, X rays, Photoelectric Effect.",
+                "Sound, Different types of Waves, Velocity of Sound in different media, Resonance, Reverberation.",
+                "Force, Different types of Forces, Friction, Advantages and disadvantages of Friction, Liquid Pressure, Buoyant Force, Archimedes Principle, Pascal’s law, Density, Relative density, Adhesive Cohesive forces, Capillarity, Viscous force, Surface tension.",
+                "Gravitation, Centripetal Force, Centrifugal Force, Escape Velocity, Satellites, Escape Velocity, Weight Mass, value of ‘g’, ‘g’ in different places.",
+                "Heat, Temperature, Different types of thermometers, Humidity, Relative Humidity.",
+                "Work, Energy, Power, Simple problems relating to Work, Energy, Power, Levers, Different types of Levers."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - CHEMISTRY",
+            "marks": 3,
+            "topics": [
+                "Atom, Molecule, States of Matter, Allotropy, Gas laws, Aqua regia.",
+                "Elements, Periodic Table, Metals & Non metals, Chemical Physical changes, Chemical reactions, Solutions, Mixtures, Compounds.",
+                "Metals, Non metals, Alloys, Acids, Bases, pH value, Alkaloids."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - ARTS, SPORTS, LITERATURE AND CULTURE",
+            "marks": 5,
+            "topics": [
+                "Arts: Important Audio Visual Art Forms of Kerala, Famous Places, Institutions, Personalities, Artistes and Writers related to origin, development, extension, and practice of these Art Forms.",
+                "Sports: Famous Sports personalities of Kerala, India and World, their Sports Events, achievements and awards, Important Awards, Corresponding Fields, Winners, Famous Trophies, Related Events and Sports Items, Number of Players in Important Sports Items, Important Terms associated with various Sports and Games, Olympics, Basic Facts, Venues / Countries, Famous Performances and Personalities, India in Olympics, Winter Olympics & Para Olympics, Asian Games, Afro-Asian Games, CommonWealth Games, SAF Games, Venues, Countries, Performance of India, other facts, National Games, Games, Events, Players, Achievements, National Sports / Games, Events of various Countries.",
+                "Literature: Malayalam, Important Literary Movements, Icons and their first works, Main works of Literature related to each movement and their authors, Writers, Pen name and Nick name, Famous Works and Characters, Famous Quotes, Books and Authors, Beginning of Journalism in Kerala, Pioneers, Journals and Publications, Famous Awards/ Honours, Writers and their works, Malayalam Writers who won the Inanpith Award and related facts, Malayalam Cinema, Origin, Development, Milestones, Pioneers, National Awards.",
+                "Culture: Kerala, Important Celebrations, Places associated with such Celebrations, Important Festivals, Kerala, Cultural Centres, Worship Places, Cultural Leaders and their Contributions."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - BASICS OF COMPUTER",
+            "marks": 3,
+            "topics": [
+                "Hardware: Input Devices (Names and uses), Output Devices (Names and uses/features), Memory devices - Primary and Secondary (Examples, Features).",
+                "Software: Classification, System software and Application software, Operating System, Functions and examples, Popular Application software packages, Word processors, Spreadsheets, Database packages, Presentation, Image editors (Uses, features and fundamental concepts of each), Basics of programming, Types of instructions (Input, Output, Store, Control, Transfer) (Languages need not be considered).",
+                "Computer Networks: Types of networks, LAN, WAN, MAN (Features and application area), Network Devices, Media, Switch, Hub, Router, Bridge, Gateway (Uses of each).",
+                "Internet: Services, WWW, E-mail, Search engines (Examples and purposes), Social Media (Examples and features), Web Designing, Browser, HTML (Basics only).",
+                "Cyber Wrongs (Awareness Level): Types of Cyber Wrongs (Awareness level), Information Technology Act, 2000 (Awareness level)."
+            ]
+        },
+        {
+            "name": "I. GENERAL KNOWLEDGE - IMPORTANT ACTS (EDUCATION POLICY, ACTS AND COMMISSIONS)",
+            "marks": 13,
+            "topics": [
+                "Unit 1 Education Commissions and Acts after independence: University Education Commission (1948–1949), Major recommendations on Higher education, The Secondary Education Commission (1952–1953), Major recommendations, University Grants Commission 1953, UGC Act in 1956, University Grants Commission, Grant-giving agency & determination and maintenance of standards in institutions of higher education, Indian Education Commission or The Kothari Commission (1964–66), Major recommendations & reforms, National Knowledge Commission 2005, 2006 & 2009, Major recommendations (6 marks).",
+                "Unit 2: National Policies on Education: National Policy on Education 1968, Key highlights, covers elementary education to colleges in both rural and urban India, equivalent opportunity for all including Women, ST and SC communities to study, The National Policy on Education 1986, Key highlights, Common Minimum Programme (2005), National Policy on Education (Programme of Action)1992, Key highlights, Revised Policy Formulations (RPF) 1992, Reforms, Report of Yashpal Committee 1993, Learning Without Burden, Major Recommendations, National Education Policy (NEP) 2020, Main features (7 marks)."
+            ]
+        },
+        {
+            "name": "II. CURRENT AFFAIRS",
+            "marks": 15,
+            "topics": []
+        },
+        {
+            "name": "III. SIMPLE ARITHMETIC, MENTAL ABILITY AND REASONING",
+            "marks": 10,
+            "topics": [
+                "Simple Arithmetic: Numbers and Basic Operations, Fraction and Decimal Numbers, Percentage, Profit and Loss, Simple and Compound Interest, Ratio and Proportion, Time and Distance, Time and Work, Average, Laws of Exponents, Mensuration, Progressions (5 Marks).",
+                "Mental Ability & Reasoning: Series, Problems on Mathematical Signs, Verifying Positions, Analogy- Word Analogy, Alphabet Analogy, Number Analogy, Odd man out, Numerical Ability, Coding and Decoding, Family Relations, Sense of Direction, Time and Angles, Time in a clock and its reflection, Date and Calendar, Clerical Ability (5 Marks)."
+            ]
+        },
+        {
+            "name": "IV. GENERAL ENGLISH",
+            "marks": 10,
+            "topics": [
+                "English Grammar: Types of Sentences and Interchange of Sentences, Different Parts of Speech, Agreement of Subject and Verb, Articles - Definite and Indefinite Articles, Uses of Primary and Modal Auxiliary Verbs, Question Tags, Infinitive and Gerunds, Tenses, Tenses in Conditional Sentences, Prepositions, The Use of Correlatives, Direct and Indirect Speech, Active and Passive voice, Correction of Sentences, Degrees of Comparison (5 Marks).",
+                "Vocabulary: Singular & Plural, Change of Gender, Collective Nouns, Word formation from other words and use of prefix or suffix, Compound words, Synonyms, Antonyms, Phrasal Verbs, Foreign Words and Phrases, One Word Substitutes, Words often confused, Spelling Test, Idioms and their Meanings, Expansion and meaning of Common Abbreviations (5 Marks)."
+            ]
+        },
+        {
+            "name": "V. REGIONAL LANGUAGE - MALAYALAM",
+            "marks": 10,
+            "topics": [
+              "പദശുദ്ധി",
+              "വാക്യശുദ്ധി",
+              "പരിഭാഷ",
+              "ഒറ്റപ്പദം",
+              "പര്യായം",
+              "വിപരീതപദം",
+              "ശൈലികൾ",
+              "പഴഞ്ചൊല്ലുകൾ",
+              "സമാനപദം",
+              "ചേർത്തെഴുതുക",
+              "സ്ത്രീലിംഗം",
+              "പുല്ലിംഗം",
+              "വചനം",
+              "പിരിച്ചെഴുതൽ",
+              "ഘടകപദം (വാക്യം ചേർത്തെഴുതുക)"
+            ]
+        },
+        {
+            "name": "V. REGIONAL LANGUAGE - KANNADA",
+            "marks": 10,
+            "topics": [
+                "Word Purity / Correct Word",
+                "Correct Sentence",
+                "Translation",
+                "One Word / Single Word / One Word Substitution",
+                "Synonyms",
+                "Antonyms",
+                "Idioms and Proverbs",
+                "Equivalent Word",
+                "Join the Word",
+                "Feminine Gender, Masculine Gender",
+                "Number",
+                "Sort and Write"
+            ]
+        },
+        {
+            "name": "V. REGIONAL LANGUAGE - TAMIL",
+            "marks": 10,
+            "topics": [
+                "Correct Word",
+                "Correct Structure of Sentence",
+                "Translation",
+                "Single Word",
+                "Synonyms",
+                "Antonyms / Opposite",
+                "Phrases and Proverbs",
+                "Equal Word",
+                "Join the Word",
+                "Gender Classification – Feminine, Masculine",
+                "Singular, Plural",
+                "Separate",
+                "Adding Phrases"
+            ]
+        }
+    ]
+}
