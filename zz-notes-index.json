@@ -10,6 +10,54 @@
       "heading": "Geography",
       "chapters": "10",
       "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/geography.json"
+    },
+    {
+      "id": "3",
+      "heading": "Political Science",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/politicalscience.json"
+    },
+    {
+      "id": "4",
+      "heading": "Economics",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/economics.json"
+    },
+    {
+      "id": "5",
+      "heading": "Physics",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/science.json"
+    },
+    {
+      "id": "6",
+      "heading": "Chemistry",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/generalknowledge.json"
+    },
+    {
+      "id": "7",
+      "heading": "Biology",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/currentaffairs.json"
+    },
+    {
+      "id": "8",
+      "heading": "Mathematics",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/mathematics.json"
+    },
+    {
+      "id": "9",
+      "heading": "General English",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/generalenglish.json"
+    },
+    {
+      "id": "10",
+      "heading": "Malayalam",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/generalmalayalam.json"
     }
   ]
   
