@@ -1,9 +1,50 @@
 [
-    {
-      "id": "1",
-      "title": "Indian Rivers",
-      "topics": "Ganga, Yamuna, Brahmaputra, Godavari, Krishna, Narmada, Tapi, Mahanadi, Kaveri, Periyar",
-      "pdfUrl": "https://drive.google.com/file/d/1x899fIa_MczhZ6gC0tJHuJbX1KL0J_Cv/view?usp=drive_link"
-    }
-  ]
-  
+  {
+    "id": "1",
+    "title": "Indian Agriculture",
+    "topics": "Types of Agriculture, Green Revolution, Agricultural Policies in India",
+    "pdfUrl": "https://drive.google.com/file/d/17hS6xxiE7RNwypcna-GykndwsPY8XBVz/view?usp=sharing"
+  },
+  {
+    "id": "2",
+    "title": "Indian Climate",
+    "topics": "Monsoon, Tropical Climate, Temperate Climate, Arid Climate",
+    "pdfUrl": "https://drive.google.com/file/d/1QFEvfVxSi6AoO4jA3nZJeKblXrXpWUYv/view?usp=sharing"
+  },
+  {
+    "id": "3",
+    "title": "Indian Deserts",
+    "topics": "Thar Desert, Kutch Desert, Deccan Plateau, Chhotanagpur Plateau",
+    "pdfUrl": "https://drive.google.com/file/d/1wGhHIbEITjceOuT5M2ydWvBinBnbf-lf/view?usp=sharing"
+  },
+  {
+    "id": "4",
+    "title": "Indian Mountains",
+    "topics": "Himalayas, Western Ghats, Eastern Ghats, Aravalli Range, Vindhya Range, Satpura Range, Nilgiri Hills",
+    "pdfUrl": "https://drive.google.com/file/d/1bK55CDQxQ5gZBzWRjIYLbG3q5w6-D-ED/view?usp=sharing"
+  },
+  {
+    "id": "5",
+    "title": "Indian Population",
+    "topics": "Population Growth, Population Density, Population Distribution",
+    "pdfUrl": "https://drive.google.com/file/d/1mSRzKtir96SVzr3xSZn1_ZErTARStPXY/view?usp=sharing"
+  },
+  {
+    "id": "6",
+    "title": "Indian Soil",
+    "topics": "Types of Soil, Soil Erosion, Soil Conservation",
+    "pdfUrl": "https://drive.google.com/file/d/1kpVkI3XW5IZcpddxYlpFWK1rlXwQSD9H/view?usp=sharing"
+  },
+  {
+    "id": "7",
+    "title": "Indian Transport",
+    "topics": "Roadways, Railways, Airways, Waterways",
+    "pdfUrl": "https://drive.google.com/file/d/143p6XxgvXv4qbmAMtEUMU4XzHJb7hXKA/view?usp=sharing"
+  },
+  {
+    "id": "8",
+    "title": "Indian Rivers",
+    "topics": "Ganga, Yamuna, Brahmaputra, Godavari, Krishna, Narmada, Tapi, Mahanadi, Kaveri, Periyar",
+    "pdfUrl": "https://drive.google.com/file/d/1zFti6EhNNmnNkzP2qxVX4b6-Qixt90cs/view?usp=sharing"
+  }
+]
