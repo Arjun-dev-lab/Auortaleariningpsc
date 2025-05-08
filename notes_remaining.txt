@@ -1,0 +1,31 @@
+,
+    {
+      "id": "6",
+      "heading": "Chemistry",
+      "chapters": "5",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/chemistry.json"
+    },
+    {
+      "id": "7",
+      "heading": "Biology",
+      "chapters": "5",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/biology.json"
+    },
+    {
+      "id": "8",
+      "heading": "Mathematics",
+      "chapters": "5",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/mathematics.json"
+    },
+    {
+      "id": "9",
+      "heading": "General English",
+      "chapters": "5",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/generalenglish.json"
+    },
+    {
+      "id": "10",
+      "heading": "Malayalam",
+      "chapters": "5",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/generalmalayalam.json"
+    }

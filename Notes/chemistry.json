@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Basic Concepts of Chemistry",
+        "topics": "Basic Concepts of Chemistry",
+        "pdfUrl": "https://drive.google.com/file/d/1s4g0v2qk3x5X8J6m7j9Qe5G4z1Yw7K0N/view?usp=sharing"
+    },
+    {
+        "id": "2",
+        "title": "Chemical Bonding and Molecular Structure",
+        "topics": "Types of Bonds, VSEPR Theory, Hybridization",
+        "pdfUrl": "https://drive.google.com/file/d/1s4g0v2qk3x5X8J6m7j9Qe5G4z1Yw7K0N/view?usp=sharing"
+    },
+    {
+        "id": "3",
+        "title": "States of Matter",
+        "topics": "Gases and Liquids, Ideal Gas Equation, Kinetic Molecular Theory",
+        "pdfUrl": "https://drive.google.com/file/d/1s4g0v2qk3x5X8J6m7j9Qe5G4z1Yw7K0N/view?usp=sharing"
+    },
+    {
+        "id": "4",
+        "title": "Equilibrium",
+        "topics": "Chemical Equilibrium, Le Chatelier's Principle, Acid-Base Equilibrium",
+        "pdfUrl": "https://drive.google.com/file/d/1s4g0v2qk3x5X8J6m7j9Qe5G4z1Yw7K0N/view?usp=sharing"
+    },
+    {
+        "id": "5",
+        "title": "Redox Reactions",
+        "topics": "Oxidation and Reduction, Balancing Redox Reactions",
+        "pdfUrl": "https://drive.google.com/file/d/1s4g0v2qk3x5X8J6m7j9Qe5G4z1Yw7K0N/view?usp=sharing"
+    },
+    {
+        "id": "6",
+        "title": "Hydrocarbons",
+        "topics": "Alkanes, Alkenes, Alkynes, Aromatic Compounds",
+        "pdfUrl": "https://drive.google.com/file/d/1s4g0v2qk3x5X8J6m7j9Qe5G4z1Yw7K0N/view?usp=sharing"
+    }
+]
