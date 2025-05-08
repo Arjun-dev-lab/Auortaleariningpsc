@@ -3,36 +3,36 @@
         "id": "1",
         "title": "Physics Basics",
         "topics": "Physics Basics",
-        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+        "pdfUrl": "https://drive.google.com/file/d/13sVSD3bnxRdgeojivxHO7ZILCastqekb/view?usp=sharing"
     },
     {
         "id": "2",
         "title": "Mechanics",
         "topics": "Newton's Laws, Kinematics, Dynamics",
-        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+        "pdfUrl": "https://drive.google.com/file/d/1FecxK1PPYjalIfzN46HuzSjuDtzhHIzQ/view?usp=sharing"
     },
     {
         "id": "3",
         "title": "Thermodynamics",
         "topics": "Laws of Thermodynamics, Heat Transfer, Thermodynamic Processes",
-        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+        "pdfUrl": "https://drive.google.com/file/d/1srlciB8237sb8vkaKD6hC5Uj7WaAldMw/view?usp=sharing"
     },
     {
         "id": "4",
         "title": "Electromagnetism",
         "topics": "Electric Fields, Magnetic Fields, Electromagnetic Induction",
-        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+        "pdfUrl": "https://drive.google.com/file/d/1h8pgtR7VSYECyI-6z9MT_3xHMFLEb0ft/view?usp=sharing"
     },
     {
         "id": "5",
         "title": "Optics",
-        "topics": "Reflection, Refraction, Lenses and Mirrors",
-        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+        "topics": "Reflection, Refraction, Lenses and Mirrors, Optics important formulas",
+        "pdfUrl": "https://drive.google.com/file/d/1HWqNEY_2POPZ1jOSw1JameqlEruVF3U-/view?usp=sharing"
     },
     {
         "id": "6",
         "title": "Modern Physics",
-        "topics": "Quantum Mechanics, Relativity, Atomic Models",
-        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+        "topics": "Atomic Structure, Dual Nature of Radiation and Matter, Nuclei, Radioactivity, Semiconductors",
+        "pdfUrl": "https://drive.google.com/file/d/1NwYMcMx7KFMoM9VNAcdsAp1gfmq8y9uA/view?usp=sharing"
     }
 ]
