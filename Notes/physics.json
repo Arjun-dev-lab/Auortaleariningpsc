@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "Physics Basics",
+        "topics": "Physics Basics",
+        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+    },
+    {
+        "id": "2",
+        "title": "Mechanics",
+        "topics": "Newton's Laws, Kinematics, Dynamics",
+        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+    },
+    {
+        "id": "3",
+        "title": "Thermodynamics",
+        "topics": "Laws of Thermodynamics, Heat Transfer, Thermodynamic Processes",
+        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+    },
+    {
+        "id": "4",
+        "title": "Electromagnetism",
+        "topics": "Electric Fields, Magnetic Fields, Electromagnetic Induction",
+        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+    },
+    {
+        "id": "5",
+        "title": "Optics",
+        "topics": "Reflection, Refraction, Lenses and Mirrors",
+        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+    },
+    {
+        "id": "6",
+        "title": "Modern Physics",
+        "topics": "Quantum Mechanics, Relativity, Atomic Models",
+        "pdfUrl": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j/view?usp=sharing"
+    }
+]
