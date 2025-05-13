@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Random Biology - 1 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/random-1.json"
+    },
+    {
+        "id": 2,
+        "title": "Random Biology - 2 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/random-2.json"
+    },
+    {
+        "id": 3,
+        "title": "Random Biology - 3 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/random-3.json"
+    }
+]

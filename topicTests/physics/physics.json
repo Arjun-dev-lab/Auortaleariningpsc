@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Random Physics - 1 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/random-1.json"
+    },
+    {
+        "id": 2,
+        "title": "Random Physics - 2 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/random-2.json"
+    },
+    {
+        "id": 3,
+        "title": "Random Physics - 3 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/random-3.json"
+    }
+]
