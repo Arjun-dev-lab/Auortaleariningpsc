@@ -2,31 +2,43 @@
     {
         "id": 1,
         "title": "English",
+        "total_questions": 30,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/english/english.json"
     },
     {
         "id": 2,
         "title": "Science",
+        "total_questions": 60,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/science/science.json"
     },
     {
         "id": 3,
         "title": "Biology",
+        "total_questions": 60,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/biology.json"
     },
     {
         "id": 4,
         "title": "Physics",
+        "total_questions": 60,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/physics.json"
     },
     {
         "id": 5,
         "title": "Chemistry",
+        "total_questions": 60,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/chemistry/chemistry.json"
     },
     {
         "id": 6,
         "title": "History",
+        "total_questions": 60,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/History/history.json"
+    },
+    {
+        "id": 7,
+        "title": "Mathematics",
+        "total_questions": 30,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/mathamatics/mathamatics.json"
     }
 ]
