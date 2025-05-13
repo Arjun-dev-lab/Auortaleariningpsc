@@ -4,5 +4,17 @@
         "title": "Random mathematics - 1 (Malayalam)",
         "total_questions": 30,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/mathematics/random-1.json"
+    },
+    {
+        "id": 2,
+        "title": "Random mathematics - 2 (Malayalam)",
+        "total_questions": 30,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/mathematics/random-2.json"
+    },
+    {
+        "id": 3,
+        "title": "Random mathematics - 3 (Malayalam)",
+        "total_questions": 30,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/mathematics/random-3.json"
     }
 ]
