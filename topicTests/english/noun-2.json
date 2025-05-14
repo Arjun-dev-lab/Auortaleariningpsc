@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following sentences uses a proper noun correctly?",
+    "options": ["I visited the eiffel tower.", "I visited the Eiffel Tower.", "I visited Eiffel tower.", "I visited Eiffel Tower the."],
+    "answer": "I visited the Eiffel Tower."
+  },
+  {
+    "id": 2,
+    "question": "Choose the option that correctly uses the plural form of the noun 'child'.",
+    "options": ["childs", "childrens", "children", "childeses"],
+    "answer": "children"
+  },
+  {
+    "id": 3,
+    "question": "Identify the sentence where the underlined word is an abstract noun: 'She has a beautiful house.' / 'Their friendship is strong.' / 'He saw a bird.' / 'They have a team.'",
+    "options": ["She has a beautiful house.", "Their friendship is strong.", "He saw a bird.", "They have a team."],
+    "answer": "Their friendship is strong."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following nouns is uncountable?",
+    "options": ["chair", "book", "water", "table"],
+    "answer": "water"
+  },
+  {
+    "id": 5,
+    "question": "Select the option that forms a compound noun correctly.",
+    "options": ["foot ball", "tooth paste", "sun flower", "bed room"],
+    "answer": "sun flower"
+  },
+  {
+    "id": 6,
+    "question": "Which sentence contains a collective noun?",
+    "options": ["The cat sat on the mat.", "The audience enjoyed the play.", "He bought a new car.", "She is a talented singer."],
+    "answer": "The audience enjoyed the play."
+  },
+  {
+    "id": 7,
+    "question": "Choose the correct possessive form of the noun 'teacher'.",
+    "options": ["teacher's", "teachers'", "teacherss'", "teacher"],
+    "answer": "teacher's"
+  },
+  {
+    "id": 8,
+    "question": "Which of these can function as both a countable and an uncountable noun depending on the context?",
+    "options": ["furniture", "advice", "hair", "information"],
+    "answer": "hair"
+  },
+  {
+    "id": 9,
+    "question": "Identify the sentence where the underlined word is a material noun: 'He lives in a big city.' / 'They have a lot of furniture.' / 'She showed great courage.' / 'The committee met yesterday.'",
+    "options": ["He lives in a big city.", "They have a lot of furniture.", "She showed great courage.", "The committee met yesterday."],
+    "answer": "They have a lot of furniture."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a plural noun that does not end in '-s'?",
+    "options": ["cars", "boxes", "mice", "pens"],
+    "answer": "mice"
+  },
+  {
+    "id": 11,
+    "question": "Choose the option that correctly fills the blank: 'The ______ of bees was buzzing loudly.'",
+    "options": ["group", "swarm", "flock", "herd"],
+    "answer": "swarm"
+  },
+  {
+    "id": 12,
+    "question": "Which sentence uses a common noun as the subject?",
+    "options": ["Kerala is beautiful.", "The river flows gently.", "She likes reading Shakespeare.", "Monday is a holiday."],
+    "answer": "The river flows gently."
+  },
+  {
+    "id": 13,
+    "question": "Identify the abstract noun formed from the adjective 'strong'.",
+    "options": ["stronger", "strongly", "strength", "strongness"],
+    "answer": "strength"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a compound noun?",
+    "options": ["happy", "quickly", "sunrise", "beautiful"],
+    "answer": "sunrise"
+  },
+  {
+    "id": 15,
+    "question": "Select the correct plural form of 'tooth'.",
+    "options": ["tooths", "teeths", "teeth", "toothes"],
+    "answer": "teeth"
+  },
+  {
+    "id": 16,
+    "question": "Which sentence contains a proper noun as the object?",
+    "options": ["They painted the wall.", "She visited her aunt.", "He reads the newspaper.", "We went to Delhi."],
+    "answer": "We went to Delhi."
+  },
+  {
+    "id": 17,
+    "question": "Choose the uncountable noun from the list.",
+    "options": ["coin", "table", "advice", "flower"],
+    "answer": "advice"
+  },
+  {
+    "id": 18,
+    "question": "What is the possessive plural form of 'woman'?",
+    "options": ["woman's", "womens'", "women's", "womans's"],
+    "answer": "women's"
+  },
+  {
+    "id": 19,
+    "question": "Identify the sentence where the underlined word is a collective noun: 'The book was interesting.' / 'The family went on vacation.' / 'He showed courage.' / 'They bought some gold.'",
+    "options": ["The book was interesting.", "The family went on vacation.", "He showed courage.", "They bought some gold."],
+    "answer": "The family went on vacation."
+  },
+  {
+    "id": 20,
+    "question": "Which of these nouns typically takes a singular verb?",
+    "options": ["students", "police", "furniture", "players"],
+    "answer": "furniture"
+  },
+  {
+    "id": 21,
+    "question": "Choose the correct plural form of 'mouse'.",
+    "options": ["mouses", "mice", "mices", "mousen"],
+    "answer": "mice"
+  },
+  {
+    "id": 22,
+    "question": "Which sentence uses an abstract noun as the object of a preposition?",
+    "options": ["They sat under the tree.", "She spoke with kindness.", "He walked to the market.", "The book is on the table."],
+    "answer": "She spoke with kindness."
+  },
+  {
+    "id": 23,
+    "question": "Identify the material noun in the following group: wood, happiness, team, Delhi.",
+    "options": ["happiness", "team", "Delhi", "wood"],
+    "answer": "wood"
+  },
+  {
+    "id": 24,
+    "question": "What is the singular possessive form of 'children'?",
+    "options": ["children's", "child's", "childrens'", "childs'"],
+    "answer": "child's"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is NOT a compound noun?",
+    "options": ["blackboard", "waterfall", "quickly", "football"],
+    "answer": "quickly"
+  },
+  {
+    "id": 26,
+    "question": "Choose the option that correctly fills the blank: 'A ______ of fish swam by.'",
+    "options": ["pack", "school", "herd", "gang"],
+    "answer": "school"
+  },
+  {
+    "id": 27,
+    "question": "Which sentence contains only common nouns?",
+    "options": ["Mary went to the park.", "The dog chased the ball.", "They live in London.", "Monday was a busy day."],
+    "answer": "The dog chased the ball."
+  },
+  {
+    "id": 28,
+    "question": "Identify the abstract noun formed from the verb 'believe'.",
+    "options": ["believer", "believing", "belief", "believed"],
+    "answer": "belief"
+  },
+  {
+    "id": 29,
+    "question": "What is the plural form of the compound noun 'passer-by'?",
+    "options": ["passers-by", "passer-bys", "passersby", "passerbys"],
+    "answer": "passers-by"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following nouns is usually uncountable?",
+    "options": ["story", "song", "music", "picture"],
+    "answer": "music"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a proper noun?",
+    "options": ["city", "river", "Ganga", "mountain"],
+    "answer": "Ganga"
+  },
+  {
+    "id": 2,
+    "question": "Identify the common noun in the sentence: 'The dog barked loudly at the stranger.'",
+    "options": ["dog", "barked", "loudly", "stranger"],
+    "answer": "dog"
+  },
+  {
+    "id": 3,
+    "question": "Which of these is an abstract noun?",
+    "options": ["table", "honesty", "flower", "computer"],
+    "answer": "honesty"
+  },
+  {
+    "id": 4,
+    "question": "Find the collective noun from the options.",
+    "options": ["singer", "team", "player", "game"],
+    "answer": "team"
+  },
+  {
+    "id": 5,
+    "question": "Which word in the sentence is a noun: 'She bought a new book yesterday.'",
+    "options": ["She", "bought", "new", "book"],
+    "answer": "book"
+  },
+  {
+    "id": 6,
+    "question": "Identify the material noun.",
+    "options": ["happiness", "gold", "wisdom", "childhood"],
+    "answer": "gold"
+  },
+  {
+    "id": 7,
+    "question": "'Kindness' is what kind of noun?",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Abstract noun"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT a noun?",
+    "options": ["teacher", "school", "quickly", "student"],
+    "answer": "quickly"
+  },
+  {
+    "id": 9,
+    "question": "The police dispersed the 'crowd'. What type of noun is 'crowd'?",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Collective noun"
+  },
+  {
+    "id": 10,
+    "question": "Which is a common noun?",
+    "options": ["India", "Delhi", "girl", "Monday"],
+    "answer": "girl"
+  },
+  {
+    "id": 11,
+    "question": "Identify the abstract noun in the sentence: 'They showed great courage during the storm.'",
+    "options": ["They", "great", "courage", "storm"],
+    "answer": "courage"
+  },
+  {
+    "id": 12,
+    "question": "'Mumbai' is an example of a:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Material noun"],
+    "answer": "Proper noun"
+  },
+  {
+    "id": 13,
+    "question": "Which of these is a material noun?",
+    "options": ["air", "beauty", "friendship", "government"],
+    "answer": "air"
+  },
+  {
+    "id": 14,
+    "question": "The 'flock' of birds flew south. 'Flock' is a:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Collective noun"
+  },
+  {
+    "id": 15,
+    "question": "Which word is a noun: 'He runs very fast.'",
+    "options": ["He", "runs", "very", "fast"],
+    "answer": "He"
+  },
+  {
+    "id": 16,
+    "question": "'Childhood' is what kind of noun?",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Material noun"],
+    "answer": "Abstract noun"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a common noun?",
+    "options": ["Shakespeare", "London", "play", "January"],
+    "answer": "play"
+  },
+  {
+    "id": 18,
+    "question": "Identify the collective noun: 'The committee has made a decision.'",
+    "options": ["The", "committee", "has", "decision"],
+    "answer": "committee"
+  },
+  {
+    "id": 19,
+    "question": "'Silver' is an example of a:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Material noun"],
+    "answer": "Material noun"
+  },
+  {
+    "id": 20,
+    "question": "Which of these is an abstract noun?",
+    "options": ["pen", "anger", "tree", "water"],
+    "answer": "anger"
+  },
+  {
+    "id": 21,
+    "question": "Find the proper noun.",
+    "options": ["country", "continent", "Asia", "ocean"],
+    "answer": "Asia"
+  },
+  {
+    "id": 22,
+    "question": "The 'library' has many books. 'Library' is a:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Common noun"
+  },
+  {
+    "id": 23,
+    "question": "'Truth' is what type of noun?",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Material noun"],
+    "answer": "Abstract noun"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is NOT a noun?",
+    "options": ["singer", "song", "singing", "sweetly"],
+    "answer": "sweetly"
+  },
+  {
+    "id": 25,
+    "question": "The 'army' marched forward. 'Army' is a:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Collective noun"
+  },
+  {
+    "id": 26,
+    "question": "Identify the material noun: 'The ring is made of diamond.'",
+    "options": ["ring", "made", "of", "diamond"],
+    "answer": "diamond"
+  },
+  {
+    "id": 27,
+    "question": "'Justice' is an example of:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Material noun"],
+    "answer": "Abstract noun"
+  },
+  {
+    "id": 28,
+    "question": "Which is a proper noun?",
+    "options": ["month", "day", "August", "year"],
+    "answer": "August"
+  },
+  {
+    "id": 29,
+    "question": "The students are in the 'class'. 'Class' is a:",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Collective noun"],
+    "answer": "Collective noun"
+  },
+  {
+    "id": 30,
+    "question": "'Water' is what kind of noun?",
+    "options": ["Common noun", "Proper noun", "Abstract noun", "Material noun"],
+    "answer": "Material noun"
+  }
+]
