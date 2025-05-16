@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "The branch of physics that studies the nucleus of an atom is called:",
+        "options": [
+            "Atomic Physics",
+            "Nuclear Physics",
+            "Particle Physics",
+            "Quantum Mechanics"
+        ],
+        "answer": "Nuclear Physics"
+    },
+    {
+        "id": 2,
+        "question": "The amount of matter in an object is its:",
+        "options": [
+            "Weight",
+            "Volume",
+            "Mass",
+            "Density"
+        ],
+        "answer": "Mass"
+    },
+    {
+        "id": 3,
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Watt",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton"
+    },
+    {
+        "id": 4,
+        "question": "The rate at which work is done is called:",
+        "options": [
+            "Energy",
+            "Force",
+            "Power",
+            "Momentum"
+        ],
+        "answer": "Power"
+    },
+    {
+        "id": 5,
+        "question": "The study of the properties of materials in their solid phase is called:",
+        "options": [
+            "Plasma Physics",
+            "Solid-state Physics",
+            "Atomic Physics",
+            "Molecular Physics"
+        ],
+        "answer": "Solid-state Physics"
+    },
+    {
+        "id": 6,
+        "question": "The space occupied by matter is its:",
+        "options": [
+            "Mass",
+            "Weight",
+            "Volume",
+            "Density"
+        ],
+        "answer": "Volume"
+    },
+    {
+        "id": 7,
+        "question": "What is the SI unit of energy?",
+        "options": [
+            "Newton",
+            "Watt",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Joule"
+    },
+    {
+        "id": 8,
+        "question": "The product of mass and velocity is called:",
+        "options": [
+            "Force",
+            "Energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": "Momentum"
+    },
+    {
+        "id": 9,
+        "question": "The branch of physics that deals with the very small, including atoms and subatomic particles, is:",
+        "options": [
+            "Classical Mechanics",
+            "Relativity",
+            "Quantum Mechanics",
+            "Thermodynamics"
+        ],
+        "answer": "Quantum Mechanics"
+    },
+    {
+        "id": 10,
+        "question": "The ratio of mass to volume is:",
+        "options": [
+            "Weight",
+            "Pressure",
+            "Density",
+            "Force"
+        ],
+        "answer": "Density"
+    },
+    {
+        "id": 11,
+        "question": "What is the SI unit of pressure?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal",
+            "Watt"
+        ],
+        "answer": "Pascal"
+    },
+    {
+        "id": 12,
+        "question": "The force exerted by gravity on an object is its:",
+        "options": [
+            "Mass",
+            "Volume",
+            "Weight",
+            "Density"
+        ],
+        "answer": "Weight"
+    },
+    {
+        "id": 13,
+        "question": "The study of celestial objects and phenomena is called:",
+        "options": [
+            "Geophysics",
+            "Astrophysics",
+            "Biophysics",
+            "Chemical Physics"
+        ],
+        "answer": "Astrophysics"
+    },
+    {
+        "id": 14,
+        "question": "The ability to do work is:",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": "Energy"
+    },
+    {
+        "id": 15,
+        "question": "What is the SI unit of luminous intensity?",
+        "options": [
+            "Lumen",
+            "Lux",
+            "Candela",
+            "Weber"
+        ],
+        "answer": "Candela"
+    },
+    {
+        "id": 16,
+        "question": "The change in velocity per unit time is:",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": "Acceleration"
+    },
+    {
+        "id": 17,
+        "question": "The physics of the Earth and its environment in space is called:",
+        "options": [
+            "Astrophysics",
+            "Geophysics",
+            "Atmospheric Physics",
+            "Oceanography"
+        ],
+        "answer": "Geophysics"
+    },
+    {
+        "id": 18,
+        "question": "Anything that occupies space and has mass is:",
+        "options": [
+            "Energy",
+            "Vacuum",
+            "Matter",
+            "Radiation"
+        ],
+        "answer": "Matter"
+    },
+    {
+        "id": 19,
+        "question": "What is the SI unit of frequency?",
+        "options": [
+            "Hertz",
+            "Joule",
+            "Newton",
+            "Volt"
+        ],
+        "answer": "Hertz"
+    },
+    {
+        "id": 20,
+        "question": "The total path length traveled by an object is:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Distance",
+            "Acceleration"
+        ],
+        "answer": "Distance"
+    }
+]

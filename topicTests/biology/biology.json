@@ -16,5 +16,29 @@
         "title": "Random Biology - 3 (Malayalam)",
         "total_questions": 20,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/random-3.json"
+    },
+    {
+        "id": 4,
+        "title": "1. മനുഷ്യശരീരത്തെക്കുറിച്ചുള്ള പൊതു അറിവ് (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/Human-body.json"
+    },
+    {
+        "id": 5,
+        "title": "2. മനുഷ്യശരീരത്തെക്കുറിച്ചുള്ള പൊതു അറിവ് (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/Human-body-2.json"
+    },
+    {
+        "id": 6,
+        "title": "3. About the human body (English)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/Human-body-3.json"
+    },
+    {
+        "id": 7,
+        "title": "4. About the human body (English)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/biology/Human-body-4.json"
     }
 ]

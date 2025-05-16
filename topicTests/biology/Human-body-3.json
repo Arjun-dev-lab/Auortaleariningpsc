@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary function of red blood cells?",
+        "options": [
+            "Fighting infection",
+            "Clotting blood",
+            "Transporting oxygen",
+            "Producing hormones"
+        ],
+        "answer": "Transporting oxygen"
+    },
+    {
+        "id": 2,
+        "question": "Which organ produces bile?",
+        "options": [
+            "Stomach",
+            "Pancreas",
+            "Liver",
+            "Kidney"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the windpipe?",
+        "options": [
+            "Esophagus",
+            "Larynx",
+            "Trachea",
+            "Pharynx"
+        ],
+        "answer": "Trachea"
+    },
+    {
+        "id": 4,
+        "question": "Which part of the brain is mainly responsible for balance and coordination?",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Brainstem",
+            "Thalamus"
+        ],
+        "answer": "Cerebellum"
+    },
+    {
+        "id": 5,
+        "question": "What is the chemical symbol for iron, which is important in hemoglobin?",
+        "options": [
+            "Na",
+            "K",
+            "Fe",
+            "Ca"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "id": 6,
+        "question": "Which type of joint allows the widest range of motion?",
+        "options": [
+            "Hinge joint",
+            "Pivot joint",
+            "Ball and socket joint",
+            "Gliding joint"
+        ],
+        "answer": "Ball and socket joint"
+    },
+    {
+        "id": 7,
+        "question": "What is the function of platelets in the blood?",
+        "options": [
+            "Transporting nutrients",
+            "Fighting pathogens",
+            "Clotting blood",
+            "Carrying carbon dioxide"
+        ],
+        "answer": "Clotting blood"
+    },
+    {
+        "id": 8,
+        "question": "Which hormone regulates blood sugar levels?",
+        "options": [
+            "Adrenaline",
+            "Thyroxine",
+            "Insulin",
+            "Estrogen"
+        ],
+        "answer": "Insulin"
+    },
+    {
+        "id": 9,
+        "question": "What is the outer protective layer of the eye called?",
+        "options": [
+            "Retina",
+            "Cornea",
+            "Iris",
+            "Lens"
+        ],
+        "answer": "Cornea"
+    },
+    {
+        "id": 10,
+        "question": "The process of breathing in is called:",
+        "options": [
+            "Exhalation",
+            "Ventilation",
+            "Inhalation",
+            "Respiration"
+        ],
+        "answer": "Inhalation"
+    },
+    {
+        "id": 11,
+        "question": "What is the main component of bones?",
+        "options": [
+            "Water",
+            "Protein",
+            "Calcium phosphate",
+            "Fat"
+        ],
+        "answer": "Calcium phosphate"
+    },
+    {
+        "id": 12,
+        "question": "Which part of the digestive system absorbs most of the nutrients from food?",
+        "options": [
+            "Stomach",
+            "Large intestine",
+            "Small intestine",
+            "Esophagus"
+        ],
+        "answer": "Small intestine"
+    },
+    {
+        "id": 13,
+        "question": "What is the voice box also known as?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Bronchi",
+            "Alveoli"
+        ],
+        "answer": "Larynx"
+    },
+    {
+        "id": 14,
+        "question": "Which gland is often called the 'master gland'?",
+        "options": [
+            "Thyroid gland",
+            "Adrenal gland",
+            "Pituitary gland",
+            "Pineal gland"
+        ],
+        "answer": "Pituitary gland"
+    },
+    {
+        "id": 15,
+        "question": "What is the muscle that separates the chest cavity from the abdominal cavity?",
+        "options": [
+            "Diaphragm",
+            "Intercostal muscles",
+            "Pectoralis major",
+            "Rectus abdominis"
+        ],
+        "answer": "Diaphragm"
+    },
+    {
+        "id": 16,
+        "question": "What is the basic structural and functional unit of the nervous system?",
+        "options": [
+            "Neuron",
+            "Epithelial cell",
+            "Muscle fiber",
+            "Connective tissue"
+        ],
+        "answer": "Neuron"
+    },
+    {
+        "id": 17,
+        "question": "Which vitamin is essential for blood clotting?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin K"
+        ],
+        "answer": "Vitamin K"
+    },
+    {
+        "id": 18,
+        "question": "What is the process by which the body maintains a stable internal environment called?",
+        "options": [
+            "Metabolism",
+            "Respiration",
+            "Homeostasis",
+            "Digestion"
+        ],
+        "answer": "Homeostasis"
+    },
+    {
+        "id": 19,
+        "question": "What is the name of the tube that carries urine from the kidney to the bladder?",
+        "options": [
+            "Urethra",
+            "Ureter",
+            "Nephron",
+            "Renal artery"
+        ],
+        "answer": "Ureter"
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is not a type of muscle tissue?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Nervous"
+        ],
+        "answer": "Nervous"
+    }
+]

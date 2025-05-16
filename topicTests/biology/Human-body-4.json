@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary function of the large intestine?",
+        "options": [
+            "Absorbing nutrients",
+            "Producing hormones",
+            "Absorbing water",
+            "Digesting proteins"
+        ],
+        "answer": "Absorbing water"
+    },
+    {
+        "id": 2,
+        "question": "What is the name of the bone in the upper arm?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Humerus",
+            "Scapula"
+        ],
+        "answer": "Humerus"
+    },
+    {
+        "id": 3,
+        "question": "Which gas is expelled during exhalation?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "id": 4,
+        "question": "What is the function of the lymphatic system?",
+        "options": [
+            "Transporting oxygen",
+            "Filtering waste from blood",
+            "Immunity and fluid balance",
+            "Digesting fats"
+        ],
+        "answer": "Immunity and fluid balance"
+    },
+    {
+        "id": 5,
+        "question": "Where are the adrenal glands located?",
+        "options": [
+            "Above the kidneys",
+            "In the neck",
+            "In the brain",
+            "Below the stomach"
+        ],
+        "answer": "Above the kidneys"
+    },
+    {
+        "id": 6,
+        "question": "What is the name of the bone in the thigh?",
+        "options": [
+            "Tibia",
+            "Fibula",
+            "Femur",
+            "Patella"
+        ],
+        "answer": "Femur"
+    },
+    {
+        "id": 7,
+        "question": "Which part of the eye controls the amount of light entering?",
+        "options": [
+            "Pupil",
+            "Sclera",
+            "Iris",
+            "Retina"
+        ],
+        "answer": "Iris"
+    },
+    {
+        "id": 8,
+        "question": "What is the function of cilia in the respiratory system?",
+        "options": [
+            "Gas exchange",
+            "Filtering air",
+            "Moving mucus",
+            "Producing sound"
+        ],
+        "answer": "Moving mucus"
+    },
+    {
+        "id": 9,
+        "question": "What is the name of the voice box?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Esophagus"
+        ],
+        "answer": "Larynx"
+    },
+    {
+        "id": 10,
+        "question": "Which mineral is essential for the formation of thyroid hormones?",
+        "options": [
+            "Iron",
+            "Calcium",
+            "Iodine",
+            "Zinc"
+        ],
+        "answer": "Iodine"
+    },
+    {
+        "id": 11,
+        "question": "What is the membrane that lines the abdominal cavity called?",
+        "options": [
+            "Pleura",
+            "Pericardium",
+            "Peritoneum",
+            "Meninges"
+        ],
+        "answer": "Peritoneum"
+    },
+    {
+        "id": 12,
+        "question": "What is the name of the kneecap bone?",
+        "options": [
+            "Tibia",
+            "Fibula",
+            "Patella",
+            "Tarsal"
+        ],
+        "answer": "Patella"
+    },
+    {
+        "id": 13,
+        "question": "Which type of blood vessel carries blood away from the heart?",
+        "options": [
+            "Vein",
+            "Artery",
+            "Capillary",
+            "Venule"
+        ],
+        "answer": "Artery"
+    },
+    {
+        "id": 14,
+        "question": "What is the primary function of melanin?",
+        "options": [
+            "Blood clotting",
+            "Protecting against UV radiation",
+            "Transporting oxygen",
+            "Insulating the body"
+        ],
+        "answer": "Protecting against UV radiation"
+    },
+    {
+        "id": 15,
+        "question": "Where does the digestion of proteins primarily begin?",
+        "options": [
+            "Mouth",
+            "Stomach",
+            "Small intestine",
+            "Large intestine"
+        ],
+        "answer": "Stomach"
+    },
+    {
+        "id": 16,
+        "question": "What is the name of the largest artery in the human body?",
+        "options": [
+            "Pulmonary artery",
+            "Aorta",
+            "Carotid artery",
+            "Femoral artery"
+        ],
+        "answer": "Aorta"
+    },
+    {
+        "id": 17,
+        "question": "Which part of the brain is associated with memory?",
+        "options": [
+            "Cerebellum",
+            "Hippocampus",
+            "Pons",
+            "Medulla"
+        ],
+        "answer": "Hippocampus"
+    },
+    {
+        "id": 18,
+        "question": "What is the fluid that surrounds and cushions the brain and spinal cord?",
+        "options": [
+            "Lymph",
+            "Synovial fluid",
+            "Cerebrospinal fluid",
+            "Plasma"
+        ],
+        "answer": "Cerebrospinal fluid"
+    },
+    {
+        "id": 19,
+        "question": "What are the tiny air sacs in the lungs where gas exchange occurs called?",
+        "options": [
+            "Bronchi",
+            "Bronchioles",
+            "Alveoli",
+            "Trachea"
+        ],
+        "answer": "Alveoli"
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is a fat-soluble vitamin?",
+        "options": [
+            "Vitamin C",
+            "Vitamin B1",
+            "Vitamin D",
+            "Vitamin B6"
+        ],
+        "answer": "Vitamin D"
+    }
+]

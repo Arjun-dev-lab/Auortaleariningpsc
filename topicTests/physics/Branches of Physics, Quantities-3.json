@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "The study of motion and its causes falls under which branch of physics?",
+        "options": [
+            "Optics",
+            "Thermodynamics",
+            "Mechanics",
+            "Electromagnetism"
+        ],
+        "answer": "Mechanics"
+    },
+    {
+        "id": 2,
+        "question": "What is anything that has mass and takes up space called?",
+        "options": [
+            "Energy",
+            "Force",
+            "Matter",
+            "Vacuum"
+        ],
+        "answer": "Matter"
+    },
+    {
+        "id": 3,
+        "question": "What is the SI unit of length?",
+        "options": [
+            "Kilogram",
+            "Second",
+            "Meter",
+            "Newton"
+        ],
+        "answer": "Meter"
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is a derived physical quantity?",
+        "options": [
+            "Mass",
+            "Time",
+            "Velocity",
+            "Length"
+        ],
+        "answer": "Velocity"
+    },
+    {
+        "id": 5,
+        "question": "The branch of physics dealing with the properties and interactions of light is called:",
+        "options": [
+            "Acoustics",
+            "Optics",
+            "Nuclear Physics",
+            "Solid-state Physics"
+        ],
+        "answer": "Optics"
+    },
+    {
+        "id": 6,
+        "question": "In which state of matter are particles tightly packed and have a definite shape and volume?",
+        "options": [
+            "Gas",
+            "Liquid",
+            "Solid",
+            "Plasma"
+        ],
+        "answer": "Solid"
+    },
+    {
+        "id": 7,
+        "question": "What is the SI unit of mass?",
+        "options": [
+            "Gram",
+            "Pound",
+            "Kilogram",
+            "Slug"
+        ],
+        "answer": "Kilogram"
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a scalar quantity?",
+        "options": [
+            "Force",
+            "Acceleration",
+            "Speed",
+            "Momentum"
+        ],
+        "answer": "Speed"
+    },
+    {
+        "id": 9,
+        "question": "The study of sound and its properties is called:",
+        "options": [
+            "Optics",
+            "Acoustics",
+            "Thermodynamics",
+            "Mechanics"
+        ],
+        "answer": "Acoustics"
+    },
+    {
+        "id": 10,
+        "question": "In which state of matter do particles have a definite volume but no definite shape?",
+        "options": [
+            "Solid",
+            "Gas",
+            "Liquid",
+            "Plasma"
+        ],
+        "answer": "Liquid"
+    },
+    {
+        "id": 11,
+        "question": "What is the SI unit of time?",
+        "options": [
+            "Minute",
+            "Hour",
+            "Second",
+            "Millisecond"
+        ],
+        "answer": "Second"
+    },
+    {
+        "id": 12,
+        "question": "Which of the following is a vector quantity?",
+        "options": [
+            "Distance",
+            "Work",
+            "Velocity",
+            "Energy"
+        ],
+        "answer": "Velocity"
+    },
+    {
+        "id": 13,
+        "question": "The study of heat and its relation to other forms of energy is called:",
+        "options": [
+            "Optics",
+            "Mechanics",
+            "Thermodynamics",
+            "Electromagnetism"
+        ],
+        "answer": "Thermodynamics"
+    },
+    {
+        "id": 14,
+        "question": "In which state of matter do particles have neither a definite shape nor a definite volume?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": "Gas"
+    },
+    {
+        "id": 15,
+        "question": "What is the SI unit of electric current?",
+        "options": [
+            "Volt",
+            "Ohm",
+            "Ampere",
+            "Watt"
+        ],
+        "answer": "Ampere"
+    },
+    {
+        "id": 16,
+        "question": "The rate of change of velocity is called:",
+        "options": [
+            "Speed",
+            "Distance",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": "Acceleration"
+    },
+    {
+        "id": 17,
+        "question": "The study of electricity and magnetism is called:",
+        "options": [
+            "Acoustics",
+            "Optics",
+            "Electromagnetism",
+            "Nuclear Physics"
+        ],
+        "answer": "Electromagnetism"
+    },
+    {
+        "id": 18,
+        "question": "What is the fourth state of matter, consisting of ionized gas?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": "Plasma"
+    },
+    {
+        "id": 19,
+        "question": "What is the SI unit of temperature?",
+        "options": [
+            "Celsius",
+            "Fahrenheit",
+            "Kelvin",
+            "Rankine"
+        ],
+        "answer": "Kelvin"
+    },
+    {
+        "id": 20,
+        "question": "The shortest distance between the initial and final position is called:",
+        "options": [
+            "Distance",
+            "Speed",
+            "Displacement",
+            "Velocity"
+        ],
+        "answer": "Displacement"
+    }
+]

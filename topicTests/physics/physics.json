@@ -16,5 +16,29 @@
         "title": "Random Physics - 3 (Malayalam)",
         "total_questions": 20,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/random-3.json"
+    },
+    {
+        "id": 4,
+        "title": "Branches of Physics, Quantities - 1 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/Branches%20of%20Physics%2C%20Quantities-1.json"
+    },
+    {
+        "id": 5,
+        "title": "Branches of Physics, Quantities - 2 (Malayalam)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/Branches%20of%20Physics%2C%20Quantities-2.json"
+    },
+    {
+        "id": 6,
+        "title": "Branches of Physics, Quantities - 3 (English)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/Branches%20of%20Physics%2C%20Quantities-3.json"
+    },
+    {
+        "id": 7,
+        "title": "Branches of Physics, Quantities - 4 (English)",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/Branches%20of%20Physics%2C%20Quantities-4.json"
     }
 ]
