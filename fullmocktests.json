@@ -7,13 +7,13 @@
     },
     {
         "id": 2,
-        "title": "10th prelims",
+        "title": "10th prelims 1",
         "total_questions": 100,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/fullTest/10th-prelims-1.json"
     },
     {
         "id": 3,
-        "title": "10th prelims",
+        "title": "10th prelims 2",
         "total_questions": 100,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/fullTest/10th-prilims-2.json"
     }

@@ -8,13 +8,13 @@
     },
     {
         "id": 2,
-        "title": "Noun",
+        "title": "Noun (1)",
         "total_questions": 30,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/english/noun-1.json"
     },
     {
         "id": 3,
-        "title": "Noun",
+        "title": "Noun (2)",
         "total_questions": 30,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/english/noun-2.json"
     },
