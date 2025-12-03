@@ -1,5 +1,11 @@
 [
     {
+        "id": 7,
+        "title": "LP UP Revision",
+        "total_questions": 0,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/LP UP REVISION/Revision.json"
+    },
+    {
         "id": 1,
         "title": "English",
         "total_questions": 120,
@@ -40,11 +46,5 @@
         "title": "Mathematics",
         "total_questions": 30,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/mathematics/mathamatics.json"
-    },
-    {
-        "id": 7,
-        "title": "LP UP Revision",
-        "total_questions": 0,
-        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/LP UP REVISION/Revision.json"
     }
 ]
