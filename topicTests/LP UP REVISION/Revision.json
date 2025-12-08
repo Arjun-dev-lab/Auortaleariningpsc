@@ -1,6 +1,13 @@
 [
     {
         "id": 1,
+        "title": "Psychology 1",
+        "total_questions": 20,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/LP UP REVISION/psychology/psychology 1.json"
+    
+    },
+    {
+        "id": 1,
         "title": "Chemical & Physical Changes",
         "total_questions": 20,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/LP UP REVISION/Chemistry/changes.json"
