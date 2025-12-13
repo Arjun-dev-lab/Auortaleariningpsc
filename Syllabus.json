@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "heading": "Assistant Engineer(Electrical)",
+    "heading": "Assistant Engineer(Electrical) Exam",
     "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/Assistant_Engineer_Electrical.json"
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "id": "3",
-    "heading": "Excise Inspector",
+    "heading": "Excise Inspector Exam",
     "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/EXCISE_INSPECTOR.json"
   },
   {
     "id": "4",
-    "heading": "LDC",
+    "heading": "LDC Exam",
     "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/LDC.json"
   },
   {
     "id": "5",
-    "heading": "LGS",
+    "heading": "LGS Exam",
     "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/LGS.json"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "id": "8",
-    "heading": "Secretariat assistant",
+    "heading": "Secretariat assistant Exam",
     "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/SECRETARIAT-ASSISTANT.JSON"
   },
   {
     "id": "9",
-    "heading": "University Assistant",
+    "heading": "University Assistant Exam",
     "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/syllabus/University_assistant.json"
   },
   {
