@@ -1,6 +1,12 @@
 [
     {
         "id": 1,
+        "title": "General Knowledge (22/12/2025)",
+        "total_questions": 10,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/fullTest/GK%201.json"
+    },
+    {
+        "id": 1,
         "title": "Mock test",
         "total_questions": 100,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/fullTest/secratriateassistant1.json"
