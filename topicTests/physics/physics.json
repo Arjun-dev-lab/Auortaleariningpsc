@@ -1,5 +1,11 @@
 [
     {
+        "id": 0,
+        "title": "ചലനം (Motion) (Malayalam)",
+        "total_questions": 30,
+        "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/physics/Motion.json"
+    },
+    {
         "id": 1,
         "title": "Random Physics - 1 (Malayalam)",
         "total_questions": 20,
