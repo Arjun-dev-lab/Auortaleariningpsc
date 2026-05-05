@@ -50,7 +50,7 @@
     {
         "id": 8,
         "title": "Constitution",
-        "total_questions": 30,
+        "total_questions": 60,
         "url": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/topicTests/constitution/constitution.json"
     }
 ]
