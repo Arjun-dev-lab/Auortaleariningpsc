@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Quiz Video Maker</title>
+
+<style>
+body {
+    font-family: Arial;
+    background: #f5f1ea;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+/* 🔥 TOP CONTROLS */
+.top-controls {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* 🔥 QUESTION CANVAS */
+.card {
+    width: 700px;
+    height: 350px;
+    margin: 40px auto;
+    background: #bfa98f;
+    padding: 30px;
+    border-radius: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    transition: 0.3s;
+}
+
+/* 🔥 SHORTS SIZE */
+.card.shorts {
+    width: 420px;
+    height: 740px;
+    transform: rotate(90deg);
+}
+
+/* 🔥 NORMAL VIDEO SIZE */
+.card.normal {
+    width: 700px;
+    height: 350px;
+}
+
+/* Question */
+.question {
+    font-size: 24px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+/* 🔥 OPTIONS DOWN ORDER */
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Option Box */
+.option {
+    padding: 14px;
+    border-radius: 20px;
+    background: #e8e0d5;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 18px;
+}
+
+.correct {
+    background: green !important;
+    color: white;
+}
+
+/* 🔥 BUTTON ROW */
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 20px;
+    background: #333;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #555;
+}
+
+select {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>YOUTUBE VIDEO MAKER</h1>
+
+<!-- 🔥 VIDEO SIZE SELECT -->
+<div class="top-controls">
+
+    <input type="file" id="jsonFile" accept=".json">
+
+    <br><br>
+
+    <select id="videoType" onchange="changeVideoType()">
+        <option value="normal">Normal Video</option>
+        <option value="shorts">YouTube Shorts</option>
+    </select>
+
+</div>
+
+<!-- 🔥 QUESTION CANVAS -->
+<div class="card normal" id="questionCard">
+
+    <div class="question" id="question">
+        Question appear here
+    </div>
+
+    <div class="options" id="options"></div>
+
+</div>
+
+<!-- 🔥 BUTTONS -->
+<div class="controls">
+    <button onclick="prevQuestion()">⬅ Previous</button>
+    <button onclick="showAnswer()">Show Answer</button>
+    <button onclick="nextQuestion()">Next ➡</button>
+</div>
+
+<script>
+
+let questions = [];
+let currentIndex = 0;
+
+/* 🔥 LOAD JSON */
+document.getElementById("jsonFile").addEventListener("change", function(event) {
+
+    const file = event.target.files[0];
+    const reader = new FileReader();
+
+    reader.onload = function(e) {
+
+        questions = JSON.parse(e.target.result);
+        currentIndex = 0;
+        loadQuestion();
+
+    };
+
+    reader.readAsText(file);
+
+});
+
+/* 🔥 LOAD QUESTION */
+function loadQuestion() {
+
+    if (questions.length === 0) return;
+
+    const q = questions[currentIndex];
+
+    document.getElementById("question").innerText = q.question;
+
+    const optionsDiv = document.getElementById("options");
+
+    optionsDiv.innerHTML = "";
+
+    q.options.forEach(opt => {
+
+        const div = document.createElement("div");
+
+        div.classList.add("option");
+
+        div.innerText = opt;
+
+        optionsDiv.appendChild(div);
+
+    });
+
+}
+
+/* 🔥 SHOW ANSWER */
+function showAnswer() {
+
+    const q = questions[currentIndex];
+
+    const options = document.querySelectorAll(".option");
+
+    options.forEach(opt => {
+
+        opt.classList.remove("correct");
+
+        if (opt.innerText.trim() === q.answer.trim()) {
+
+            opt.classList.add("correct");
+
+        }
+
+    });
+
+}
+
+/* 🔥 NEXT */
+function nextQuestion() {
+
+    if (currentIndex < questions.length - 1) {
+
+        currentIndex++;
+
+        loadQuestion();
+
+    }
+
+}
+
+/* 🔥 PREVIOUS */
+function prevQuestion() {
+
+    if (currentIndex > 0) {
+
+        currentIndex--;
+
+        loadQuestion();
+
+    }
+
+}
+
+/* 🔥 CHANGE VIDEO TYPE */
+function changeVideoType() {
+
+    const type = document.getElementById("videoType").value;
+
+    const card = document.getElementById("questionCard");
+
+    if (type === "shorts") {
+
+        card.classList.remove("normal");
+
+        card.classList.add("shorts");
+
+    } else {
+
+        card.classList.remove("shorts");
+
+        card.classList.add("normal");
+
+    }
+
+}
+
+</script>
+
+</body>
+</html>

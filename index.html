@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JSON Question Viewer</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #1e1e2f;
+      color: white;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    input, label {
+      margin: 10px 5px;
+    }
+
+    .controls {
+      margin: 15px 0;
+    }
+
+    .question {
+      background: #2c2c3e;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-radius: 6px;
+    }
+
+    .option {
+      margin-left: 15px;
+      color: #ccc;
+    }
+
+    .answer {
+      margin-left: 15px;
+      color: #4CAF50;
+      font-weight: bold;
+    }
+
+    .error {
+      color: red;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>JSON Question Viewer</h1>
+
+<input type="file" id="fileInput" accept=".json">
+
+<div class="controls">
+  <label><input type="checkbox" id="showOptions" checked> Show Options</label>
+  <label><input type="checkbox" id="showAnswer"> Show Answer</label>
+</div>
+
+<div id="error" class="error"></div>
+<div id="output"></div>
+
+<script>
+let jsonData = [];
+
+document.getElementById("fileInput").addEventListener("change", function(event) {
+  const file = event.target.files[0];
+  const reader = new FileReader();
+  const errorDiv = document.getElementById("error");
+
+  if (!file) return;
+
+  reader.onload = function(e) {
+    try {
+      jsonData = JSON.parse(e.target.result);
+      errorDiv.textContent = "";
+      render();
+    } catch (err) {
+      document.getElementById("output").innerHTML = "";
+      errorDiv.textContent = "Invalid JSON file!";
+    }
+  };
+
+  reader.readAsText(file);
+});
+
+document.getElementById("showOptions").addEventListener("change", render);
+document.getElementById("showAnswer").addEventListener("change", render);
+
+function render() {
+  const output = document.getElementById("output");
+  const showOptions = document.getElementById("showOptions").checked;
+  const showAnswer = document.getElementById("showAnswer").checked;
+
+  output.innerHTML = "";
+
+  jsonData.forEach((item, index) => {
+    const div = document.createElement("div");
+    div.className = "question";
+
+    let html = `<strong>${index + 1}. ${item.question || ""}</strong>`;
+
+    // Options
+    if (showOptions && item.options) {
+      const letters = ["A", "B", "C", "D"];
+      item.options.forEach((opt, i) => {
+        html += `<div class="option">${letters[i]}. ${opt}</div>`;
+      });
+    }
+
+    // Answer
+    if (showAnswer && item.answer) {
+      html += `<div class="answer">✔ Answer: ${item.answer}</div>`;
+    }
+
+    div.innerHTML = html;
+    output.appendChild(div);
+  });
+}
+</script>
+
+</body>
+</html>
