@@ -1,4 +1,28 @@
 [
+  {
+      "id": "1",
+      "heading": "PSC Previous Question Papers",
+      "chapters": "17",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/previous%20questions.json"
+    },
+    {
+      "id": "2",
+      "heading": "Ktet Previous Question Cat 1",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/ktet%20previous%20cat%201.json"
+    },
+    {
+      "id": "3",
+      "heading": "Ktet Previous Question Cat 2",
+      "chapters": "10",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/ktet%20previous%20cat%202.json"
+    },
+    {
+      "id": "4",
+      "heading": "Ktet Previous Question Cat 3",
+      "chapters": "14",
+      "jsonUrl": "https://raw.githubusercontent.com/Arjun-dev-lab/Auortaleariningpsc/main/Notes/ktet%20previous%20cat%203.json"
+    },
     {
       "id": "1",
       "heading": "History",
